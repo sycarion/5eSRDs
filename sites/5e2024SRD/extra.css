@@ -1,0 +1,18 @@
+   :root {
+     --md-primary-fg-color: #C73032;
+     --md-primary-fg-color--light: #51A5C5;
+     --md-primary-fg-color--dark: #992E2E;
+     --md-accent-fg-color: #B59E54;
+   }
+   
+     table {
+       table-layout: fixed; /* Forces columns to have a fixed width */
+       max-width: 100%;    /* Prevents tables from overflowing the container */
+     }
+     .md-typeset code {
+       overflow-wrap: break-word; /* Allows long words in code cells to wrap */
+     .md-typeset table:not([class]) th,
+	 .md-typeset table:not([class]) td {
+    padding: 4px 4px;
+    	}
+     }
