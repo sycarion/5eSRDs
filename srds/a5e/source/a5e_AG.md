@@ -716,7 +716,7 @@ Characters raised in the caravanner culture share a variety of traits in common 
 
 **Caravanner.** You are proficient in Animal Handling and with land vehicles.
 
-**Long Hauler.** You have proficiency in Survival. In addition, you have advantage on checks made to avoid fatigue from a forced march.
+**Long Hauler.** You have proficiency in Survival. In addition, you have advantage on saving throws made to avoid fatigue from a forced march.
 
 **Mobile Living.** You can create a ramshackle version of a cart or wagon with 30 minutes of work if you have
 
@@ -6224,15 +6224,15 @@ Also starting at 3rd level, while you are not wearing armor or wielding a shield
 
 Parry and Thrust
 
-Starting at 7th level, you treat any weapon with the Finesse property as if it also had the Parrying property. In addition, whenever you add an expertise die to your AC using a parrying weapon and the triggering attack misses you, you can immediately spend 1 exertion to make a melee weapon attack against the creature that attacked you.
+Starting at 7th level, you treat any weapon with the Finesse property as if it also had the Parrying property. In addition, whenever you add an expertise die to your AC using a parrying weapon and the triggering attack misses you, you can immediately spend an exertion point to make a melee weapon attack against the creature that attacked you.
 
-Duelist�s Challenge
+Duelist's Challenge
 
 Starting at 10th level, you can use a bonus action to expend a use of Panache to challenge a creature within 30 feet to an honorable duel. Once you challenge a creature in this way, you have disadvantage on attacks against creatures other than the challenged creature, and the challenged creature has disadvantage on attacks against creatures other than you. A creature remains challenged in this way until either you or the challenged creature is incapacitated, dies, or ends their turn out of line of sight from the other. The challenge also ends if you use this feature again to challenge a different creature, or if a third creature challenges either you or your challenged creature.
 
 Elusive
 
-Starting at 15th level, your movement out of a creature�s threatened area does not provoke opportunity attacks. In addition, whenever you parry an attack using a parrying weapon, the expertise die to your AC increases by one step.
+Starting at 15th level, your movement out of a creature's threatened area does not provoke opportunity attacks. In addition, whenever you parry an attack using a parrying weapon, the expertise die to your AC increases by one stage.
 
 Master Duelist
 
@@ -6825,9 +6825,7 @@ Aura of the Champion
 
 Beginning at 7th level, you gain a third aura that is active alongside your Sacred Aura and has the same range. Choose one of the following options.
 
-***Aura of Darkness.*** After initiative is rolled, when a hostile creature starts its
-
-turn in your aura or first enters into it on a turn, it must succeed on a Wisdom saving throw or become frightened of you for 1 minute. Once a creature has been frightened by this aura, it is immune to the aura�s effects for 24 hours.
+***Aura of Darkness.*** After initiative is rolled, when a hostile creature first enters into your aura, it makes a Wisdom saving throw or becomes frightened of you until the end of its next turn. Once a creature has been frightened by this aura, it is immune to the aura's effects for 24 hours.
 
 ***Aura of Light.*** An unconscious ally with 0 hit points that starts its turn in your aura automatically succeeds on the first death saving throw it makes that turn. Once a creature succeeds on three death saving throws while in your aura, it can�t benefit from this effect again until it finishes a long rest.
 
@@ -7858,7 +7856,7 @@ If you spend 1 minute without moving, you can deduce information about your envi
 
 ##### Expert Foraging
 
-Once between long rests, you can spend 1 minute to collect a number of edible, non-poisonous plants and grubs equal to your proficiency bonus. A creature can use its action to eat up to five plants or grubs, each of which restores 1 hit point and constitutes 1 Supply. The plants and grubs spoil 1 hour after being collected.
+Once between long rests, you can take 1 minute to collect a number of edible, non-poisonous plants and grubs equal to your proficiency bonus. A creature can use its action to eat up to five plants or grubs, each of which restores 1 hit point. The grubs die and spoil 1 hour after being collected.
 
 ##### Forced Marcher
 
@@ -7917,10 +7915,6 @@ Once you have successfully picked up the tracks of a creature, you can follow th
 *Prerequisite: 5th level*
 
 Once between long rests, you can focus your attention on peripheral sights, sounds, and other signs of unseen passage. For the next hour, you can detect invisible creatures and objects, their location, movement, and actions, and even sense creatures and objects in the Ethereal Plane.
-
-##### Survivalist
-
-When traveling, you can undertake two journey activities instead of one. Both activities must be from the following list: Befriend Animal, Harvest, Hunt and Gather, Scout.
 
 ## RANGER ARCHETYPES
 
@@ -9494,7 +9488,9 @@ restrains creatures and is flammable.
 
 ##### Proficiencies
 
-**Armor:** Light armor **Weapons:** Simple weapons **Tools:** Game set (any)
+**Armor:** Light armor **Weapons:** Simple weapons 
+
+**Tools:** Game set (any)
 
 **Saving Throws:** Intelligence, Wisdom
 
@@ -10530,7 +10526,7 @@ As a warlock you can choose from the following spells.
 
 |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **LEVEL** | **CANTRIP S KNOWN** | **1ST** | **2N D** | **3RD** | **4T H** | **5TH 6TH** | | **7TH** | **8T H** | **9TH** |
+| **LEVEL** | **CANTRIP S KNOWN** | **1ST** | **2N D** | **3RD** | **4T H** | **5TH** | **6TH** | **7TH** | **8T H** | **9TH** |
 | 1 | 3 | 2 | � | � | � | � | � | � | � | � |
 | 2 | 3 | 3 | � | � | � | � | � | � | � | � |
 | 3 | 3 | 4 | 2 | � | � | � | � | � | � | � |
@@ -12993,7 +12989,6 @@ this movement. This action cannot be performed while the vehicle has momentum.
 
 * **Ahead Full:** The vehicle moves one and a half times its movement speed directly forward. The vehicle gains momentum. If the vehicle would roll for a malfunction before it is used to take another action, it rolls twice on that table instead (reroll any duplicate results).
 * **Brake:** The vehicle moves half of its movement speed directly forward, then it loses momentum.
-* **Stop:** The vehicle comes to a complete stop. This action cannot be taken while the vehicle has momentum.
 
 **Momentum.** At initiative count 20, all vehicles with momentum move half their movement speed directly forward. A vehicle�s momentum ends automatically after 1 minute if no actions are taken with it.
 
@@ -16507,7 +16502,7 @@ A doomed creature has sustained damage to their body, mind, and spirit that puts
 
 removed, only powerful spells such as *regeneration* or *resurrection* can spare it from death or restore it to life.
 
-Suffering the effects of seven or more levels of fatigue is one way to become doomed; however at the Narrator�s discretion a creature might become doomed for any number of other reasons.
+Suffering the effects of seven or more levels of fatigue is one way to become doomed; however at the Narrator's discretion a creature might become doomed for any number of other reasons.
 
 The doomed condition is described in Conditions.
 
@@ -18235,9 +18230,7 @@ When casting a spell using a higher-level spell slot that the spell provides no 
 
 Some magic items allow characters to cast certain spells without expending spell slots.
 
-A magical spell scroll allows a character to cast a single spell, if the spell is on the character�s spell list. After the spell is cast, the scroll loses its magic. A character who uses a magical scroll can cast it at a higher level, or even cast a spell of a higher level than the character can normally cast, by making an ability check, using their spellcasting ability against a DC of 10 + the level at which they cast the spell. On a failure, the scroll loses its magic. A character may increase the spell�s casting time by 12 hours in a magical stronghold appropriate to their class, such as a
-
-wizard�s tower or a cleric�s temple. If they do so, they gain a bonus to their spellcasting ability check equal to the grade of the stronghold.
+A magical spell scroll allows a character to cast a single spell, if the spell is on the character�s spell list. After the spell is cast, the scroll loses its magic. A character who uses a magical scroll can cast it at a higher level, or even cast a spell of a higher level than the character can normally cast, by making an ability check, using their spellcasting ability against a DC of 10 + the level at which they cast the spell. On a failure, the scroll loses its magic. A character may increase the spell�s casting time by 12 hours in a magical stronghold appropriate to their class, such as a wizard's tower or a cleric's temple. If they do so, they gain a bonus to their spellcasting ability check equal to the grade of the stronghold.
 
 Character abilities granted by class or heritage may also grant the innate ability to cast spells without using spell slots.
 
@@ -20239,13 +20232,13 @@ Your magic turns one serving of food or water into 3 Supply. The food is nourish
 
 **Components:** V, S, M (drop of water to create water or grains of sand to destroy it)
 
-**Duration:** Instantaneous Choose one of the following.
+**Duration:** Instantaneous
 
-*Create Water:* You fill the area with up to 10 gallons of nonpotable water.
+Choose one of the following.
 
-Alternatively, the water falls as rain that extinguishes exposed flames in the area.
+*Create Water:* You fill the area with up to 10 gallons of nonpotable water. Alternatively, the water falls as rain that extinguishes exposed flames in the area.
 
-*Destroy Water:* You destroy up to 10 gallons of water in the area. Alternatively, you destroy fog in the area.
+*Destroy Water:* You destroy up to 10 gallons of water in the target. Alternatively, you destroy fog in the area.
 
 **Cast at Higher Levels.** For each slot level above 1st, you either create or destroy 10 additional gallons of water, or the size of the cube increases by 5 feet.
 
@@ -21551,7 +21544,7 @@ After casting this spell on the same area for 30 consecutive days it becomes per
 
 **Duration:** 1 hour
 
-An opaque cube of banded force surrounds the area, preventing any matter or spells from passing through it, though creatures can breathe inside it. Creatures that make a Dexterity saving throw and creatures that are only partially inside the area are pushed out of the area. Any other creature is trapped and can�t leave by nonmagical means. The cage also traps creatures on the Ethereal Plane, and can only be destroyed by being dealt at least 25 force damage at once or by a *dispel magic* spell cast using an 8th-level or higher spell slot.
+An opaque cube of banded force surrounds the area, preventing any matter or spells from passing through it, though creatures can breathe inside it. Creatures that make a Dexterity saving throw and creatures that are only partially inside the area are pushed out of the area. Any other creature is trapped and can't leave by nonmagical means. The cage also traps creatures on the Ethereal Plane, and can only be destroyed by a *dispel magic* spell cast using an 8th-level or higher spell slot or by being dealt at least 25 force damage in one round by a single attack or from a single effect or 
 
 If a trapped creature tries to teleport or travel to another plane, it makes a Charisma saving throw. On a failure, the attempt fails and the spell or effect is wasted.
 
@@ -21749,7 +21742,7 @@ When you cast this spell, you can speak the true name of a specific creature (no
 
 *5th-level (enchantment; arcane, compulsion, divine, law)*
 
-**Classes:** Bard, cleric, druid, herald, wizard
+**Classes:** Cleric, herald, warlock, wizard
 
 **Casting Time:** 1 minute **Range:** Medium (60 feet) **Target:** One creature **Components:** V, S **Duration:** 30 days
 
