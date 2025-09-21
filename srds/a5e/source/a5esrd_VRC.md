@@ -6,9 +6,9 @@
 
 **Engineering**. The existing Engineering skill adds *robotics* and *starships* to its list of specialties.
 
-**Science.** Science is a broad skill measuring a characterís aptitude or knowledge of the hard or advanced sciences that arenít covered by Engineering, Nature, or Medicine, and how to apply them to best effect. Specialties include *chemistry, physics, astronomy, earth science*, and *mathematics*.
+**Science.** Science is a broad skill measuring a character√≠s aptitude or knowledge of the hard or advanced sciences that aren√≠t covered by Engineering, Nature, or Medicine, and how to apply them to best effect. Specialties include *chemistry, physics, astronomy, earth science*, and *mathematics*.
 
-**Tools.** Adding to the land and sea vehicle proficiencies, voidrunners may also have access to air and space vehicles, along with a range of specialist tools. The computers tool proficiency measures a characterís knowledge of automated systems and devices and allows them to operate electronics and machines.
+**Tools.** Adding to the land and sea vehicle proficiencies, voidrunners may also have access to air and space vehicles, along with a range of specialist tools. The computers tool proficiency measures a character√≠s knowledge of automated systems and devices and allows them to operate electronics and machines.
 
 **Weapons.** Added to simple, martial, and rare weapon proficiencies, characters may also gain proficiency in starship weapons.
 
@@ -16,9 +16,9 @@
 
 #### Languages
 
-While no civilization is a monolith, many planets have at least one ìofficialî language that government business is conducted in.
+While no civilization is a monolith, many planets have at least one √¨official√Æ language that government business is conducted in.
 
-Additionally, with the interconnectivity that starships and high technology bring, nearly every planet has been exposed to what is known as Common. The Narrator may include additional languages based on the gameís setting, but the following languages are a default part of the game: Common, Machine.
+Additionally, with the interconnectivity that starships and high technology bring, nearly every planet has been exposed to what is known as Common. The Narrator may include additional languages based on the game√≠s setting, but the following languages are a default part of the game: Common, Machine.
 
 # Heritage
 
@@ -28,7 +28,7 @@ Android
 
 All androids share common traits that set them apart from purely organic beings.
 
-**Age.** An androidís lifespan varies widely depending on its purpose. Some are constructed with predetermined lifespans, some built on organic frames that face insurmountable aging challenges, and others are potentially immortal with proper maintenance, upgrades, and care.
+**Age.** An android√≠s lifespan varies widely depending on its purpose. Some are constructed with predetermined lifespans, some built on organic frames that face insurmountable aging challenges, and others are potentially immortal with proper maintenance, upgrades, and care.
 
 **Size.** Small or Medium, unless otherwise stated by your gift.
 
@@ -64,11 +64,11 @@ You can select this trait a second time to gain an AC of 14 + your Dexterity mod
 
 You can select this trait a second time, gaining the ability to hover up to 5 feet off the ground and a fly speed equal to your normal Speed.
 
-Your carrying capacity is halved and you canít carry bulky items. Additionally, you suffer disadvantage when wielding
+Your carrying capacity is halved and you can√≠t carry bulky items. Additionally, you suffer disadvantage when wielding
 
-weapons without the light property and canít use shields or armor that havenít been made for you (this restriction doesnít apply to force shields). Customizing items or equipment for your size generally costs three times as much as the itemís standard price. Your base Speed is 25 feet.
+weapons without the light property and can√≠t use shields or armor that haven√≠t been made for you (this restriction doesn√≠t apply to force shields). Customizing items or equipment for your size generally costs three times as much as the item√≠s standard price. Your base Speed is 25 feet.
 
-**Enhanced Senses.** You gain proficiency and an expertise die in Perception. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You canít discern color in darkness, only shades of gray.
+**Enhanced Senses.** You gain proficiency and an expertise die in Perception. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can√≠t discern color in darkness, only shades of gray.
 
 **Expert Subroutines.** You gain proficiency in one of the following skills: Culture, Engineering, History, Nature, Science, or Religion. In addition, you gain a specialty of your choice in the chosen skill.
 
@@ -164,7 +164,7 @@ As a bonus action you can bellow a loud and frightening roar. Your roar affects 
 
 ##### Thick Fur
 
-Your fur is thick enough to protect you from attacks. While you arenít wearing armor, your AC equals 12 + your Constitution modifier. You can use a shield and still gain this benefit.
+Your fur is thick enough to protect you from attacks. While you aren√≠t wearing armor, your AC equals 12 + your Constitution modifier. You can use a shield and still gain this benefit.
 
 #### Axon Paragon
 
@@ -278,7 +278,7 @@ Houseki characters may choose one of the following gifts.
 
 ##### Color-change
 
-Whenever you take a long rest, you may alter the color of your crystalline body. You can only be one color all over, usually choosing from red, blue, green, and yellow. The color you choose grants you resistance to one damage typeñfire (red), cold (blue), acid (green), or radiant (yellow).
+Whenever you take a long rest, you may alter the color of your crystalline body. You can only be one color all over, usually choosing from red, blue, green, and yellow. The color you choose grants you resistance to one damage type√±fire (red), cold (blue), acid (green), or radiant (yellow).
 
 ##### Crystal Healing
 
@@ -334,13 +334,13 @@ Humans are highly adaptable. Their originally remarkable physical and mental end
 
 ##### Adapted
 
-As humans began to venture away from their world and explore the galaxy, they encountered hardships and challenges they never could have imaginedóand proved themselves to be one of the most adaptable species in the cosmos. Confronting each new hurdle head-on, humans began to tinker with their genetics, creating new adaptations capable of surviving anything the galaxy could throw at it. Through splicing non-human or synthetic DNA,
+As humans began to venture away from their world and explore the galaxy, they encountered hardships and challenges they never could have imagined√≥and proved themselves to be one of the most adaptable species in the cosmos. Confronting each new hurdle head-on, humans began to tinker with their genetics, creating new adaptations capable of surviving anything the galaxy could throw at it. Through splicing non-human or synthetic DNA,
 
 ancestors of these humans take human survival skills to a new frontier. Beyond basic survivability, you are adapted for one specific environment. You gain the following trait:
 
-*Just Like Home:* Choose one type of terrain, reflecting the area from which your family hails: arctic, desert, mountain, or swamp. You ignore all naturally created difficult terrain of that type. Additionally, you gain an expertise die on Survival checks made within this terrain type, and gain a type of damage resistance related to your chosen terrain: arcticócold, desertófire,
+*Just Like Home:* Choose one type of terrain, reflecting the area from which your family hails: arctic, desert, mountain, or swamp. You ignore all naturally created difficult terrain of that type. Additionally, you gain an expertise die on Survival checks made within this terrain type, and gain a type of damage resistance related to your chosen terrain: arctic√≥cold, desert√≥fire,
 
-mountainólightning, swampópoison.
+mountain√≥lightning, swamp√≥poison.
 
 ##### Diehard Survivor
 
@@ -350,11 +350,11 @@ Humans, in their stubbornness, can even pull themselves back from the brink of d
 
 **Feast and Famine.** You can tighten your belt during hard times. You can go a number of days equal to your Constitution modifier without suffering any fatigue from lack of Supply. Afterward you require twice as much Supply for as many days as you went without.
 
-**Radical Perseverance.** Through your sheer stubbornness and will to live, you sometimes manage to wriggle out of deathís grasp. You die after 4 failed death saving throws instead of 3.
+**Radical Perseverance.** Through your sheer stubbornness and will to live, you sometimes manage to wriggle out of death√≠s grasp. You die after 4 failed death saving throws instead of 3.
 
 ##### Ingenious Focus
 
-Not all human minds work the sameósome have a nearly miraculous level of focus.
+Not all human minds work the same√≥some have a nearly miraculous level of focus.
 
 People with this intellectual mode often bring a surprising level of insight and passion to almost any topic they engage. In spite of their brilliance, they typically have difficulty with more general awareness. You have the following traits:
 
@@ -376,7 +376,7 @@ highest level, or Intelligence if you have no levels in a manifesting class.
 
 ##### Spirited Traveler
 
-The power of movement is one of humanityís evolutionary advantages. An ancient human hunting strategy for killing fast game is persistence huntingófollowing prey relentlessly, shifting between walking and running endlessly until a beast became too exhausted to defend itself. Many humans maintain their health through running, and foot races are a universal favorite game. In a word, humans gifted at running will go far. You have the following traits:
+The power of movement is one of humanity√≠s evolutionary advantages. An ancient human hunting strategy for killing fast game is persistence hunting√≥following prey relentlessly, shifting between walking and running endlessly until a beast became too exhausted to defend itself. Many humans maintain their health through running, and foot races are a universal favorite game. In a word, humans gifted at running will go far. You have the following traits:
 
 **Desperate Dash.** When you take the Dash action, your movement this turn does not provoke opportunity attacks.
 
@@ -384,7 +384,7 @@ During this movement, you gain an expertise die on Athletics checks made to jump
 
 **Marathon Runner.** The first time between each long rest you would gain a level of fatigue, you do not gain that level of fatigue. You still suffer a level of fatigue from finishing a long rest without any Supply.
 
-**Sojournerís Fortitude.** You gain an expertise die on saving throws made to resist fatigue for marching longer than 8 hours.
+**Sojourner√≠s Fortitude.** You gain an expertise die on saving throws made to resist fatigue for marching longer than 8 hours.
 
 ##### Unbound
 
@@ -432,7 +432,7 @@ Hurroc Traits
 
 All characters with hurroc heritage share the following traits:
 
-**Age.** Hurrocs reach physical maturity at around 18ñ20 years of age and die of natural causes at around 150.
+**Age.** Hurrocs reach physical maturity at around 18√±20 years of age and die of natural causes at around 150.
 
 **Size.** Medium.
 
@@ -446,7 +446,7 @@ All characters with hurroc heritage share the following traits:
 
 Hurroc Gifts
 
-The hurrocsí survival prowess does not present in only one form. Like all heritages, they are varied and adaptable, filling a wide range of roles across the cosmos. Choose one of the following gifts.
+The hurrocs√≠ survival prowess does not present in only one form. Like all heritages, they are varied and adaptable, filling a wide range of roles across the cosmos. Choose one of the following gifts.
 
 ##### Adrenal Surge
 
@@ -464,9 +464,9 @@ The adrenaline which permeates your body lends you courage. You are immune to th
 
 ##### Resilient
 
-While all hurroc are physically tenacious, you have a particularly tough physique and determined mindset thatís unusually difficult to harm. You gain the following traits:
+While all hurroc are physically tenacious, you have a particularly tough physique and determined mindset that√≠s unusually difficult to harm. You gain the following traits:
 
-**Naturally Armored.** While you arenít wearing armor, your AC equals 13 + your Constitution modifier. You can use a shield and still gain this benefit.
+**Naturally Armored.** While you aren√≠t wearing armor, your AC equals 13 + your Constitution modifier. You can use a shield and still gain this benefit.
 
 **Diehard.** When you are reduced to 0 hit points, you are instead reduced to 1 hit point. You cannot use this trait again until you have taken a long rest.
 
@@ -544,7 +544,7 @@ After you use this trait, you must complete a long rest before you can use it ag
 
 #### Keridani Paragon
 
-It takes a lifetime of experience to master oneís mental abilities. Upon reaching 10th level, you gain one of the following paragon gifts.
+It takes a lifetime of experience to master one√≠s mental abilities. Upon reaching 10th level, you gain one of the following paragon gifts.
 
 ##### Ancestral Awakening
 
@@ -552,7 +552,7 @@ It takes a lifetime of experience to master oneís mental abilities. Upon reachin
 
 You can channel the skills and strengths of your forebears. Each time you use this feature, choose two ability scores to represent these ancestors. As a bonus action, you can gain an expertise die to all rolls using the chosen ability scores for 1
 
-minute. Once you have used this feature a number of times equal to your proficiency modifier, you canít do so again until you finish a long rest.
+minute. Once you have used this feature a number of times equal to your proficiency modifier, you can√≠t do so again until you finish a long rest.
 
 ##### Inscrutable Mind
 
@@ -642,7 +642,7 @@ Characters with the sipher heritage share the following traits:
 
 **Hiveminded.** You draw strength from the hivemind, gaining an expertise die when making an Intelligence, Wisdom, or Charisma saving throw. Once you have used this feature you cannot use it again until you have taken a long rest.
 
-**Insightful.** A sipherís life of connectivity grants them a natural intuitive empathy.
+**Insightful.** A sipher√≠s life of connectivity grants them a natural intuitive empathy.
 
 You gain an expertise die when making Insight checks.
 
@@ -652,7 +652,7 @@ While most siphers are born with a variety of ways to connect to and benefit fro
 
 ##### Core Child
 
-A sipher born particularly close to a planetís core amidst the heat, may have a particular kind of connection to such places. You have resistance to fire damage.
+A sipher born particularly close to a planet√≠s core amidst the heat, may have a particular kind of connection to such places. You have resistance to fire damage.
 
 Additionally, you are able to superheat yourself for one minute as a bonus action. While superheated, your skin glows red, and your unarmed attacks do fire damage. Any creature which touches you or which hits you with a natural weapon or unarmed attack automatically takes 1d6 fire damage. Once you have superheated yourself, you cannot do so again until you finish a long rest.
 
@@ -722,9 +722,9 @@ Characters raised in the artificial culture share a variety of traits in common 
 
 Characters raised in the backwater culture share a variety of traits in common with one another.
 
-***Blastiní Rats.*** You gain proficiency with rifles and land vehicles and gain an expertise die on checks to repair them, even if you do not have the appropriate tools.
+***Blastin√≠ Rats.*** You gain proficiency with rifles and land vehicles and gain an expertise die on checks to repair them, even if you do not have the appropriate tools.
 
-***Eye for Parts.*** Whether youíre at a spaceport, on a space station, or visiting an alien world, you know how to find parts and components for ships, weapons, and armor, as well as where to get the right parts at the right price.
+***Eye for Parts.*** Whether you√≠re at a spaceport, on a space station, or visiting an alien world, you know how to find parts and components for ships, weapons, and armor, as well as where to get the right parts at the right price.
 
 So long as you have two hours to work through junk yards and consignment shops, you can get almost any part or material component for 15% below market value.
 
@@ -744,7 +744,7 @@ Characters raised in the belter culture share a variety of traits in common with
 
 ***All Hands on Deck.*** From an early age you got to know the machines of your asteroid hopper, and as you grew up you were instructed on their care and maintenance. You gain proficiency in the Engineering skill and space vehicles. In addition, when you undertake the Repair journey activity, you count your result as one higher. Critical failures become failures, failures become successes, and successes become critical successes. If you roll a critical success, you can remove an additional critical malfunction of your choice.
 
-***Gauge Threat.*** Growing up on asteroid hoppers and the space stations where you dropped your cargo, you learned how to pick out the petty toughs from the actual threats. You can use an action to make an Insight check against a DC equal to the targetís passive Deception check score (or an Engineering check in the case of androids and other constructs) against a creature you can see within 60 feet. On a success, you learn the creatureís Challenge Rating. (or level in the case of a creature with character levels).
+***Gauge Threat.*** Growing up on asteroid hoppers and the space stations where you dropped your cargo, you learned how to pick out the petty toughs from the actual threats. You can use an action to make an Insight check against a DC equal to the target√≠s passive Deception check score (or an Engineering check in the case of androids and other constructs) against a creature you can see within 60 feet. On a success, you learn the creature√≠s Challenge Rating. (or level in the case of a creature with character levels).
 
 ***Vent-Rat.*** As a child and young adult you got skilled at hiding in cramped spaces, particularly if you were boarded. You gain an expertise die when making a Stealth check in cramped spaces and can move at full speed while squeezing.
 
@@ -794,7 +794,7 @@ Characters raised in an honorbound culture share a variety of traits in common w
 
 ***Gentler Pursuits.*** While combat and physical capabilities are important to your culture, there is little respect for one who spurns intellect and beauty.
 
-You are proficient with your choice of either Culture, Performance, two musical instruments, or two artisanís tools.
+You are proficient with your choice of either Culture, Performance, two musical instruments, or two artisan√≠s tools.
 
 ***Peak Performance.*** You have trained relentlessly to become a paragon of physical capability. Choose two from Athletics, Acrobatics, or Intimidation.
 
@@ -846,7 +846,7 @@ Characters raised in a militant culture share a variety of traits in common with
 
 Characters raised in a pre-industrial culture share a variety of traits in common with one another.
 
-***Rural Life.*** You are proficient in Animal Handling, Nature, and Survival. Additionally, you are proficient in your choice of an artisanís tool, a musical instrument, or smithís tools.
+***Rural Life.*** You are proficient in Animal Handling, Nature, and Survival. Additionally, you are proficient in your choice of an artisan√≠s tool, a musical instrument, or smith√≠s tools.
 
 ***Simple Cooking.*** You gain an expertise die on saving throws made to resist the effects of poisons.
 
@@ -932,7 +932,7 @@ Characters raised in a union culture share a variety of traits in common with on
 
 Characters raised in the underclass culture share a variety of traits in common with one another.
 
-***Faceless.*** Few truly see those of your social standing as individuals, and youíve learned to use this to your advantage. You gain an expertise die to Deception, Persuasion, Stealth and disguise kit checks made to pose as a servant (such as custodial crew, wait staff, or the like), likely granting you access to areas where you would otherwise be unable to access, and to move unobtrusively through such spaces (though doing so still likely requires an appropriate uniform or other prop). Additionally, you gain an expertise
+***Faceless.*** Few truly see those of your social standing as individuals, and you√≠ve learned to use this to your advantage. You gain an expertise die to Deception, Persuasion, Stealth and disguise kit checks made to pose as a servant (such as custodial crew, wait staff, or the like), likely granting you access to areas where you would otherwise be unable to access, and to move unobtrusively through such spaces (though doing so still likely requires an appropriate uniform or other prop). Additionally, you gain an expertise
 
 die on Stealth checks to blend into crowds.
 
@@ -968,7 +968,7 @@ said in a language you are unfamiliar with.
 
 *Trade Institute:* You are proficient in your choice of either Engineering, or two tools.
 
-***Urban Exposure.*** Youíre used to the stressors of city life. You gain an expertise die on saving throws against environmental effects such as intense heat, smog, or bright lights.
+***Urban Exposure.*** You√≠re used to the stressors of city life. You gain an expertise die on saving throws against environmental effects such as intense heat, smog, or bright lights.
 
 ***Languages.*** You can read, sign, speak, and write Common and one other language.
 
@@ -1012,9 +1012,9 @@ Characters raised in a warped culture share a variety of traits in common with o
 
 **Suggested Equipment (Cost 60 credits):** fleet uniform, personal communicator (badge), tactical baton.
 
-***Feature: Fleet Rank.*** You hold military rank in the Fleet, whether you are in active duty or in the reserves. You can use the Fleetís vast resources under request, though such use is scrutinized by your superiors. Minor information or replacement equipment is expected, but access to more powerful equipment (such a starship) or classified information will be harder to justify and may be outright denied without further explanation.
+***Feature: Fleet Rank.*** You hold military rank in the Fleet, whether you are in active duty or in the reserves. You can use the Fleet√≠s vast resources under request, though such use is scrutinized by your superiors. Minor information or replacement equipment is expected, but access to more powerful equipment (such a starship) or classified information will be harder to justify and may be outright denied without further explanation.
 
-***Adventures and Advancement.*** In the course of your voidrunning, if you engage with alien civilizations in a respectful and peaceful manner, you might achieve a promotion. If you do so, use of your fleet rank feature becomes easier and, at the Narratorís discretion, you might be awarded command over your own starship.
+***Adventures and Advancement.*** In the course of your voidrunning, if you engage with alien civilizations in a respectful and peaceful manner, you might achieve a promotion. If you do so, use of your fleet rank feature becomes easier and, at the Narrator√≠s discretion, you might be awarded command over your own starship.
 
 ***Connection and Memento.*** Roll 1d10, choose, or make up your own.
 
@@ -1028,20 +1028,20 @@ Characters raised in a warped culture share a variety of traits in common with o
 6. Your former best friend who worked behind your back to outrank you.
 7. The fearsome-looking stranger you convinced to enlist.
 8. A retired Fleet officer who always seems to know what you need.
-9. Your idealistic friend whoíd rather quit the Academy than lower their moral standards.
+9. Your idealistic friend who√≠d rather quit the Academy than lower their moral standards.
 10. A demanding teacher or officer who was too hard on you because they understand your true potential.
 
 **Academy Graduate Mementos**
 
 1. A picture of your class, taken on graduation day.
-2. A recording of your first commanderís launch speech on your first star journey.
+2. A recording of your first commander√≠s launch speech on your first star journey.
 3. A datapad filled with your old academy notes.
-4. Your deceased friendís emblem.
+4. Your deceased friend√≠s emblem.
 5. A scar that marks where your original limb ends and where your cloned replacement begins.
 6. A piece of debris from your most monumental failure.
 7. A piece of physical art from an alien civilization.
 8. A written promise to a fellow officer you must keep.
-9. A medal you received, even though you didnít deserve it.
+9. A medal you received, even though you didn√≠t deserve it.
 10. A poem that invokes a strong feeling of hope towards the future, done in beautiful caligraphy.
 
 ## Celebrity
@@ -1052,9 +1052,9 @@ Characters raised in a warped culture share a variety of traits in common with o
 
 **Tool Proficiencies:** Any one artisan tool or musical instrument, disguise kit.
 
-**Suggested Equipment (Cost 32ñ80 credits):** Any instrument, costume, disguise kit.
+**Suggested Equipment (Cost 32√±80 credits):** Any instrument, costume, disguise kit.
 
-***Feature: Star Power*.** Unless you put active effort into disguising yourself, youíre instantly recognized on your home planet, as well as a number of settled planets equal to half your Charisma modifier (round down). These locations must have access to the network that made you famous. Work with the Narrator to make sure your selections make sense for the story being told. While at one of these locations, you and your companions are treated to a rich lifestyle by a fan, as long as you indulge them with appearances at parties and the like. Being recognized can be a double-edged sword, however. There may be no such thing as bad publicity, but thereís no end of bad intentions.
+***Feature: Star Power*.** Unless you put active effort into disguising yourself, you√≠re instantly recognized on your home planet, as well as a number of settled planets equal to half your Charisma modifier (round down). These locations must have access to the network that made you famous. Work with the Narrator to make sure your selections make sense for the story being told. While at one of these locations, you and your companions are treated to a rich lifestyle by a fan, as long as you indulge them with appearances at parties and the like. Being recognized can be a double-edged sword, however. There may be no such thing as bad publicity, but there√≠s no end of bad intentions.
 
 ***Adventures and Advancement*.** You might not be actively pursuing the limelight right now, but you still have influence that grows with every mission you undertake. Powerful figures will seek you out to endorse or decry certain people or policies as the media clamors for your opinions. The more you accept these jobs and lean into your role, the more well known you become until your face is seen across the galaxy. You gain the benefits of your Star Power feature on every settled planet.
 
@@ -1068,7 +1068,7 @@ Characters raised in a warped culture share a variety of traits in common with o
 4. A childhood friend who has always supported your career.
 5. Your head of security, who once saved your life.
 6. A rival performer who has sworn retaliation for a slight, either real or perceived.
-7. A tabloid writer who you have fed scandalousóand perhaps untrueóinformation to.
+7. A tabloid writer who you have fed scandalous√≥and perhaps untrue√≥information to.
 8. An aspiring star, eager for your guidance.
 9. Your grasping parents, who have always tried to profit from your fame.
 10. Your career-politician sibling who feels you are tarnishing their image.
@@ -1076,14 +1076,14 @@ Characters raised in a warped culture share a variety of traits in common with o
 **Celebrity Mementos**
 
 1. A packet of fanmail from your most fervent supporters.
-2. An article of clothingósocks, undergarment, or the likeóthat you refuse to perform without wearing.
+2. An article of clothing√≥socks, undergarment, or the like√≥that you refuse to perform without wearing.
 3. The small pet that kept you company on tour or set.
 4. A letter from someone claiming to be a distant relation, asking for assistance.
 5. An outlandish, iconic costume you often performed in and are always recognized while wearing.
 6. A letter criticizing your early work that you keep as spiteful inspiration.
 7. A fantastically-crafted, non-magical tool of your trade, such as a spatula, instrument, or accessory.
-8. A tattoo you got on a whim that youíre beginning to suspect has great significance.
-9. A half-finished manuscript, song, or concept that could relaunch your careeróif only you could find the inspiration to finish it.
+8. A tattoo you got on a whim that you√≠re beginning to suspect has great significance.
+9. A half-finished manuscript, song, or concept that could relaunch your career√≥if only you could find the inspiration to finish it.
 10. A glowing review of your work from a respected critic.
 
 ## Clone
@@ -1100,7 +1100,7 @@ Basic clothing.
 
 ***Feature: Rapid Healing*.** Your genetic makeup allows you to heal slightly faster than most others. When you spend a hit die to recover hit points, you recover an extra hit point per die.
 
-***Adventures and Advancement*.** You were a clone of somebodyñyour templateñand they may decide to seek you out, either to know you, or to destroy you. Alternatively, the facility which created you may seek to recover you.
+***Adventures and Advancement*.** You were a clone of somebody√±your template√±and they may decide to seek you out, either to know you, or to destroy you. Alternatively, the facility which created you may seek to recover you.
 
 ***Connection and Memento.*** Roll 1d10, choose, or make up your own.
 
@@ -1114,19 +1114,19 @@ Basic clothing.
 6. The scientist who created you then mysteriously disappeared.
 7. Your old military squad, also all clones of the same template.
 8. A relative of your template who sought to replace a loss.
-9. A loan shark who holds you responsible for your templateís debts.
+9. A loan shark who holds you responsible for your template√≠s debts.
 10. A detective who is convinced you are responsible for crimes committed by your template.
 
 **Clone Mementos**
 
 1. Your ID tags from the clone army you deserted from.
-2. A barcode tattooed onto your neck. You havenít been able to decipher it.
+2. A barcode tattooed onto your neck. You haven√≠t been able to decipher it.
 3. A photo of a family you never had.
 4. A mysterious phrase encoded into your thoughts and dreams. What does it mean?
 5. A small unopened box with a cipher lock which the person you were cloned from gave you.
-6. A recurring nightmare somehow linked to your templateís past..
+6. A recurring nightmare somehow linked to your template√≠s past..
 7. A datapad with a list of a dozen other identical clones to yourself.
-8. A chip in your brain. Nobody knows what itís for, and removal is too risky to attempt.
+8. A chip in your brain. Nobody knows what it√≠s for, and removal is too risky to attempt.
 9. The deeds to a house once owned by your template.
 10. An overwhelming craving for the taste of malt candy, a sweet tasty treat.
 
@@ -1153,10 +1153,10 @@ Depending on how you play your cards, you may acquire the services of up to 8 **
 1. Your old cellmate, who insisted they were innocent.
 2. The cruel guard who made your time incarcerated even more miserable.
 3. The leader of the prison gang you joined or avoided joining at all costs.
-4. The attorney who swore theyíd get you released.
+4. The attorney who swore they√≠d get you released.
 5. The (perhaps former) friend that you took the fall for.
 6. The greedy guard who smuggled contraband for you.
-7. The prison ìfixerî who knew how to get whatever illicit goods you wanted.
+7. The prison √¨fixer√Æ who knew how to get whatever illicit goods you wanted.
 8. The only other member of your escape team who made it out.
 9. The cop who busted you.
 10. The one person who always visited you.
@@ -1180,7 +1180,7 @@ Convict Mementos
 
 **Skill Proficiencies:** Investigation, and either Deception, Perception, or Stealth.
 
-**Tool Proficiencies:** Computers, hacking tools, thievesí tools.
+**Tool Proficiencies:** Computers, hacking tools, thieves√≠ tools.
 
 **Suggested Equipment (Cost 29 gold):**
 
@@ -1192,21 +1192,21 @@ mirror, synthetic rope (50 feet), traveler's clothes.
 
 ***Adventures and Advancement*.** Your employer, practice, precinct, or patron provides you with as much detective work as you could desire, including administrative work during your downtime.
 
-After you crack an important case, big names will seek you out to have you on retaineróto have you at their beck and call. If you accept this high profile patronage, you acquire a yearly retainer fee, which accrues wealth yearly and allows you to live a rich lifestyle.
+After you crack an important case, big names will seek you out to have you on retainer√≥to have you at their beck and call. If you accept this high profile patronage, you acquire a yearly retainer fee, which accrues wealth yearly and allows you to live a rich lifestyle.
 
 ***Connection and Memento.*** Roll 1d10, choose, or make up your own.
 
 **Detective Connections**
 
-1. A childhood friend now with the Fleetówho sends leads and warnings when able.
+1. A childhood friend now with the Fleet√≥who sends leads and warnings when able.
 2. A kindly neighbor who often sends you meal kits and leftovers.
 3. The librarian, hacker, or barkeep who flirts with you for free but provides information at a price.
 4. The coroner or mortician who is like an aunt or uncle to you.
 5. A government official who owes you a favor for your discretion in a previous case.
-6. A suspicious personóthey've been tailing you for weeks.
-7. The one who got awayónow engaged to a celebrity.
+6. A suspicious person√≥they've been tailing you for weeks.
+7. The one who got away√≥now engaged to a celebrity.
 8. The crime boss who once addressed you in public by your full name.
-9. The waiter or barkeep who keeps confidence when you ask "highly specific questions"óand often has some answers.
+9. The waiter or barkeep who keeps confidence when you ask "highly specific questions"√≥and often has some answers.
 10. The murder victim whose case you were once assigned. But if they're dead, why do you see them around town?
 
 **Detective Mementos**
@@ -1215,11 +1215,11 @@ After you crack an important case, big names will seek you out to have you on re
 2. A flask of hard liquor you've ascribed a name and personality (like "Clarissa" or "Hamilton").
 3. A photo album (physical, digital, or hologram) showing good times and bad with your late partner.
 4. A letter reminding you of your 3,000 credits of gambling debt.
-5. An unknown Tiny-sized alien creatureókept in a glass jar.
+5. An unknown Tiny-sized alien creature√≥kept in a glass jar.
 6. Your lucky hat.
 7. Your adorable sidekick, a pet **rat** or similar creature from an alien world.
 8. The amulet bearing a cryptic symbol you seem to see at every turn.
-9. The deed to an old, profoundly damaged starfighterÖ It's beyond busted, right?
+9. The deed to an old, profoundly damaged starfighter√ñ It's beyond busted, right?
 10. A personal computer with evidence in a murder investigation, highly encrypted.
 
 ## Devotee
@@ -1232,7 +1232,7 @@ After you crack an important case, big names will seek you out to have you on re
 
 **Language Proficiencies**: You can read, sign, speak, and write an additional language of your choice.
 
-**Suggested Equipment (Cost 37 credits):** Acoustic guitar, sacred amulet, travelerís clothes.
+**Suggested Equipment (Cost 37 credits):** Acoustic guitar, sacred amulet, traveler√≠s clothes.
 
 ***Feature: Convene the Flock.*** You can use your religious training to convene a spiritual space, such as to meditate, deliver a sermon, or discuss occult matters. When you do, determine the size and effectiveness of the gathering with a Wisdom or Charisma check using one of your devotee skill or tool proficiencies. In a public livestream or while in a city, capital ship, or other highly populated area, on a result other than a natural 1, you attract a crowd of people no smaller than your Charisma or Wisdom score (whichever is better).
 
@@ -1246,20 +1246,20 @@ Solving these problems spreads word of your activities, which popularizes your o
 
 1. Your beloved mentor, whose murder remains unsolved.
 2. A (supposed) member of your tradition's hierarchy, who digitally delivers you anonymous commands.
-3. An enemy of the faithóthe hacker, serial killer, or terrorist who targets people or places sacred to you.
+3. An enemy of the faith√≥the hacker, serial killer, or terrorist who targets people or places sacred to you.
 4. The orphan you mentor, who now sees you like a parent.
 5. A Fleet cadet who is a devoted fan of your teachings.
 6. A rival devotee of another faith (friendly or otherwise).
 7. A religious superior whose unfounded libel puts you at odds with the hierarchy.
-8. A mysterious person who attends most all your gatheringsóbut disappears without a word.
-9. A former devotee you once admiredónow a washed-up has-been.
+8. A mysterious person who attends most all your gatherings√≥but disappears without a word.
+9. A former devotee you once admired√≥now a washed-up has-been.
 10. An entity you've seen in sacred visions, who at times gives you messages when nobody else is around.
 
 **Devotee Mementos**
 
 1. A prismatic crystal skull.
 2. A thick leather-bound tome of scripture and prophecies, centuries old.
-3. Your credentials of ordinationóa certificate, ornamental lamp, sacred staff, or the like.
+3. Your credentials of ordination√≥a certificate, ornamental lamp, sacred staff, or the like.
 4. An alien artifact that looks like a symbol of your faith, made from an unknown material.
 5. A set of oracle cards, bag of runes, crystal ball, or other occult divination device.
 6. A traditional tea set, complete with a tea said to soften even the hardest hearts.
@@ -1278,15 +1278,15 @@ Solving these problems spreads word of your activities, which popularizes your o
 
 **Languages:** You can read, sign, speak, and write an additional three languages of your choice.
 
-**Suggested Equipment (Cost 20 credits):** formal clothes, a book on the culture youíre currently studying, signet ring, a data wafer expressing the goodwill of your country or employer.
+**Suggested Equipment (Cost 20 credits):** formal clothes, a book on the culture you√≠re currently studying, signet ring, a data wafer expressing the goodwill of your country or employer.
 
-***Feature: Diplomatic Language.*** Even if you donít know a creatureís language, if you can listen to their speech (or engage with their communicatory means, if itís not a speech-based language) for one hour you can make out enough of their language to understand simple meaning. You canít grasp elaborate ideas, but you can get the gist of what theyíre saying.
+***Feature: Diplomatic Language.*** Even if you don√≠t know a creature√≠s language, if you can listen to their speech (or engage with their communicatory means, if it√≠s not a speech-based language) for one hour you can make out enough of their language to understand simple meaning. You can√≠t grasp elaborate ideas, but you can get the gist of what they√≠re saying.
 
-Your own communication is much more limited-basically ìyesî and ìnoî, adjusted for tone.
+Your own communication is much more limited-basically √¨yes√Æ and √¨no√Æ, adjusted for tone.
 
 ***Adventures and Advancement.*** As you learn about more cultures and travel across space, your name becomes known. Your growing fame (or infamy) in diplomatic circles causes you to be invited for social events such as concerts,
 
-birthday dinners and art exhibits. Certain planets might want to hire you as an attachÈ for special jobs or even get you as an official diplomatic representative.
+birthday dinners and art exhibits. Certain planets might want to hire you as an attach√à for special jobs or even get you as an official diplomatic representative.
 
 ***Connection and Memento.*** Roll 1d10, choose, or make up your own.
 
@@ -1298,7 +1298,7 @@ birthday dinners and art exhibits. Certain planets might want to hire you as an 
 4. An old flame who brings bad memories of a job gone sour.
 5. The only survivor of that one time your mistranslation caused a war to escalate.
 6. A snotty intergalactic reporter who keeps misquoting you.
-7. Your old boss whoíd do anything to get you back in their employ.
+7. Your old boss who√≠d do anything to get you back in their employ.
 8. A criminal after a secret you have yet to realize you know.
 9. Your loyal childhood friend who still keeps tabs on you.
 10. The tutor who could never get you to learn that one language.
@@ -1308,7 +1308,7 @@ birthday dinners and art exhibits. Certain planets might want to hire you as an 
 1. Your diploma in a wooden frame.
 2. A video recording of your family, congratulating you for your recent achievements.
 3. A trinket from a distant civilization you visited once.
-4. A verbal tic you canít seem to shake, acquired from another culture.
+4. A verbal tic you can√≠t seem to shake, acquired from another culture.
 5. The most charming accent this side of the cosmos.
 6. A fancy outfit stained with wine.
 7. An antique diplomatic passport, from before digital processing.
@@ -1324,20 +1324,20 @@ birthday dinners and art exhibits. Certain planets might want to hire you as an 
 
 **Languages:** You can read, sign, speak, and write an additional language of your choice. **Suggested Equipment (60 credits):** formal clothes, individual computing device, any game set.
 
-***Feature: Ruthless Work Ethics.*** You still remember how your old bosses used to think, with an eye towards results and no concern towards the wellbeing of others. When you are involved in a group check, if you succeed, you can transform another characterís failure into success, but that character must spend a hit die.
+***Feature: Ruthless Work Ethics.*** You still remember how your old bosses used to think, with an eye towards results and no concern towards the wellbeing of others. When you are involved in a group check, if you succeed, you can transform another character√≠s failure into success, but that character must spend a hit die.
 
-***Adventures and Advancement.*** Itís more likely that your corporate past is going to bring you trouble as you adventure more and more. Life as a voidrunner might put you against the corporation itself, and is more than likely to force you to face the consequences of choices you made back in the company days. Worse, your exploits might intrigue the company enough that they want you back. And no one knows better than you that they donít take no for an answer.
+***Adventures and Advancement.*** It√≠s more likely that your corporate past is going to bring you trouble as you adventure more and more. Life as a voidrunner might put you against the corporation itself, and is more than likely to force you to face the consequences of choices you made back in the company days. Worse, your exploits might intrigue the company enough that they want you back. And no one knows better than you that they don√≠t take no for an answer.
 
 ***Connection and Memento.*** Roll 1d10, choose, or make up your own.
 
 **Employee Connections**
 
 1. Your former secretary who is still with the company.
-2. That one client you didnít screw over.
-3. A former boss who doesnít completely hate you.
+2. That one client you didn√≠t screw over.
+3. A former boss who doesn√≠t completely hate you.
 4. The HR consultant who helped you finally quit.
 5. Your office rival who dreads you ever coming back.
-6. A sleazy former colleague who has some dirt on everyoneófor a price.
+6. A sleazy former colleague who has some dirt on everyone√≥for a price.
 7. The family of a deceased coworker, the most decent fellow in the company.
 8. A corporate mentor who barely remembers you.
 9. That guy who started the rumors on you.
@@ -1345,11 +1345,11 @@ birthday dinners and art exhibits. Certain planets might want to hire you as an 
 
 **Employee Mementos**
 
-1. A dirty check you vowed to never cash in, but canít seem to throw away.
+1. A dirty check you vowed to never cash in, but can√≠t seem to throw away.
 2. The strongly worded resignation letter you never sent.
 3. An old fashioned pen you got as a gift for your first major success.
 4. A piece of company memorabilia.
-5. The habit of fixing your tie when youíre nervous.
+5. The habit of fixing your tie when you√≠re nervous.
 6. A fake tan which is still all the rage among corporate employees.
 7. Your old company ID card, with a red CANCELED stamp covering half of it.
 8. The abysmally ugly tie you wore to your first day at work.
@@ -1366,7 +1366,7 @@ birthday dinners and art exhibits. Certain planets might want to hire you as an 
 
 **Suggested Equipment (Cost 16 credits):**
 
-Fine clothes, dice set, playing card set. ***Feature: Lady Luck.*** Each week you may attempt a ìlucky throwî to support yourself by gambling. Roll a d6 to determine the lifestyle you can afford with your weekís winnings (1ñ2: poor, 3ñ5: moderate, 6: rich). ***Adventures and Advancement.*** Once youíve had more than your fair share of lucky throws, you attract the attention of richer opponents. You add +1 to all your lucky throws. Additionally, you and your friends may be invited to exclusive games with more at stake than money.
+Fine clothes, dice set, playing card set. ***Feature: Lady Luck.*** Each week you may attempt a √¨lucky throw√Æ to support yourself by gambling. Roll a d6 to determine the lifestyle you can afford with your week√≠s winnings (1√±2: poor, 3√±5: moderate, 6: rich). ***Adventures and Advancement.*** Once you√≠ve had more than your fair share of lucky throws, you attract the attention of richer opponents. You add +1 to all your lucky throws. Additionally, you and your friends may be invited to exclusive games with more at stake than money.
 
 ***Connection and Memento.*** Roll 1d10, choose, or make up your own.
 
@@ -1385,18 +1385,18 @@ Fine clothes, dice set, playing card set. ***Feature: Lady Luck.*** Each week yo
 
 **Gambler Mementos**
 
-1. Gambling debts owed you by someone whoís gone missing.
-2. Your lucky coin that youíve always won back after gambling it away.
+1. Gambling debts owed you by someone who√≠s gone missing.
+2. Your lucky coin that you√≠ve always won back after gambling it away.
 3. The deeds to an alien-infested duranium mine, a mansion on a remote, abandoned planet, and several other valueless properties.
-4. A pawn shop ticket for a valuable itemóif you can gather enough money to redeem it.
+4. A pawn shop ticket for a valuable item√≥if you can gather enough money to redeem it.
 5. The hard-to-sell heirloom that someone really wants back.
 6. Loaded dice or marked cards. They grant advantage on gambling checks when used, but can be discovered when carefully examined by someone with the appropriate tool proficiency (dice or cards).
 7. An invitation to an annual
 
-high-stakes game to which you canít even afford the ante.
+high-stakes game to which you can√≠t even afford the ante.
 
 1. A two-faced coin.
-2. A torn half of a cardóa long-lost relative is said to hold the other half.
+2. A torn half of a card√≥a long-lost relative is said to hold the other half.
 3. An ugly trinket that its former owner claimed had hidden psionic powers.
 
 ## Miner
@@ -1441,7 +1441,7 @@ Perhaps you may get the opportunity to return and make their lives better in som
 5. The tattoo which you and your fellow miners were given by the company.
 6. A sturdy pair of workboots which have served you well for years.
 7. The contract, which has not yet expired, which compels you to work for the company for several more years.
-8. A strange alien artifact you discovered in the mine. You donít know what it is.
+8. A strange alien artifact you discovered in the mine. You don√≠t know what it is.
 9. A set of coordinates you found impossibly carved into the rock a mile beneath the surface.
 10. A terrible scar caused by a mining accident but which the company denies any responsibility for.
 
@@ -1451,7 +1451,7 @@ Perhaps you may get the opportunity to return and make their lives better in som
 
 **Skill Proficiencies:** Perception and either Acrobatics or Performance.
 
-**Tool Proficiencies:** Air vehicles, space vehicles, and engineerís toolbox.
+**Tool Proficiencies:** Air vehicles, space vehicles, and engineer√≠s toolbox.
 
 **Weapon Proficiencies:** Starship weapons.
 
@@ -1461,7 +1461,7 @@ Perhaps you may get the opportunity to return and make their lives better in som
 
 behind the control column. You gain an expertise die on saving throws made while piloting a flying vehicle.
 
-***Adventures and Advancement*.** You may be flying for voidrunners now, but whatever organization you flew for before may want you for a special job, or they might go after you for wrecking their ship with your hot-rodding. An accomplished pilot is useful for any number of endeavors and you may find your services are desperately needed. Your pilotís credentials may even be able to get you jobs that can take you and your allies
+***Adventures and Advancement*.** You may be flying for voidrunners now, but whatever organization you flew for before may want you for a special job, or they might go after you for wrecking their ship with your hot-rodding. An accomplished pilot is useful for any number of endeavors and you may find your services are desperately needed. Your pilot√≠s credentials may even be able to get you jobs that can take you and your allies
 
 off-world.
 
@@ -1476,21 +1476,21 @@ off-world.
 5. An ace pilot for the other side that you clashed with but now see as an old friend.
 6. A wingman that you flew with on numerous missions.
 7. A co-pilot that made a critical error and blamed you, losing you your job.
-8. A former lover who couldnít handle the long-distance relationship but stayed your friend.
+8. A former lover who couldn√≠t handle the long-distance relationship but stayed your friend.
 9. A former employer that fired you after you learned and protested over what they were smuggling on your ship.
 10. A diplomat you personally transported for several years.
 
 **Pilot Mementos**
 
-1. A pebble from every world youíve set foot on.
-2. A lever head from the first ship you ever flew that you always install into whatever youíre flying.
+1. A pebble from every world you√≠ve set foot on.
+2. A lever head from the first ship you ever flew that you always install into whatever you√≠re flying.
 3. A picture of a lost love that you clip onto your viewscreen.
 4. A retro bobblehead toy you like to put on your dashboard.
-5. An old fashioned pilotís jacket that belonged to your ancestor.
+5. An old fashioned pilot√≠s jacket that belonged to your ancestor.
 6. An embarrassing tattoo you and your buddies got during flight training.
-7. A handful of bizarre colorful collectables you bought off-world (youíre not entirely sure what they are.)
+7. A handful of bizarre colorful collectables you bought off-world (you√≠re not entirely sure what they are.)
 8. A tangled bit of wreckage from a ship you crashed.
-9. Pilotís lounge passes for every major spaceport.
+9. Pilot√≠s lounge passes for every major spaceport.
 10. A toy spaceship you played with as a child, the same type of ship you later flew.
 
 ## Preserver
@@ -1501,9 +1501,9 @@ off-world.
 
 **Tool Proficiencies:** One artisan tool of your choice and one musical instrument.
 
-**Suggested Equipment (Cost 10ñ87 credits):** musical instrument, any set of artisanís tools except alchemistís supplies, travelerís clothes, pen and notebook
+**Suggested Equipment (Cost 10√±87 credits):** musical instrument, any set of artisan√≠s tools except alchemist√≠s supplies, traveler√≠s clothes, pen and notebook
 
-***Feature: Bearer of the Flame.*** You are almost universally respected by those of your culture (or those whose family once was) and are expected to share your knowledge with themóteaching traditional arts, performing religious ceremonies, and the like. In exchange, such communities (which may be neighborhoods, districts, settlements, or similar groups) will provide you and your companions food, lodging, and a moderate lifestyle.
+***Feature: Bearer of the Flame.*** You are almost universally respected by those of your culture (or those whose family once was) and are expected to share your knowledge with them√≥teaching traditional arts, performing religious ceremonies, and the like. In exchange, such communities (which may be neighborhoods, districts, settlements, or similar groups) will provide you and your companions food, lodging, and a moderate lifestyle.
 
 Alternately, the Narrator may say that you have similarly caught the interest of other such groups, such as academic institutions or fellow historians, and can gain the same benefit from them.
 
@@ -1517,12 +1517,12 @@ people may approach you out of respect for your specialized knowledge. After aid
 
 1. An elder and storyteller of your people, now in their twilight years.
 2. A professor who rejects your culture's traditions.
-3. An activist or diplomat of your peopleówho is sometimes leery of you.
+3. An activist or diplomat of your people√≥who is sometimes leery of you.
 4. A mentor who you owe a favor to, ever since "that one time."
 5. A young fan of an ancient form of videogame your people produced, who looks to you as a role-model.
 6. The spouse and child of a late colleague, who you were asked to look out for.
-7. The leader of an obscure band that performs your peopleís cultural music.
-8. Your childhood best friend who has turned their back on your cultureís teachings
+7. The leader of an obscure band that performs your people√≠s cultural music.
+8. Your childhood best friend who has turned their back on your culture√≠s teachings
 9. A fellow researcher that specializes in the early computers your people made, eager to share their knowledge.
 10. Your rival, who always seems to get ahold of information just before you can.
 
@@ -1530,8 +1530,8 @@ people may approach you out of respect for your specialized knowledge. After aid
 
 1. The deed to the family farm back on your homeworld.
 2. A print or replica of a famous piece of art from your culture.
-3. A book detailing the practices of a defunct cult from your planet that revered a prophesied ìSummer of Love.î
-4. A recreation of a traditional weapon you have been trained in. For you itís a
+3. A book detailing the practices of a defunct cult from your planet that revered a prophesied √¨Summer of Love.√Æ
+4. A recreation of a traditional weapon you have been trained in. For you it√≠s a
 
 one-handed simple melee weapon (choose
 
@@ -1555,11 +1555,11 @@ language-learning course for a language from your homeworld.
 
 **Tool Proficiencies:** Land, water, and space vehicles, computers,
 
-multi-scanners, engineerís toolbox. **Suggested Equipment (Cost 18 credits):** Chemical light stick (5), common clothes, earplugs, entrenching tool, flashlight, plastic mirror, spraypaint, synthetic rope (50 feet)
+multi-scanners, engineer√≠s toolbox. **Suggested Equipment (Cost 18 credits):** Chemical light stick (5), common clothes, earplugs, entrenching tool, flashlight, plastic mirror, spraypaint, synthetic rope (50 feet)
 
-***Feature: Multitasker.*** Youíve developed a keen eye for useful material and pick it up almost without thinking. While traveling you can undertake two journey activities instead of one, as long as one of them is Salvaging.
+***Feature: Multitasker.*** You√≠ve developed a keen eye for useful material and pick it up almost without thinking. While traveling you can undertake two journey activities instead of one, as long as one of them is Salvaging.
 
-***Adventures and Advancement*.** No matter where you go, you donít forget your roots. Salvagers are usually among some of the most vulnerable of a given population, and either are or live with young children, the elderly, the unhomed, and the impoverished. The more you lend aid to such folk, the more the whisper network about you grows, even from port to port. Often overlooked, a child or beggar may come to you with important information they overheard. Furthermore, you can consult the whisper network yourself. If you roll lower than a 15 on an
+***Adventures and Advancement*.** No matter where you go, you don√≠t forget your roots. Salvagers are usually among some of the most vulnerable of a given population, and either are or live with young children, the elderly, the unhomed, and the impoverished. The more you lend aid to such folk, the more the whisper network about you grows, even from port to port. Often overlooked, a child or beggar may come to you with important information they overheard. Furthermore, you can consult the whisper network yourself. If you roll lower than a 15 on an
 
 Investigation check to gather information while in a space port, capital ship, or city, your roll is treated as a 15.
 
@@ -1570,23 +1570,23 @@ Investigation check to gather information while in a space port, capital ship, o
 1. The cruel opportunist who supposedly rescued children like you from the streets, but in reality sent you into wrecks to salvage in exchange for your supper.
 2. A former crewmate who stole a choice piece of loot from you.
 3. The skinflint mentor who taught you the trade.
-4. A customs official who is convinced youíre part of a smuggling operation.
+4. A customs official who is convinced you√≠re part of a smuggling operation.
 5. A fellow urchin you grew up with, who has resurfaced as a person of wealth.
 6. The kindly elder who raised a gaggle of orphans, yourself included.
-7. A fellow treasure hunter who trusted your instinctsóand dogged your steps trying to take advantage of them.
+7. A fellow treasure hunter who trusted your instincts√≥and dogged your steps trying to take advantage of them.
 8. A Fleet officer who enabled the training that let you leave a life of scavenging.
 9. The retired voidrunner who traveled with your crew, sharing stories that inspired you to follow in their footsteps.
 10. The dodgy pawnbroker who has put you in contact with prospective buyers.
 
 **Salvager Mementos**
 
-1. A trinket you long ago salvaged but canít bear to get rid of.
+1. A trinket you long ago salvaged but can√≠t bear to get rid of.
 2. A strange device from a wrecked ship. You sometimes hear it humming at night.
 3. A memento, such as a ring, you were left holding when you were discovered as a foundling.
 4. An academic textbook you pulled from a decommissioned Fleet craft that fascinates you with its contents.
 5. The small animal you rescued while on a job.
 6. A data wafer containing half-realized plans for a revolutionary ship design.
-7. A gaming set from an older crewmate who claims itís especially lucky.
+7. A gaming set from an older crewmate who claims it√≠s especially lucky.
 8. A data wafer that only holds an unknown set of coordinates.
 9. A worry stone or similar item you take on every job.
 10. A commendation for bravery from the Fleet you found stashed away.
@@ -1603,9 +1603,9 @@ Investigation check to gather information while in a space port, capital ship, o
 
 fine clothes, gaming set, signet ring.
 
-***Feature: Well-Connected.*** You donít know every old money family in the galaxy, but you do know a friend of a friend most of the time. On most settled planets such families will offer you (and your companions, if they comport themselves properly) a rich lifestyle, as well as assistance, such as weapons repairs, invitations to upscale parties, and the like. Be cautious, however, as being associated with certain families may carry a degree of risk.
+***Feature: Well-Connected.*** You don√≠t know every old money family in the galaxy, but you do know a friend of a friend most of the time. On most settled planets such families will offer you (and your companions, if they comport themselves properly) a rich lifestyle, as well as assistance, such as weapons repairs, invitations to upscale parties, and the like. Be cautious, however, as being associated with certain families may carry a degree of risk.
 
-***Adventures and Advancement*.** Since you insist on gallivanting about, your family (and perhaps those they are allied with) will expect you to be useful on occasion: discreetly settle a score, keep a certain scandal from reaching the press, serve as a representative of your familyís interests at a political or social event. If you continue to advance the agenda of the rich and powerful you gain the free service of 4 **cadets** from a private security firm. Additionally, you and your group will find yourselves invited to exclusive clubs and gatherings, opening doors to opportunities and clientele you would otherwise never have access to.
+***Adventures and Advancement*.** Since you insist on gallivanting about, your family (and perhaps those they are allied with) will expect you to be useful on occasion: discreetly settle a score, keep a certain scandal from reaching the press, serve as a representative of your family√≠s interests at a political or social event. If you continue to advance the agenda of the rich and powerful you gain the free service of 4 **cadets** from a private security firm. Additionally, you and your group will find yourselves invited to exclusive clubs and gatherings, opening doors to opportunities and clientele you would otherwise never have access to.
 
 ***Connection and Memento.*** Roll 1d10, choose, or make up your own.
 
@@ -1614,13 +1614,13 @@ fine clothes, gaming set, signet ring.
 1. The stern parent whose approval you could never win.
 2. A rakish older sibling who was disinherited.
 3. A muckraking reporter constantly trying to catch you in a scandal.
-4. One of your familyís staff, who snuck you sweets in between lessons.
+4. One of your family√≠s staff, who snuck you sweets in between lessons.
 5. A spiteful rival who smeared your name in public, leading to your fall from grace.
 6. The tutor who could always coax the best out of you.
 7. An elderly relative who makes frivolous demands of your time.
-8. The child of a member of your familyís staff with whom you grew up and possibly had a romance with.
+8. The child of a member of your family√≠s staff with whom you grew up and possibly had a romance with.
 9. The mysterious old sage who approached your family to tell them you had a gift.
-10. An old school chum youíre always having to bail out of troubleósometimes literally.
+10. An old school chum you√≠re always having to bail out of trouble√≥sometimes literally.
 
 **Socialite Mementos**
 
@@ -1628,12 +1628,12 @@ fine clothes, gaming set, signet ring.
 2. A signet ring or other piece of jewelry that represents your family.
 3. The diary of a black sheep relative, anonymously mailed to you.
 4. A jeweled fan or other trinket you were given the night you were first introduced to high society.
-5. A letter from an unknown person claiming to know your familyís dark secret, which you may or may not be aware of.
+5. A letter from an unknown person claiming to know your family√≠s dark secret, which you may or may not be aware of.
 6. An extremely fashionable set of clothing, especially designed for you.
 7. A small item, such as a golden die or other game piece, that allows you entry to an exclusive, elegant club.
 8. A discreet tattoo or brand that marks you as a member of a secret society.
 9. A token of affection from an older suitor looking for a second spouse.
-10. Your letter of acceptance into the Fleet, which youíve taken pains to keep a secret.
+10. Your letter of acceptance into the Fleet, which you√≠ve taken pains to keep a secret.
 
 ## Soldier
 
@@ -1651,11 +1651,11 @@ fine clothes, gaming set, signet ring.
 
 Uniform, common clothes, 7 days rations.
 
-***Feature: Military Bearing.*** Soldiers recognize their own. Off duty soldiers are usually willing to trade tales and gossip with you. On duty soldiers, while not obeying your orders, are likely to answer your questions and treat you respectfully on the off chance that youíre an unfamiliar officer who can get them in trouble.
+***Feature: Military Bearing.*** Soldiers recognize their own. Off duty soldiers are usually willing to trade tales and gossip with you. On duty soldiers, while not obeying your orders, are likely to answer your questions and treat you respectfully on the off chance that you√≠re an unfamiliar officer who can get them in trouble.
 
 ***Adventures and Advancement.***
 
-You will occasionally run into old comrades, some of whom may need favors. If you perform a few celebrated martial deeds your old military outfit (or a new one) is likely to offer you an officerís rank. You gain the free service of up to 8 **troopers**. Your new commanders will occasionally give you objectives: you will be expected to act independently in order to achieve these objectives.
+You will occasionally run into old comrades, some of whom may need favors. If you perform a few celebrated martial deeds your old military outfit (or a new one) is likely to offer you an officer√≠s rank. You gain the free service of up to 8 **troopers**. Your new commanders will occasionally give you objectives: you will be expected to act independently in order to achieve these objectives.
 
 **Soldier Connections**
 
@@ -1672,13 +1672,13 @@ You will occasionally run into old comrades, some of whom may need favors. If yo
 
 **Soldier Mementos**
 
-1. A broken horn, tooth, or other trophy salvaged from an alien critterís corpse.
+1. A broken horn, tooth, or other trophy salvaged from an alien critter√≠s corpse.
 2. A trophy won in a battle (a tattered banner, a ceremonial sword, or similar).
 3. A gaming set.
 4. A letter from your sweetheart.
 5. An old wound that twinges in bad weather.
-6. A letter youíre supposed to deliver to a dead comradeís family.
-7. A horrifying memory you canít escape.
+6. A letter you√≠re supposed to deliver to a dead comrade√≠s family.
+7. A horrifying memory you can√≠t escape.
 8. Your old uniform, still pressed neatly and ready for use.
 9. The letter which discharged you dishonorably from the military which you still read every day.
 10. A medal for valor.
@@ -1689,7 +1689,7 @@ You will occasionally run into old comrades, some of whom may need favors. If yo
 
 **Skill Proficiencies:** Deception, Intimidation.
 
-**Tool Proficiencies:** Engineerís toolbox, weapon and armor maintenance tools, space vehicles.
+**Tool Proficiencies:** Engineer√≠s toolbox, weapon and armor maintenance tools, space vehicles.
 
 **Weapon Proficiences:** Starship weapons.
 
@@ -1711,14 +1711,14 @@ Once you have won enough fame, through either legal or illicit means, your name 
 
 1. An old crewmate who abandoned pirating and joined the law.
 2. Your old captain and mentor, who hates your guts for leaving.
-3. A rival who canít get over you surpassing them.
+3. A rival who can√≠t get over you surpassing them.
 4. A space officer who never managed to catch you.
 5. The most annoying of all your previous crewmates, who owes you a favor.
 6. A survivor from one of your attacks, who holds a grudge.
 7. The most dirty fixer in all of the galaxy, the only person you ever trusted.
 8. The family you found but chose to lose.
 9. A planet that still considers you a criminal.
-10. A treasure you were never able to find, but you know itís out there.
+10. A treasure you were never able to find, but you know it√≠s out there.
 
 **Space Pirate Mementos**
 
@@ -1759,7 +1759,7 @@ Once you have won enough fame, through either legal or illicit means, your name 
 4. The student who you went out of your way to help tutor.
 5. The dean who reprimanded you for your lazy work ethic but who admired your natural talent.
 6. A colleague who helped you cheat on your exams.
-7. The college bully who still hasnít gotten their comeuppance.
+7. The college bully who still hasn√≠t gotten their comeuppance.
 8. The brilliant student who had to leave the college after a scandal.
 9. The friend who went on to join the intelligence services.
 10. A demanding teacher who was too hard on you because they understand your true potential.
@@ -1767,14 +1767,14 @@ Once you have won enough fame, through either legal or illicit means, your name 
 **Student Mementos**
 
 1. Your college notebooks which you insisted on writing in by hand.
-2. A photograph of yourself in your graduation clothes. You donít know who that stranger is you have your arm around.
+2. A photograph of yourself in your graduation clothes. You don√≠t know who that stranger is you have your arm around.
 3. A letter of recommendation from your old professor.
 4. A textbook written by a scientist whose research has fallen into disgrace..
 5. The qualification certificate and medal of which you are so proud
 6. A pile of student debt you have yet to pay off.
 7. The scandalous novel you borrowed from your roommate. You never did give that back!.
-8. The university jacket, emblazoned with its logo, which doesnít really fit you any more.
-9. A piece of mysterious rock which you ëborrowedí from a university lab.
+8. The university jacket, emblazoned with its logo, which doesn√≠t really fit you any more.
+9. A piece of mysterious rock which you √´borrowed√≠ from a university lab.
 10. The letter an old flame left you when they suddenly disappeared from your life.
 
 # Destiny
@@ -1838,7 +1838,7 @@ Intimidation check. On a failure, the target is rattled until the end of its nex
 |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **LEVE L** | **PROF. BONU S** | **FEATURES** | **BLAST DAMAG E** | **DISCOVERIE S KNOWN** | **REFLEXE S KNOWN** | **PSIONI C POINTS** | **POWE R RATIN G** |
-| 1st | +2 | Psionic Blast, Psionic Powers | 1d8 | ó | 1 | 4 | I |
+| 1st | +2 | Psionic Blast, Psionic Powers | 1d8 | √≥ | 1 | 4 | I |
 | 2nd | +2 | Cognitive Discoveries, Mental Discipline (1), Unassailable Ego | 1d8 | 1 | 1 | 5 | I |
 | 3rd | +2 | Psion Archetype | 1d10 | 1 | 2 | 6 | I |
 | 4th | +2 | Ability Score Improvement, Demanding Excellence (1) | 1d10 | 1 | 3 | 6 | II |
@@ -1885,11 +1885,11 @@ As a psion you gain the following class features.
 
 ###### Equipment
 
-You begin the game with 150 credits which you can spend on your characterís starting weapons, armor, and adventuring gear. You can select your own gear, or choose one of the following equipment packages. Also consult the Suggested Equipment section of your chosen background.
+You begin the game with 150 credits which you can spend on your character√≠s starting weapons, armor, and adventuring gear. You can select your own gear, or choose one of the following equipment packages. Also consult the Suggested Equipment section of your chosen background.
 
-* **Pensive Sageís Package (cost 137 credits):** anti-inhibitive (2 uses), backpack, data wafer with historical lore, medium shock maul, canvas armor, focusing agent (2 uses), nano-bandage, notebook and pen, rations (10 Supply), psychic crystal (totem), two-person tent
-* **Commercial Telepathís Package (cost 115 credits):** personal communicator, slugger, synthweave, fine clothes
-* **Field Medicís Package (cost 185 credits):** antiseptic (5 uses), anxiety medication, blanket, 2 data wafers (medical journals), first aid kit (15 uses), flashlight, hyperweave armor, medium maul, handgun and 5 standard ammunition cartridges (20 ea.), smelling salts, sleeping bag, tactical case, two-person tent, universal airhypo
+* **Pensive Sage√≠s Package (cost 137 credits):** anti-inhibitive (2 uses), backpack, data wafer with historical lore, medium shock maul, canvas armor, focusing agent (2 uses), nano-bandage, notebook and pen, rations (10 Supply), psychic crystal (totem), two-person tent
+* **Commercial Telepath√≠s Package (cost 115 credits):** personal communicator, slugger, synthweave, fine clothes
+* **Field Medic√≠s Package (cost 185 credits):** antiseptic (5 uses), anxiety medication, blanket, 2 data wafers (medical journals), first aid kit (15 uses), flashlight, hyperweave armor, medium maul, handgun and 5 standard ammunition cartridges (20 ea.), smelling salts, sleeping bag, tactical case, two-person tent, universal airhypo
 
 ##### Psionic Powers
 
@@ -1921,7 +1921,7 @@ There are many paths to mental mastery. Choose Intelligence, Wisdom, or Charisma
 
 Psionic Focus
 
-You can use a psionic focus, such as a psychic crystal, for any of your powers. This enables you to concentrate on one additional power you know, as long as the sum of the powersí levels is less than or equal to your power rating. If you have to make a check to maintain concentration, roll for both powers individually.
+You can use a psionic focus, such as a psychic crystal, for any of your powers. This enables you to concentrate on one additional power you know, as long as the sum of the powers√≠ levels is less than or equal to your power rating. If you have to make a check to maintain concentration, roll for both powers individually.
 
 ###### Psionic Blast
 
@@ -1940,7 +1940,7 @@ When you reach 2nd level and again at 11th level, you can choose a psionic disci
 this focused specialization:
 
 * You learn one power from this discipline. This power does not count against your number of powers known.
-* Once per long rest you can manifest a power you know from this discipline without expending points from your reservoir as long as that powerís level doesnít exceed your current power rating. You must still expend points for any surge options you wish to apply.
+* Once per long rest you can manifest a power you know from this discipline without expending points from your reservoir as long as that power√≠s level doesn√≠t exceed your current power rating. You must still expend points for any surge options you wish to apply.
 
 ###### Unassailable Ego
 
@@ -1948,7 +1948,7 @@ At 2nd level, the ability to transform reality with the power of your mind requi
 
 Ambition
 
-You believe you are born for greatness and nothing must stand in your way; the rules that pertain to most donít apply to you. You gain proficiency with History and Intimidation or an
+You believe you are born for greatness and nothing must stand in your way; the rules that pertain to most don√≠t apply to you. You gain proficiency with History and Intimidation or an
 
 expertise die if you already have proficiency.
 
@@ -1970,7 +1970,7 @@ At 3rd level, you choose a psion archetype that reflects the journey upon which 
 
 ###### Ability Score Improvement
 
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you canít increase an ability score above 20 using this feature.
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can√≠t increase an ability score above 20 using this feature.
 
 ###### Demanding Excellence
 
@@ -2042,7 +2042,7 @@ If a cognitive discovery has prerequisites, you must meet them to learn it. You 
 
 ###### Buoy Spirits
 
-You use your empathic resonance to uplift your companionsí spirits as they travel.
+You use your empathic resonance to uplift your companions√≠ spirits as they travel.
 
 Once per region (or planetary system), allies can gain an expertise die for one journey activity they undertake.
 
@@ -2090,13 +2090,13 @@ Once between long rests, you can go without breathing for up to 1 hour.
 
 ##### Psion Archetypes
 
-Psion archetypes are paths of self revelation, each a journey towards becoming oneís true self through discipline, training, exploration, and reflection.
+Psion archetypes are paths of self revelation, each a journey towards becoming one√≠s true self through discipline, training, exploration, and reflection.
 
 ###### Augur
 
 Augurs are empathic visionaries, able to see the unseen and part the swirling mists of the future. Psions that travel this path often speak of living two lives: one in the present, another in the myriad of possible futures.
 
-Seekerís Vision
+Seeker√≠s Vision
 
 At 3rd level, when you take this archetype you can sense the whereabouts of things you seek. Once between rests you can use an action to focus your thoughts on a specified target to instantly determine whether the target you seek is within 30 feet.
 
@@ -2114,11 +2114,11 @@ By spending psionic points, you can extend your search in the following ways:
 
 **Greater Detection.** You can spend 2
 
-additional psionic points to increase your range to 5 miles, and you are drawn to the target, as if it is calling to you. You can pinpoint its location (including its current trajectory if itís traveling), and can continue to do so if channeling this feature. You can locate a specific or unique object, provided that you have observed it within 30 feet at least once.
+additional psionic points to increase your range to 5 miles, and you are drawn to the target, as if it is calling to you. You can pinpoint its location (including its current trajectory if it√≠s traveling), and can continue to do so if channeling this feature. You can locate a specific or unique object, provided that you have observed it within 30 feet at least once.
 
 **World-Wide Detection.** You can spend 3 additional psionic points to increase your range to planetary, and you can locate a specific or unique creature known to you, provided that you have observed it within 30 feet at least once.
 
-Beginnerís Luck
+Beginner√≠s Luck
 
 Also at 3rd level, you gain proficiency with all gaming sets and an expertise die when playing them for stakes.
 
@@ -2132,7 +2132,7 @@ At 15th level, through the force of your psionic will, you can peer into and att
 
 ###### Mindshear
 
-The mindshear psion is a master telepath, not simply capable of communicating by mental linkage, but able to draw out private thoughts, remove and replace memories, and even manipulate a creatureís sense of the here and now.
+The mindshear psion is a master telepath, not simply capable of communicating by mental linkage, but able to draw out private thoughts, remove and replace memories, and even manipulate a creature√≠s sense of the here and now.
 
 Inconceivable
 
@@ -2144,7 +2144,7 @@ Also at 3rd level, the following level II powers count as level I powers for you
 
 Bend Will
 
-Starting at 7th level, you can assert control over a targetís mind by using an action. The type of creature you can target is based on your psion level, as shown on the table below.
+Starting at 7th level, you can assert control over a target√≠s mind by using an action. The type of creature you can target is based on your psion level, as shown on the table below.
 
 TABLE: BEND WILL
 
@@ -2154,17 +2154,17 @@ TABLE: BEND WILL
 
 9th One humanoid 17th One creature
 
-The target makes a Wisdom saving throw against your psionics save DC. On a failure, the creature is charmed by you as long as you are channeling this feature. If the targetís saving throw is successful or the effect ends for it, it is immune to this feature for 24 hours. If it is engaged in combat with you or creatures friendly to you, it has advantage on its saving throw. You can channel this feature for 1 minute. The channeling limit increases with your power rating: 10 minutes at a rating of IV, 1 hour at V, and 8 hours at VI.
+The target makes a Wisdom saving throw against your psionics save DC. On a failure, the creature is charmed by you as long as you are channeling this feature. If the target√≠s saving throw is successful or the effect ends for it, it is immune to this feature for 24 hours. If it is engaged in combat with you or creatures friendly to you, it has advantage on its saving throw. You can channel this feature for 1 minute. The channeling limit increases with your power rating: 10 minutes at a rating of IV, 1 hour at V, and 8 hours at VI.
 
 Until the charmed condition ends,
 
-you establish a telepathic link with the target while you are in the same planetary system. You can use an action to give the creature a command. Alternatively, you can assume direct control over the target. Until the end of your next turn, you experience the world as it does, gaining the benefit of any special sense it has. You decide all of the targetís actions on its turn, and it does nothing you do not allow it to. While doing so you are blind and deaf to your own bodyís surroundings. If the creature is killed or falls unconscious while you are controlling it, you suffer a level of strife. While a target is directly controlled in this way, you can also use your own reaction to make it use a reaction.
+you establish a telepathic link with the target while you are in the same planetary system. You can use an action to give the creature a command. Alternatively, you can assume direct control over the target. Until the end of your next turn, you experience the world as it does, gaining the benefit of any special sense it has. You decide all of the target√≠s actions on its turn, and it does nothing you do not allow it to. While doing so you are blind and deaf to your own body√≠s surroundings. If the creature is killed or falls unconscious while you are controlling it, you suffer a level of strife. While a target is directly controlled in this way, you can also use your own reaction to make it use a reaction.
 
 The effect ends if you or your companions do anything harmful towards the target. Each time the target takes damage, it makes a new saving throw, ending the effect and breaking your concentration on a success. The target knows it was charmed by you when the effect ends. Once you have used this feature you cannot use it again until you finish a long rest.
 
 Cognitive Dissonance
 
-At 15th level, you can telepathically fill a creatureís mind with beliefs and attitudes in direct opposition to its typical thinking. Once between long rests you can spend an action to target one creature within 30 feet. The target makes a Wisdom saving throw against your psionics ability DC. On a failure, the creature takes 9d10 psychic damage and becomes confused until the beginning of your next turn. A target that succeeds on its saving throw takes half damage and is slowed rather than confused.
+At 15th level, you can telepathically fill a creature√≠s mind with beliefs and attitudes in direct opposition to its typical thinking. Once between long rests you can spend an action to target one creature within 30 feet. The target makes a Wisdom saving throw against your psionics ability DC. On a failure, the creature takes 9d10 psychic damage and becomes confused until the beginning of your next turn. A target that succeeds on its saving throw takes half damage and is slowed rather than confused.
 
 You can use your reaction to channel this feature for up to 1 minute; while you are channeling, a creature that failed its initial saving throw makes an additional saving throw at the beginning of each of your turns or remains confused and suffers 1d10 psychic damage.
 
@@ -2188,24 +2188,24 @@ When you choose this archetype at 3rd level, you learn to share a portion of you
 
 Accelerate Healing
 
-At 3rd level, you learn to psionically enhance a creatureís natural ability to heal. Whenever you use this feature, choose one of the following options:
+At 3rd level, you learn to psionically enhance a creature√≠s natural ability to heal. Whenever you use this feature, choose one of the following options:
 
 * As a bonus action, you may target one creature within 60 feet and cause its body to regain hit points equal to 1d4 + your psionics ability modifier. The number of hit points regained increases by 2d4 each time your power rating increases.
 * You spend 10 minutes meditating over up to 6 targets within 30 feet.
 
 Each target you meditate over in this way regains hit points equal to 2d8 + your psionics ability modifier. The number of hit points regained increases by 1d8 each time your power rating increases.
 
-* As an action, you can expend two uses of this feature to touch a creature and remove one disease or condition afflicting it. Choose from blinded, deafened, paralyzed, or poisoned. At the Narratorís discretion, some diseases may not be curable by this feature.
+* As an action, you can expend two uses of this feature to touch a creature and remove one disease or condition afflicting it. Choose from blinded, deafened, paralyzed, or poisoned. At the Narrator√≠s discretion, some diseases may not be curable by this feature.
 
 You can use this feature a number of times equal to your Constitution modifier, and regain all expended uses whenever you finish a long rest.
 
 Bedside Manner
 
-Also at 3rd level, you can ease a creatureís pain and suffering just by spending time with it. As a downtime activity or during a short or long rest, you can reduce the duration of a short-term mental stress effect by 1d6 days or temporarily relieve a
+Also at 3rd level, you can ease a creature√≠s pain and suffering just by spending time with it. As a downtime activity or during a short or long rest, you can reduce the duration of a short-term mental stress effect by 1d6 days or temporarily relieve a
 
 long-term mental stress effect for the next 2d4 days.
 
-At power rating II, you can use this feature to wholly remove a short-term mental stress effect; at power rating III, you can remove a long-term mental stress effect. At the Narratorís discretion, some mental stress effects might not be relieved or removed by this feature. You can use this feature a number of times equal to your Wisdom modifier, you regain all expended uses whenever you finish a long rest.
+At power rating II, you can use this feature to wholly remove a short-term mental stress effect; at power rating III, you can remove a long-term mental stress effect. At the Narrator√≠s discretion, some mental stress effects might not be relieved or removed by this feature. You can use this feature a number of times equal to your Wisdom modifier, you regain all expended uses whenever you finish a long rest.
 
 Transfuse Vitality
 
@@ -2217,7 +2217,7 @@ You can use this feature a number of times equal to your Constitution modifier, 
 
 Reconstitute Life
 
-At 15th Level you can bring the dead back to life. You can spend 1 hour focused on harmonizing a dead creatureís lifeless body with its departed consciousness. Provided the targetís soul is willing and able to return to its body, and has not been dead for more than 1 year, it returns to life with all of its hit points. This feature requires a psychic crystal worth at least 25,000 credits, which is consumed in the process.
+At 15th Level you can bring the dead back to life. You can spend 1 hour focused on harmonizing a dead creature√≠s lifeless body with its departed consciousness. Provided the target√≠s soul is willing and able to return to its body, and has not been dead for more than 1 year, it returns to life with all of its hit points. This feature requires a psychic crystal worth at least 25,000 credits, which is consumed in the process.
 
 This feature cures any poisons and diseases, closes all mortal wounds, and restores any missing body parts that affected the target at the time of death. The creature then appears in an unoccupied space you choose within 10 feet of you.
 
@@ -2243,7 +2243,7 @@ TABLE: ENERGIZATION
 | --- | --- |
 | **ENERGY TYPE** | **EFFECT** |
 | Fire | Deals an additional 1d6 fire damage and ignites flammable materials requiring an action and a free hand to put out |
-| Cold | Deals an additional 1d6 cold damage and delays the targetís initiative count for its next turn by a number equal to the additional cold damage done. Its initiative remains at the new value for the remainder of the encounter |
+| Cold | Deals an additional 1d6 cold damage and delays the target√≠s initiative count for its next turn by a number equal to the additional cold damage done. Its initiative remains at the new value for the remainder of the encounter |
 | Lightning | Deals an additional 2d4 lightning damage, which increases to 3d4 lightning damage if the target is wearing metal armor and disarms a creature wielding a metal weapon if they fail a Strength saving throw vs. your psionics save DC. |
 | Force | Deals an additional 1d4 force damage and pushes a Medium or smaller sized creature back 10 feet |
 | Psychic | Deals an additional 1d4 psychic damage and causes the target to suffer disadvantage on its next attack |
@@ -2281,7 +2281,7 @@ your psionics save DC or take 1d6 force damage and be knocked prone. At the end 
 |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **LEVE L** | **PROF. BONU S** | **FEATURES** | **ISOMETRIC S KNOWN** | **POWER REFLEXE S**  **S KNOWN KNOWN** | | **POWE R RATIN G** | **MANEUVER S KNOWN** | **MANEUVE R DEGREE** |
-| 1st | +2 | Emergent Psionics, Psionic Guard, Psychic Isometrics, Kinetic Burst | 1 | ó | ó | ó | ó | ó |
+| 1st | +2 | Emergent Psionics, Psionic Guard, Psychic Isometrics, Kinetic Burst | 1 | √≥ | √≥ | √≥ | √≥ | √≥ |
 | 2nd | +2 | Combat Maneuvers, Emergent Psionics, Code of Conscience | 1 | 1 | 1 | I | 2 | 1st |
 | 3rd | +2 | Extra Effort, Psyknight Archetype | 1 | 1 | 2 | I | 2 | 1st |
 | 4th | +2 | Ability Score Improvement, Starwielder Tactics (2) | 2 | 1 | 2 | I | 3 | 2nd |
@@ -2328,14 +2328,14 @@ As a psyknight, you gain the following class features.
 
 ###### Equipment
 
-You begin the game with 200 credits which you can spend on your characterís starting weapons, armor, and adventuring gear. You can select your own gear or choose one of the following equipment packages. Also consult the Suggested Equipment section of your chosen background.
+You begin the game with 200 credits which you can spend on your character√≠s starting weapons, armor, and adventuring gear. You can select your own gear or choose one of the following equipment packages. Also consult the Suggested Equipment section of your chosen background.
 
-* **Confidence Artistís Package (cost 177 credits):** backpack, camouflage canvas armor, flashlight, jolt pistol and shock energy battery (20), lighter (30 uses), multitool, sleeping bag, one-person tent, 2 light polearms
-* **Master Duelistís Package (cost 186 credits):** blanket, earplugs, dueling sword (medium force blade), lighter (30 uses), mirrored
+* **Confidence Artist√≠s Package (cost 177 credits):** backpack, camouflage canvas armor, flashlight, jolt pistol and shock energy battery (20), lighter (30 uses), multitool, sleeping bag, one-person tent, 2 light polearms
+* **Master Duelist√≠s Package (cost 186 credits):** blanket, earplugs, dueling sword (medium force blade), lighter (30 uses), mirrored
 
 synthweave armor (2 pockets), smelling salts, tactical maul
 
-* **Wayward Drifterís Package (cost 139 credits):** backpack, first aid kit (15 uses), flashlight, psychic crystal, first aid kit (15 uses), leather armor, light blade
+* **Wayward Drifter√≠s Package (cost 139 credits):** backpack, first aid kit (15 uses), flashlight, psychic crystal, first aid kit (15 uses), leather armor, light blade
 
 ###### Emergent Psionics
 
@@ -2343,7 +2343,7 @@ At 1st level, you have expanded your mind, and your latent psionic powers have b
 
 Psionics Ability
 
-While mastering control of their psychic talent takes effort and discipline, a psyknightís connection to it is intuitive and natural. Wisdom is your psionics ability for your powers. You use your Wisdom whenever a power of feature refers to your psionics ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a psionics power or feature and when making an attack roll with one.
+While mastering control of their psychic talent takes effort and discipline, a psyknight√≠s connection to it is intuitive and natural. Wisdom is your psionics ability for your powers. You use your Wisdom whenever a power of feature refers to your psionics ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a psionics power or feature and when making an attack roll with one.
 
 **Psionics save DC** = 8 + your proficiency bonus + your Wisdom modifier
 
@@ -2351,7 +2351,7 @@ While mastering control of their psychic talent takes effort and discipline, a p
 
 Psychic Impulse
 
-Also at 1st level you gain the following abilities. Once you have used this feature, you canít do so again until you finish a long rest.
+Also at 1st level you gain the following abilities. Once you have used this feature, you can√≠t do so again until you finish a long rest.
 
 **Psychic Detonation.** When an enemy moves to flank you, you can use your reaction to send a concussive force outward; enemies in flanking positions make a Strength saving throw or be knocked back 5 feet.
 
@@ -2391,7 +2391,7 @@ creature, dealing force damage equal to 1d6
 
 ###### Code of Conscience
 
-Transcending the physical nature of oneís own body requires an unwavering strength of will. By aligning with a core set of values, you narrow your focus and solidify your will. At 2nd level, choose an option from the following.
+Transcending the physical nature of one√≠s own body requires an unwavering strength of will. By aligning with a core set of values, you narrow your focus and solidify your will. At 2nd level, choose an option from the following.
 
 The High Road
 
@@ -2409,7 +2409,7 @@ it. You recover a number of hit points equal to your roll. Additionally, you gai
 
 ###### Combat Maneuvers
 
-At 2nd level, you gain the ability to use combat maneuvers. You gain proficiency in two combat traditions from the following list: Ace Starfighter, Blazing Starglaive, Mindful Body, Mirrorís Glint, Rapid Current, Razorís Edge, and Tooth and Claw. You learn two maneuvers of your choice from traditions you are proficient with.
+At 2nd level, you gain the ability to use combat maneuvers. You gain proficiency in two combat traditions from the following list: Ace Starfighter, Blazing Starglaive, Mindful Body, Mirror√≠s Glint, Rapid Current, Razor√≠s Edge, and Tooth and Claw. You learn two maneuvers of your choice from traditions you are proficient with.
 
 You gain an exertion pool equal to twice your proficiency bonus, regaining any spent exertion at the end of a short or long rest. You use your maneuvers by spending points from your exertion pool. The Maneuvers Known column of the Psyknight table shows when you learn more maneuvers from a tradition you are proficient with, while the Maneuver Degree column shows the highest degree you can select maneuvers from at a given level.
 
@@ -2493,11 +2493,11 @@ TABLE: KNOCK PRONE
 
 **Psyknight Level Size**
 
-1ñ10 Medium or smaller
+1√±10 Medium or smaller
 
-11ñ16 Large
+11√±16 Large
 
-17ñ20 Huge
+17√±20 Huge
 
 Plyometric Leap
 
@@ -2551,7 +2551,7 @@ Once you have used this tactic you may not use it again until you have taken a s
 
 ###### Ability Score Improvement
 
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you canít increase an ability score above 20 using this feature.
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can√≠t increase an ability score above 20 using this feature.
 
 ###### Extra Attack
 
@@ -2585,9 +2585,9 @@ Once you use this feature you cannot do so again until you finish a long rest.
 
 Crushing Weight
 
-Your powers of telekinesis know no bounds. When you use this feature you exert an invisible force of pressure that can counter a starshipís engines or crumple a blast door like a sheet of paper. As an action you can spend 1 or more exertion and make a ranged psionic attack against an object you can see. On a hit, you deal 1d12 force damage for each point of exertion that you spend.
+Your powers of telekinesis know no bounds. When you use this feature you exert an invisible force of pressure that can counter a starship√≠s engines or crumple a blast door like a sheet of paper. As an action you can spend 1 or more exertion and make a ranged psionic attack against an object you can see. On a hit, you deal 1d12 force damage for each point of exertion that you spend.
 
-Alternatively, you can choose to do no damage but instead to halt a vehicle or starship which is not moving at FTL speed. Spend exertion equal to the shipís grade (minimum 1 exertion). The shipís speed is reduced to 0 until the start of your next turn.
+Alternatively, you can choose to do no damage but instead to halt a vehicle or starship which is not moving at FTL speed. Spend exertion equal to the ship√≠s grade (minimum 1 exertion). The ship√≠s speed is reduced to 0 until the start of your next turn.
 
 Impervious Defense
 
@@ -2646,7 +2646,7 @@ Whenever you would suffer the enervated condition, you may choose to gain a leve
 
 ###### Psychic Rejuvenation
 
-You can spend an action to use your psionic energy to heal an injured ally within reach. Spend one or more of your allyís hit dice.
+You can spend an action to use your psionic energy to heal an injured ally within reach. Spend one or more of your ally√≠s hit dice.
 
 Your ally recovers hit points equal to the total you roll on the expended hit dice.
 
@@ -2720,13 +2720,13 @@ Starglaive
 
 *Weapon, rare (requires attunement; cost 10,000 credits)*
 
-**Crafting Components:** psychic crystal, psyknightís Starglaive feature
+**Crafting Components:** psychic crystal, psyknight√≠s Starglaive feature
 
-This customized hilt contains a specially attuned psychic crystal which fuses plasma and force energies into a deadly, superheated blade. A starglaive ignites from the hilt upon activation, shaped from fields of shimmering force energy and infused with vibrantly glowing plasma. The blade casts bright light in a 10 foot radius and dim light for another 10 feet. Dropping, throwing, or otherwise being disarmed of the starglaive immediately deactivates it (although some psyknights are able to learn techniques which allow them to throw an ignited starglaive). The color of a starglaiveís blade is based on the damage type it inflicts.
+This customized hilt contains a specially attuned psychic crystal which fuses plasma and force energies into a deadly, superheated blade. A starglaive ignites from the hilt upon activation, shaped from fields of shimmering force energy and infused with vibrantly glowing plasma. The blade casts bright light in a 10 foot radius and dim light for another 10 feet. Dropping, throwing, or otherwise being disarmed of the starglaive immediately deactivates it (although some psyknights are able to learn techniques which allow them to throw an ignited starglaive). The color of a starglaive√≠s blade is based on the damage type it inflicts.
 
 **Attunement.** Due to the many intense energies surging through a starglaive, and the inherent dangerousness of the weapon, a creature not attuned to a starglaive has disadvantage on all attack rolls using this weapon. Only creatures with 3 or more psyknight levels may attune to a starglaive.
 
-**Properties.** The starglaive is a medium blade and does 1d12 damage of the type selected when you constructed the weapon, has the defensive (light and medium), parrying, and finesse properties, and weighs 1 lb. Attacks made with a starglaive ignore the parrying property of melee weapons that donít have an energy augment.
+**Properties.** The starglaive is a medium blade and does 1d12 damage of the type selected when you constructed the weapon, has the defensive (light and medium), parrying, and finesse properties, and weighs 1 lb. Attacks made with a starglaive ignore the parrying property of melee weapons that don√≠t have an energy augment.
 
 **Cutting.** A starglaive blade can cut through metal, rock, or other heavy duty material up to 2 feet thick at a rate of 2 feet per round.
 
@@ -2744,7 +2744,7 @@ Radiant White
 
 Starglaive Variants
 
-In addition to blades, starglaives also come in maul and polearm variants. These variants replace the starglaiveís cutting ability with the following.
+In addition to blades, starglaives also come in maul and polearm variants. These variants replace the starglaive√≠s cutting ability with the following.
 
 **Mauls.** A starglaive maul has the breaker property.
 
@@ -2757,7 +2757,7 @@ Some starglaives are greater than others. These legendary weapons grant a bonus 
 |  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | **Starglaive** | **Rarity** | **Bonus** | **Cost (cr)** | **Level Prerequisite\*** |
-| *Starglaive* | Rare | ñ | 10,000 | Psyknight 3 |
+| *Starglaive* | Rare | √± | 10,000 | Psyknight 3 |
 | *Greater Starglaive* | Rare | +1 | 15,000 | Psyknight 7 |
 | *Superior Starglaive* | Very Rare | +2 | 19,500 | Psyknight 11 |
 | *Supreme Starglaive* | Legendary | +3 | 24,000 | Psyknight 15 |
@@ -2774,7 +2774,7 @@ Starting at 9th level, your exertion cost to manifest psionic powers of level II
 
 Overwhelming Presence
 
-At 14th level, your power and reputation are such that your very presence on the field of battle is enough to inspire an enemy to surrender. Your prestige rating increases by 1, and when you take an action to make an Intimidation or Persuasion check and offer a target enemy creature with a Challenge Rating lower than your psyknight level the opportunity to surrender, you can add your Prestige rating to the roll. On a success, the target surrenders or attempts to flee (Narratorís discretion). On a failure, the target neither surrenders nor flees, but if your Prestige rating is higher than theirs, they have disadvantage on attacks that target you. This feature does not affect creatures with an Intelligence score of less than 3, without self-awareness (such as certain constructs), or that are immune to psychic damage.
+At 14th level, your power and reputation are such that your very presence on the field of battle is enough to inspire an enemy to surrender. Your prestige rating increases by 1, and when you take an action to make an Intimidation or Persuasion check and offer a target enemy creature with a Challenge Rating lower than your psyknight level the opportunity to surrender, you can add your Prestige rating to the roll. On a success, the target surrenders or attempts to flee (Narrator√≠s discretion). On a failure, the target neither surrenders nor flees, but if your Prestige rating is higher than theirs, they have disadvantage on attacks that target you. This feature does not affect creatures with an Intelligence score of less than 3, without self-awareness (such as certain constructs), or that are immune to psychic damage.
 
 ###### Soulknife
 
@@ -2804,21 +2804,21 @@ Piercing Soul
 
 Beginning at 9th level, once between rests when you hit a creature with a psychic dagger attack, you can use your reaction to
 
-strike directly at the creatureís psyche instead of dealing damage. The target makes a Constitution saving throw against your psionics save DC, suffering your choice of one of the following conditions until the end of your next turn on a failure: confused, frightened (with you as the source of their fear), rattled, or slowed. On a successful save, the creature is immune to this effect for 24 hours.
+strike directly at the creature√≠s psyche instead of dealing damage. The target makes a Constitution saving throw against your psionics save DC, suffering your choice of one of the following conditions until the end of your next turn on a failure: confused, frightened (with you as the source of their fear), rattled, or slowed. On a successful save, the creature is immune to this effect for 24 hours.
 
 Twist of Fate
 
-At 14th level you have learned to pair your mental and physical prowess to achieve your goals. Choose one sentient creature within melee or ranged distance. As an action you can make a Sleight of Hand check against the targetís passive Perception. On a failure, your attempt misses, but the target remains unaware of the attempt. On a success, you hit the target with your psychic dagger. Instead of damage, you instead manifest one of the following effects:
+At 14th level you have learned to pair your mental and physical prowess to achieve your goals. Choose one sentient creature within melee or ranged distance. As an action you can make a Sleight of Hand check against the target√≠s passive Perception. On a failure, your attempt misses, but the target remains unaware of the attempt. On a success, you hit the target with your psychic dagger. Instead of damage, you instead manifest one of the following effects:
 
-**Critical Coma.** You hit and deal damage with both of your psychic daggers. If the target survives and the damage done is equal to or greater than the targetís Wisdom score, it falls asleep. Otherwise, it is rattled until the beginning of its next turn. Slumbering creatures stay asleep for 1 minute unless it takes damage or someone uses an action to physically wake it.
+**Critical Coma.** You hit and deal damage with both of your psychic daggers. If the target survives and the damage done is equal to or greater than the target√≠s Wisdom score, it falls asleep. Otherwise, it is rattled until the beginning of its next turn. Slumbering creatures stay asleep for 1 minute unless it takes damage or someone uses an action to physically wake it.
 
-**Falsified Memory.** You implant one false memory into the targetís mind. The target believes this memory to be true for 1d6 days unless its memory is psychically restored. During this time, they suffer the bewildered short-term mental stress effect. After completing a long rest at a haven, the target can make an Intelligence saving throw against your psionics save DC to remove the bewildered effect early and recognize the memory as false.
+**Falsified Memory.** You implant one false memory into the target√≠s mind. The target believes this memory to be true for 1d6 days unless its memory is psychically restored. During this time, they suffer the bewildered short-term mental stress effect. After completing a long rest at a haven, the target can make an Intelligence saving throw against your psionics save DC to remove the bewildered effect early and recognize the memory as false.
 
 **Profound Fear.** The target develops an irrational fear of an item, creature, or sound of your choice. This fear counts
 
 as the phobia long-term mental stress effect and lasts for 1d6 days or until it is relieved by psychic means, whichever comes first. After completing a long rest at a haven, the target can make an Wisdom saving throw against your psionics save DC to remove the phobia effect early.
 
-**Stolen Secrets.** You delve into the targetís thoughts and discover secrets they would otherwise keep hidden. The target remains unaware that you accessed these thoughts for 1d6 days, after which time it remembers the intrusion and knows you are the source of the effect.
+**Stolen Secrets.** You delve into the target√≠s thoughts and discover secrets they would otherwise keep hidden. The target remains unaware that you accessed these thoughts for 1d6 days, after which time it remembers the intrusion and knows you are the source of the effect.
 
 **Unfathomed Thoughts.** The target is stunned until the beginning of your next turn as it becomes lost in contemplation of all the deep mysteries of life.
 
@@ -2833,20 +2833,20 @@ as the phobia long-term mental stress effect and lasts for 1d6 days or until it 
 | 2nd | +2 | Archetype Feature | 3 |
 | 3rd | +2 | Academic Standing | 4 |
 | 4th | +2 | Ability Score Increase | 5 |
-| 5th | +3 | ó | 6 |
+| 5th | +3 | √≥ | 6 |
 | 6th | +3 | Archetype Feature | 7 |
 | 7th | +3 | Scientific Leadership | 8 |
 | 8th | +3 | Ability Score Increase, Archetype Feature | 9 |
 | 9th | +4 | Scientific Achievement | 10 |
 | 10th | +4 | Archetype Feature | 11 |
-| 11th | +4 | ó | 12 |
+| 11th | +4 | √≥ | 12 |
 | 12th | +4 | Ability Score Increase | 13 |
-| 13th | +5 | ó | 14 |
+| 13th | +5 | √≥ | 14 |
 | 14th | +5 | Archetype Feature | 15 |
 | 15th | +5 | Glimpse of Infinity | 16 |
 | 16th | +5 | Ability Score Improvement | 17 |
-| 17th | +6 | ó | 18 |
-| 18th | +6 | ó | 19 |
+| 17th | +6 | √≥ | 18 |
+| 18th | +6 | √≥ | 19 |
 | 19th | +6 | Ability Score Improvement | 20 |
 | 20th | +6 | Galactic Genius | 21 |
 
@@ -2876,7 +2876,7 @@ As a scientist, you gain the following class features.
 
 ###### Equipment
 
-You begin the game with 200 credits which you can spend on your characterís starting weapons, armor, and adventuring gear. You can select your own gear or choose one of the following equipment packages. Also consult the Suggested Equipment section of your chosen background.
+You begin the game with 200 credits which you can spend on your character√≠s starting weapons, armor, and adventuring gear. You can select your own gear or choose one of the following equipment packages. Also consult the Suggested Equipment section of your chosen background.
 
 * **Field Researcher Kit (cost 160 credits):** Personal communicator, Personal Computing Device, duffle bag, notebook, zero-g pen, first aid kit (15 uses), antiseptic (5 uses), pistol (20 rounds of ammunition), leather armor.
 * **Frontline Specialist Kit (cost 191 credits):** Personal communicator, tactical clothing, tactical case, multitool, rifle (20 rounds of ammunition), riot armor
@@ -2884,7 +2884,7 @@ You begin the game with 200 credits which you can spend on your characterís star
 
 ###### Encyclopedic Knowledge
 
-At 1st-level you gain an expertise die on all Science checks and for you expertise dice in the Science skill can be upgraded to d12, exceeding the usual limit on expertise dice. In addition to your personal wealth of information, you also know how to quickly scour digital databases to find whatever answer you might need. When you make a skill check related to scientific knowledge (such as those made to identify a lifeform, natural phenomenon, or technology) and you have access to a computer network, you can supplement your knowledge with the computerís database as an action.
+At 1st-level you gain an expertise die on all Science checks and for you expertise dice in the Science skill can be upgraded to d12, exceeding the usual limit on expertise dice. In addition to your personal wealth of information, you also know how to quickly scour digital databases to find whatever answer you might need. When you make a skill check related to scientific knowledge (such as those made to identify a lifeform, natural phenomenon, or technology) and you have access to a computer network, you can supplement your knowledge with the computer√≠s database as an action.
 
 When you do, you treat a d20 roll of 9 or lower as a 10.
 
@@ -2896,7 +2896,7 @@ Each scientist is inherently diverse in their own body of knowledge, yet among v
 
 At 1st level, you have a particular means of putting your theories into practice as you discover new theories or build new inventions. Your praxes options are detailed at the end of the class description. When
 
-you gain scientist levels, you gain additional praxes of your choice, as shown in the ìPraxes Knownî column of the Scientist table. If you should gain bonus praxes, they do not count against your Praxes Known.
+you gain scientist levels, you gain additional praxes of your choice, as shown in the √¨Praxes Known√Æ column of the Scientist table. If you should gain bonus praxes, they do not count against your Praxes Known.
 
 Intelligence is the ability for your scientific praxis features. You use your Intelligence whenever a praxis refers to your scientific ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a scientist feature and when making an attack roll using the Science skill.
 
@@ -2908,7 +2908,7 @@ Tools of Science
 
 Scientists use a wide variety of high-end technology and techniques to supplement both their research and their needs as voidrunners.
 
-You access your praxes using your tools of science, such as a medical pouch, hacking tools, or engineerís toolbox, which are defined by your archetype. You gain proficiency in those tools. Your tools also include expendable resources which can limit the frequency with which you use certain features. If you become separated from your gear, your praxes are ineffective or unable to be used. Your features are restored to normal once you retrieve or replace your tools.
+You access your praxes using your tools of science, such as a medical pouch, hacking tools, or engineer√≠s toolbox, which are defined by your archetype. You gain proficiency in those tools. Your tools also include expendable resources which can limit the frequency with which you use certain features. If you become separated from your gear, your praxes are ineffective or unable to be used. Your features are restored to normal once you retrieve or replace your tools.
 
 ###### Scrutinize
 
@@ -2942,7 +2942,7 @@ Creation and discovery are more important to you than anything else, such as law
 
 ###### Ability Score Improvement
 
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you canít increase an ability score above 20 using this feature.
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can√≠t increase an ability score above 20 using this feature.
 
 ###### Scientific Leadership
 
@@ -2999,7 +2999,7 @@ Prize
 
 ###### Glimpse of Infinity
 
-At 15th level, at the risk of sounding somewhat unscientific, your deep experiences in science grant you insights some might call "mystical"óand you put them to logical use. Choose one of the following.
+At 15th level, at the risk of sounding somewhat unscientific, your deep experiences in science grant you insights some might call "mystical"√≥and you put them to logical use. Choose one of the following.
 
 Alien Resonance
 
@@ -3012,7 +3012,7 @@ Equations of chaos and cosmic probability stream constantly through your mind. T
 * Favorable (good results likely)
 * Unfavorable (bad results likely)
 * Costly (both good and bad results likely)
-* Inconsequential (results that arenít especially good or bad)
+* Inconsequential (results that aren√≠t especially good or bad)
 
 This calculation does not account for possible circumstances that could change the outcome, such as making additional preparations.
 
@@ -3046,7 +3046,7 @@ digital recordings and live streams, this creature is nearly invisible except fo
 
 You have a device that employs both radiation and nutrient-dense nanites to enable plants to grow at an unnatural speed. You can set the device to emit its payload immediately, or for a prolonged period for a long-term benefit.
 
-You can use an action to cause all plants within 100 feet of a point you can see to grow suddenly. Vegetation in the area immediately becomes thick and overgrown. Every foot of movement a creature takes within this area costs 2 extra feet. Plant creatures instead gain temporary hit points equal to 3 ◊ your scientist level.
+You can use an action to cause all plants within 100 feet of a point you can see to grow suddenly. Vegetation in the area immediately becomes thick and overgrown. Every foot of movement a creature takes within this area costs 2 extra feet. Plant creatures instead gain temporary hit points equal to 3 ‚óä your scientist level.
 
 Alternatively, you can monitor the device as it safely irradiates all plants in a half-mile radius over the course of 8 hours. The affected plants yield double their crop for 1 year.
 
@@ -3098,13 +3098,13 @@ Creatures and devices in the explosion radius make Constitution saving throws
 
 against your Science save DC. On a successful saving throw, a target is rattled until the end of its next turn. On a failure, the target becomes slowed for 1 minute. At the end of each of its turns, a slowed target repeats the saving throw to end the effect on it.
 
-Alternatively, as an action you can cause the grenade to implode, increasing the flow of time for a single creature in your line of effect within 30 feet. For 1 minute, the targetís Speed is doubled, it gains a +2 bonus to AC, it has advantage on Dexterity saving throws, and it gains one additional action on each of its turns. This action can be used to make a single weapon attack, or to take the Dash, Disengage, Hide, or Use an Object action. Such an effect is taxing, however. At the end of the duration, the target canít use movement or take actions until after its next turn.
+Alternatively, as an action you can cause the grenade to implode, increasing the flow of time for a single creature in your line of effect within 30 feet. For 1 minute, the target√≠s Speed is doubled, it gains a +2 bonus to AC, it has advantage on Dexterity saving throws, and it gains one additional action on each of its turns. This action can be used to make a single weapon attack, or to take the Dash, Disengage, Hide, or Use an Object action. Such an effect is taxing, however. At the end of the duration, the target can√≠t use movement or take actions until after its next turn.
 
 ###### Cloaking Device
 
 *Prerequisite: 4th level*
 
-Once between long rests, you can deploy an experimental device to hide a creature from view. As an action, you cloak one creature you touch with a fragile device, turning it invisible. Anything the target is carrying or wearing is invisible as long as it remains in the targetís possession. The device functions for 30 minutes, but malfunctions if the target attacks or uses a psionic power, ending the invisibility early.
+Once between long rests, you can deploy an experimental device to hide a creature from view. As an action, you cloak one creature you touch with a fragile device, turning it invisible. Anything the target is carrying or wearing is invisible as long as it remains in the target√≠s possession. The device functions for 30 minutes, but malfunctions if the target attacks or uses a psionic power, ending the invisibility early.
 
 ###### Custom Blaster
 
@@ -3148,7 +3148,7 @@ You have one emergency biome, stored in a pressurized smart capsule nearly the s
 
 a coin. You can use it once between long rests, and preparing each use consumes 200 credits of materials.
 
-Deploying the emergency biome capsule takes 1 minute. Once deployed, the capsule emits a 10-foot radius hemisphere of immobile protective force. Creatures you designate can pass through the dome, although external atmospheric conditions and radiation (other than visible light) do not. It is proofed for use against a hard vacuum. The capsule fills that hemisphere with the atmospheric conditions you designate (such as the air, temperature, and humidity of a pleasant day on your homeworld). This dome can fit up to 10 Medium creatures inside, provides shelter, and can be used as a safe haven. The dome is transparent from the inside, but it canít be seen through from the outside and is the color of your choice. The interior is dimly lit, and you can turn the light off or on during your turn without using an action.
+Deploying the emergency biome capsule takes 1 minute. Once deployed, the capsule emits a 10-foot radius hemisphere of immobile protective force. Creatures you designate can pass through the dome, although external atmospheric conditions and radiation (other than visible light) do not. It is proofed for use against a hard vacuum. The capsule fills that hemisphere with the atmospheric conditions you designate (such as the air, temperature, and humidity of a pleasant day on your homeworld). This dome can fit up to 10 Medium creatures inside, provides shelter, and can be used as a safe haven. The dome is transparent from the inside, but it can√≠t be seen through from the outside and is the color of your choice. The interior is dimly lit, and you can turn the light off or on during your turn without using an action.
 
 This device fails if more than 10 Medium creatures occupy it.
 
@@ -3234,7 +3234,7 @@ At 11th level, the area scanned is a 50 mile radius and includes information on 
 
 ###### Grenade Enthusiast
 
-To you, all voidrunners should know about the hazardous materials common to their tradeóand their reaction to open flame.
+To you, all voidrunners should know about the hazardous materials common to their trade√≥and their reaction to open flame.
 
 Over the course of 1 minute, you can use this feature to create one grenade, mine, or remote detonator. Items produced in this way lose effectiveness after 1 hour.
 
@@ -3269,7 +3269,7 @@ You gain the service of a follower chosen from the following: engineer, medic, s
 
 *Prerequisite: 13th level*
 
-As part of a long rest, you can tune up one spacecraft you have access to. For the next 24 hours, the ship's impulse speed improves by one category, and if it is capable of FTL travel itís FTL speed is improved by 2.
+As part of a long rest, you can tune up one spacecraft you have access to. For the next 24 hours, the ship's impulse speed improves by one category, and if it is capable of FTL travel it√≠s FTL speed is improved by 2.
 
 ###### Makeshift Forcefield
 
@@ -3465,7 +3465,7 @@ You also gain the following proficiencies and features:
 
 Tools of Science
 
-Additionally at 1st level you gain an engineerís toolbox which is your tool of science.
+Additionally at 1st level you gain an engineer√≠s toolbox which is your tool of science.
 
 Analytical Attack
 
@@ -3475,7 +3475,7 @@ can choose to inflict the charmed, confused, or restrained condition, but the ta
 
 Miracle Worker
 
-At 2nd level, if you can fix it, you can fix it with your engineerís toolbox. You can use an engineerís toolbox in lieu of any tool with which you're proficient for the purposes of making repairs, and using it in this way does not incur the normal penalties.
+At 2nd level, if you can fix it, you can fix it with your engineer√≠s toolbox. You can use an engineer√≠s toolbox in lieu of any tool with which you're proficient for the purposes of making repairs, and using it in this way does not incur the normal penalties.
 
 You can also undertake repairs at breakneck speed. On each of your turns, you can use a bonus action to use a tool you are proficient with in a way that normally requires an action. When you spend 1 minute or longer to craft, repair, or dismantle an item or vehicle using one of your proficient tools, the total time it takes you is reduced by half.
 
@@ -3489,13 +3489,13 @@ You can command the automaton using voice control or one of your devices with no
 
 completed or you issue a new command. Any saving throws caused by your automaton utilize your science save DC and your automaton gains a bonus to its attack and damage rolls equal to your Intelligence modifier. If your automaton is lost or destroyed, you can create a new one over the course of a long rest with 50 credits worth of replacement parts.
 
-**Hot-Swap.** Once between long rests you can spend one minute to make adjustments to an energy weapon using your engineerís toolbox. Select a damage type from the following list: cold, fire, force, lightning, radiant, thunder. The weaponís damage type changes to that damage type for 1 hour.
+**Hot-Swap.** Once between long rests you can spend one minute to make adjustments to an energy weapon using your engineer√≠s toolbox. Select a damage type from the following list: cold, fire, force, lightning, radiant, thunder. The weapon√≠s damage type changes to that damage type for 1 hour.
 
 After 1 hour, the weapon breaks and cannot be used until you have completed a long rest.
 
 Emergency Fortifications
 
-At 10th level, using your engineerís toolbox, you can provide additional protection for you and your allies. Choose one of the following options:
+At 10th level, using your engineer√≠s toolbox, you can provide additional protection for you and your allies. Choose one of the following options:
 
 **Carbon Lattice.** You have a small army of nanites which can produce walls of carbon fiber lattice in moments. You can command your nanites as an action to instantly build a wall in an area you designate within 120 feet. Between long rests, your nanites can produce a total of up to 100 feet of carbon fiber lattice. Each
 
@@ -3513,7 +3513,7 @@ Prototype armor has the statistics shown in Table: Prototype Armor.
 
 Only you are proficient with this armor. If it lost, you can reconstruct a new set during a long rest, consuming 450 credits of materials.
 
-**Table: Prototype Armor Type:** Prototype Armor **Cost:** ó
+**Table: Prototype Armor Type:** Prototype Armor **Cost:** √≥
 
 **Weight:** 90 lbs.
 
@@ -3521,7 +3521,7 @@ Only you are proficient with this armor. If it lost, you can reconstruct a new s
 
 **Material Properties:** Spacefaring (8 mod ports), Strength
 
-**Strength Requirement:** ó **Stealth Penalty:** ó **Repairability:** DC 15 tinkerís tools
+**Strength Requirement:** √≥ **Stealth Penalty:** √≥ **Repairability:** DC 15 tinker√≠s tools
 
 **Strength.** This armor grants you advantage on Strength checks and saving throws.
 
@@ -3564,11 +3564,11 @@ Additionally, you gain an additional speciality in a scientist class skill in wh
 
 Critical Discovery
 
-At 14th level, you impress upon your allies the value of being open to the unknown, which makes them all the more dangerous. When your allies attack the target of your Scrutinize feature, their critical hit range increases by 1 (to a maximum of 17ñ20).
+At 14th level, you impress upon your allies the value of being open to the unknown, which makes them all the more dangerous. When your allies attack the target of your Scrutinize feature, their critical hit range increases by 1 (to a maximum of 17√±20).
 
 ###### Hacker
 
-Hackers are scientists whose lifeblood is the digital world, be they data scientists, security programmers, viral content creators, or those who hijack their platforms. Creation, destruction, security, exploitationóthese motifs fill the mind of a hacker, whose vocation involves the navigation of complex networks filled with anonymous actors. The psychology of anonymity leads many hackers to believe they are above the law, yet some hackers also serve major institutions to protect themóthough whether these "white hat" hackers are loyal to the institution is another matter.
+Hackers are scientists whose lifeblood is the digital world, be they data scientists, security programmers, viral content creators, or those who hijack their platforms. Creation, destruction, security, exploitation√≥these motifs fill the mind of a hacker, whose vocation involves the navigation of complex networks filled with anonymous actors. The psychology of anonymity leads many hackers to believe they are above the law, yet some hackers also serve major institutions to protect them√≥though whether these "white hat" hackers are loyal to the institution is another matter.
 
 Digital Wolf
 
@@ -3612,7 +3612,7 @@ At 1st level, you gain an additional scientific praxis. Additionally, your Scien
 
 Tools of Science
 
-Additionally at 1st level you gain an engineerís toolbox which is your tool of science.
+Additionally at 1st level you gain an engineer√≠s toolbox which is your tool of science.
 
 Analytical Attack
 
@@ -3656,7 +3656,7 @@ By spending 10 minutes, you can use this device to open a portal in an unoccupie
 
 The device is not 100% reliable, and while you can choose your destination, you are only guaranteed to arrive near the target at a location chosen by the Narrator.
 
-At the Narratorís discretion, at 20th level your device improves further and your portal can traverse not just the universe but the whole multiverse and even different time periods. The planes of existence, eras, timelines, and transcendent states available are up to the sole discretion of the Narrator.
+At the Narrator√≠s discretion, at 20th level your device improves further and your portal can traverse not just the universe but the whole multiverse and even different time periods. The planes of existence, eras, timelines, and transcendent states available are up to the sole discretion of the Narrator.
 
 Once you have used this feature you cannot use it again until you have finished a long rest.
 
@@ -3707,7 +3707,7 @@ Your designated patients each gain an expertise die on saving throws made to res
 For each month a creature remains one of your designated patients, they receive one of the following benefits:
 
 * The creature is cured of one short-term mental stress effect.
-* The creatureís long-term mental stress effect is suppressed as long as it remains a designated patient.
+* The creature√≠s long-term mental stress effect is suppressed as long as it remains a designated patient.
 * The creature regains a number of lost ability score points equal to your proficiency modifier.
 * The creature regenerates a lost limb or organ.
 
@@ -3730,7 +3730,7 @@ At 14th level, you've developed or obtained a swarm of high end experimental med
 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | **LEVE L** | **PROF. BONU S** | **FEATURES** | **CLEVER TRICKS KNOWN** | **MANEUVER S KNOWN** | **MANEUVE R DEGREE** |
-| 1st | +2 | Dastardly Gambit (d6), Fortunate Defense, Clever Tricks | 1 | ó | ó |
+| 1st | +2 | Dastardly Gambit (d6), Fortunate Defense, Clever Tricks | 1 | √≥ | √≥ |
 | 2nd | +2 | Dirty Fighting, Reliable Flimflam, Combat Maneuvers | 1 | 2 | 1st |
 | 3rd | +2 | Scout Archetype | 2 | 2 | 1st |
 | 4th | +2 | Ability Score Improvement | 2 | 3 | 1st |
@@ -3769,7 +3769,7 @@ As a scout, you gain the following class features.
 
 **Weapons:** Simple weapons, martial weapons, starship weapons
 
-**Tools:** Computers, disguise kit, hacking tools, thievesí tools, space vehicles, and one gaming set of your choice.
+**Tools:** Computers, disguise kit, hacking tools, thieves√≠ tools, space vehicles, and one gaming set of your choice.
 
 **Saving Throws:** Dexterity, Charisma
 
@@ -3777,18 +3777,18 @@ As a scout, you gain the following class features.
 
 ###### Equipment
 
-You begin the game with 250 credits, which you can spend on your adventurerís starting weapons, armor, and adventuring gear. You can select your own gear or choose one of the following equipment packages. Also consult the Suggested Equipment section of your chosen Background.
+You begin the game with 250 credits, which you can spend on your adventurer√≠s starting weapons, armor, and adventuring gear. You can select your own gear or choose one of the following equipment packages. Also consult the Suggested Equipment section of your chosen Background.
 
-* **Smooth Operatorís Kit (cost 228 credits):** Bug (audio only), concealed pistol (40 shots of ammunition), fine clothes, flask of strong liquor, masterwork playing card set, 2 smoke grenades
-* **Street Fleecerís Kit (cost 247 credits):** Backpack, blaster (20
+* **Smooth Operator√≠s Kit (cost 228 credits):** Bug (audio only), concealed pistol (40 shots of ammunition), fine clothes, flask of strong liquor, masterwork playing card set, 2 smoke grenades
+* **Street Fleecer√≠s Kit (cost 247 credits):** Backpack, blaster (20
 
-charges of ammunition), canvas armor, styx (1 dose), thievesí tools, vibroknife
+charges of ammunition), canvas armor, styx (1 dose), thieves√≠ tools, vibroknife
 
-* **Void Grifterís Kit (cost 228 credits):** 3 data wafers, personal communicator, jolt pistol (40 charges of ammunition), stun stick, synthweave armor with integrated grappling hook, thievesí tools
+* **Void Grifter√≠s Kit (cost 228 credits):** 3 data wafers, personal communicator, jolt pistol (40 charges of ammunition), stun stick, synthweave armor with integrated grappling hook, thieves√≠ tools
 
 ###### Dastardly Gambit
 
-At 1st level, you have an infuriating ability to distract, goad, or otherwise throw your opponents off their game at just the right moment. This takes the form of a Dastardly Gambit die, a d6. When a creature that can hear or see you or a device you are piloting makes an ability check, attack roll, or saving throw, you can use your reaction to expend a use of Dastardly Gambit, rolling a Dastardly Gambit die and subtracting the number rolled from the creatureís roll.
+At 1st level, you have an infuriating ability to distract, goad, or otherwise throw your opponents off their game at just the right moment. This takes the form of a Dastardly Gambit die, a d6. When a creature that can hear or see you or a device you are piloting makes an ability check, attack roll, or saving throw, you can use your reaction to expend a use of Dastardly Gambit, rolling a Dastardly Gambit die and subtracting the number rolled from the creature√≠s roll.
 
 You can choose to use this feature after the creature makes its roll. You have a number of Dastardly Gambit dice equal to your Charisma modifier (minimum one). You regain any expended Dastardly Gambit dice when you finish a long rest.
 
@@ -3810,7 +3810,7 @@ While you are wearing light armor, you replace your Dexterity modifier with your
 
 At 1st level, your ability to befuddle and outplay your opponents has risen to an art form. You learn one clever trick of your choice. Your clever tricks are detailed at the end of the class description. The Clever Tricks column of the Scout table shows when you learn more clever tricks. Some clever tricks have requirements, such as minimum scout level, class feature, or another trick. You must meet those requirements before you choose that trick. If you should learn a bonus trick, it does not count against your clever tricks known.
 
-Some of your clever tricks require your target to make a saving throw to resist the featureís effects. The saving throw DC is calculated as follows:
+Some of your clever tricks require your target to make a saving throw to resist the feature√≠s effects. The saving throw DC is calculated as follows:
 
 **Clever tricks save DC** = 8 + your proficiency bonus + your Charisma modifier
 
@@ -3829,13 +3829,13 @@ Additionally, whenever you learn a new maneuver, you can choose one of the maneu
 At 2nd level you learn the subtle art of fighting dirty. You gain the following benefits:
 
 * You gain proficiency with improvised weapons.
-* You can attempt to confuse, trick, or otherwise distract a creature that can see or hear you as a bonus action. The target makes a Charisma saving throw against your clever tricks DC or is tricked, giving the next attack against it advantage. Once you have used this feature against a creature it is immune to this featureís effects for the next 24 hours.
+* You can attempt to confuse, trick, or otherwise distract a creature that can see or hear you as a bonus action. The target makes a Charisma saving throw against your clever tricks DC or is tricked, giving the next attack against it advantage. Once you have used this feature against a creature it is immune to this feature√≠s effects for the next 24 hours.
 * You can attempt the Disarm basic maneuver as a bonus action. Disarm basic maneuvers made in this way use your clever tricks DC instead of your Maneuver DC. You may use the Disarm maneuver with a ranged weapon as ong as your target is within 30 feet.
 * You can use a bonus action to take the Dash action.
 
 ###### Reliable Flimflam
 
-Also at 2nd level, you figure an approach that works for youóa practiced smile, a dependable bluff, or a tried and true lie. Choose Deception, Intimidation, or Persuasion. You gain an expertise die in the chosen skill.
+Also at 2nd level, you figure an approach that works for you√≥a practiced smile, a dependable bluff, or a tried and true lie. Choose Deception, Intimidation, or Persuasion. You gain an expertise die in the chosen skill.
 
 ###### Scout Archetype
 
@@ -3843,7 +3843,7 @@ At 3rd level, choose one scout archetype. Though you are familiar with all sorts
 
 ###### Ability Score Improvement
 
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you canít increase an ability score above 20 using this feature.
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can√≠t increase an ability score above 20 using this feature.
 
 ###### Extra Attack
 
@@ -3867,21 +3867,21 @@ You gain an additional use of this feature at 13th level and a third use startin
 
 At 10th level, you can bluff your way through practically anything by projecting confidence, educated guessing, and sharing a few memorized talking points. You can always choose to use
 
-Charisma when making an ability check using a skill or tool you arenít proficient with.
+Charisma when making an ability check using a skill or tool you aren√≠t proficient with.
 
 ###### Shift Approach
 
-Beginning at 11th level, youíve had enough experiences with your gambits going badly that you know the signs and how to quickly shift your approach. Whenever you roll the Dastardly Gambit die and the result is a 1 or 2, you may immediately reroll the die and must use the new roll, even if the new roll is a 1 or 2.
+Beginning at 11th level, you√≠ve had enough experiences with your gambits going badly that you know the signs and how to quickly shift your approach. Whenever you roll the Dastardly Gambit die and the result is a 1 or 2, you may immediately reroll the die and must use the new roll, even if the new roll is a 1 or 2.
 
 ###### Sheer Audacity
 
-Starting at 18th level, your dastardly gambits have gotten so bold and so ridiculous that your enemies are often left completely stunned at your sheer audacity. Whenever you use Dastardly Gambit to reduce a creatureís roll it makes a Wisdom saving throw against your clever tricks save
+Starting at 18th level, your dastardly gambits have gotten so bold and so ridiculous that your enemies are often left completely stunned at your sheer audacity. Whenever you use Dastardly Gambit to reduce a creature√≠s roll it makes a Wisdom saving throw against your clever tricks save
 
 DC. On a failed save the creature is stunned until the beginning of its next turn or until it takes damage. Once a creature makes a successful save against this feature it is immune to your Sheer Audacity for the next 24 hours.
 
 ###### Master Plan
 
-At 20th level youíve developed mind games within mind games and your plans run deep. You may spend a point of inspiration to reveal your master plan as an action. When your master plan is revealed, describe a theoretically possible sequence of events that has led to a suddenly revealed boon for you and your allies, however implausible.
+At 20th level you√≠ve developed mind games within mind games and your plans run deep. You may spend a point of inspiration to reveal your master plan as an action. When your master plan is revealed, describe a theoretically possible sequence of events that has led to a suddenly revealed boon for you and your allies, however implausible.
 
 Some examples include:
 
@@ -3889,7 +3889,7 @@ Some examples include:
 * That the important item the enemy just got away with was actually a fake, only to reveal the real item.
 * That a character was actually a different character in disguise, only to reveal the real character.
 
-This feature is highly subject to the Narratorís discretion, and you should discuss your master plan with the Narrator before activating this feature and revealing it. Your story can be implausible but not impossible, and you must fully explain a reasonable rationale for how such a con was possible in your reveal. Once the Narrator approves of your changes and you reveal your master plan, your story becomes reality, potentially even retroactively changing events. Once you use this feature, you cannot use it again until you spend at least a week resting in a safe haven to plan out your next master plan.
+This feature is highly subject to the Narrator√≠s discretion, and you should discuss your master plan with the Narrator before activating this feature and revealing it. Your story can be implausible but not impossible, and you must fully explain a reasonable rationale for how such a con was possible in your reveal. Once the Narrator approves of your changes and you reveal your master plan, your story becomes reality, potentially even retroactively changing events. Once you use this feature, you cannot use it again until you spend at least a week resting in a safe haven to plan out your next master plan.
 
 ###### Clever Tricks
 
@@ -3903,11 +3903,11 @@ Sometimes the best offense is saving your own skin while returning fire. Wheneve
 
 ###### Back Channel Gear
 
-While in a city, spaceport, or any area with access to backchannel markets, you can use your contacts to acquire weapons or any item from the Security, Clothing, or Survival Gear tables at half the normal cost. If you publicly utilize or attempt to resell items acquired in this way, at the Narratorís discretion you may attract the attention of local law enforcement.
+While in a city, spaceport, or any area with access to backchannel markets, you can use your contacts to acquire weapons or any item from the Security, Clothing, or Survival Gear tables at half the normal cost. If you publicly utilize or attempt to resell items acquired in this way, at the Narrator√≠s discretion you may attract the attention of local law enforcement.
 
 ###### Beast Tricks
 
-When it comes down to it, trapping a beast isnít that much different from fleecing a mark. You gain proficiency in Animal Handling. In addition, you can always choose to use Charisma when making Animal Handling checks, and when making Survival checks for hunting or the Hunt and Gather journey activity.
+When it comes down to it, trapping a beast isn√≠t that much different from fleecing a mark. You gain proficiency in Animal Handling. In addition, you can always choose to use Charisma when making Animal Handling checks, and when making Survival checks for hunting or the Hunt and Gather journey activity.
 
 ###### Buddy Hijinks
 
@@ -3917,7 +3917,7 @@ choose to swap the target between you or your ally.
 
 ###### Bully
 
-You can really get an edge in situations where youíre able to gang up on one target. While you are flanking a target, you can use a bonus action to attempt to bully and distract it. The target makes a Charisma saving throw or one creature of your choice also flanking the target may make an attack of opportunity against it.
+You can really get an edge in situations where you√≠re able to gang up on one target. While you are flanking a target, you can use a bonus action to attempt to bully and distract it. The target makes a Charisma saving throw or one creature of your choice also flanking the target may make an attack of opportunity against it.
 
 ###### Card Shark
 
@@ -3954,7 +3954,7 @@ You can be anyone online, and with enough effort your fake online personality ca
 * Be at a location at a certain time (that they could reasonably access).
 * Pay you 6d6 credits.
 
-Alternatively, you can attempt to catfish a specific target connected to the network. If you do, at the end of the week of catfishing the target makes a Charisma saving throw against your clever tricks save DC. On a failed save the target performs one of the listed actions as normal or a small favor it is capable of performing, such as leaving a specific door unlocked for you, telling you something confidential, or absolving a minor crime. The exact nature of this favor is at the Narratorís discretion but should be limited to something a person would conceivably do for a friend they met online.
+Alternatively, you can attempt to catfish a specific target connected to the network. If you do, at the end of the week of catfishing the target makes a Charisma saving throw against your clever tricks save DC. On a failed save the target performs one of the listed actions as normal or a small favor it is capable of performing, such as leaving a specific door unlocked for you, telling you something confidential, or absolving a minor crime. The exact nature of this favor is at the Narrator√≠s discretion but should be limited to something a person would conceivably do for a friend they met online.
 
 Once you convince or attempt to
 
@@ -3966,15 +3966,15 @@ Holy men are often flush with cash so why not get in on the racket? You gain pro
 
 ###### Duct Rat
 
-The first thing a good scout does on a large ship is learn all the ducts, back passages, and hiding placesóspaces people rarely think to barricade. When you move between decks you can take back passages to move to barricaded decks without breaching them. When you do so, willing creatures can use their reactions to follow you.
+The first thing a good scout does on a large ship is learn all the ducts, back passages, and hiding places√≥spaces people rarely think to barricade. When you move between decks you can take back passages to move to barricaded decks without breaching them. When you do so, willing creatures can use their reactions to follow you.
 
 ###### Extra Dastardly
 
-With a bit of practice youíre just that much more clever and underhanded. You gain one Dastardly Gambit die (in addition to those gained from your Charisma modifier). This clever trick may be selected more than once, up to a maximum number of times equal to your proficiency bonus.
+With a bit of practice you√≠re just that much more clever and underhanded. You gain one Dastardly Gambit die (in addition to those gained from your Charisma modifier). This clever trick may be selected more than once, up to a maximum number of times equal to your proficiency bonus.
 
 ###### False Identities
 
-When a badge demands your papers itís always nice to have a name to give them. By spending 1 hour of uninterrupted work you can make fraudulent versions of all the appropriate legal documentation needed to prove that you or someone else is a completely different person. You may choose the name and any specifics of these false identities. Creatures can determine that your documentation is fraudulent by
+When a badge demands your papers it√≠s always nice to have a name to give them. By spending 1 hour of uninterrupted work you can make fraudulent versions of all the appropriate legal documentation needed to prove that you or someone else is a completely different person. You may choose the name and any specifics of these false identities. Creatures can determine that your documentation is fraudulent by
 
 succeeding on an Investigation check made against your clever tricks save DC.
 
@@ -3986,11 +3986,11 @@ When a creature is within your reach, you can use your reaction to make a Sleigh
 
 ###### First Impressions
 
-A good first impression can make all the difference and youíve put a lot of effort into making the best of first meetings. You gain an expertise die on Charisma checks relating to creatures you are meeting for the first time for up to 1 minute after your first interaction.
+A good first impression can make all the difference and you√≠ve put a lot of effort into making the best of first meetings. You gain an expertise die on Charisma checks relating to creatures you are meeting for the first time for up to 1 minute after your first interaction.
 
 ###### Glass to Diamond
 
-Thereís a sucker born every minute. You gain an expertise die on checks made to haggle or convince a creature that something is more valuable than it actually is.
+There√≠s a sucker born every minute. You gain an expertise die on checks made to haggle or convince a creature that something is more valuable than it actually is.
 
 ###### Graceful Misdirect
 
@@ -4002,11 +4002,11 @@ When you are hit by an attack you can use your reaction to pretend to die. When 
 
 to die creatures believe you to be dead. While playing dead in this way you can perform minor actions without breaking your ruse such as retrieving or stowing items, applying medical aid, or reloading weapons. Creatures can see through your ruse by using an action to interact with you directly, if their passive Perception score is equal to or higher than your clever tricks save DC, or if they similarly succeed on a Perception check against your clever tricks save DC. You can cease playing dead at any time.
 
-Once a creature sees you die and revive from your faked death it is immune to this featureís effects for the next 24 hours.
+Once a creature sees you die and revive from your faked death it is immune to this feature√≠s effects for the next 24 hours.
 
 ###### Handcuff Fighting
 
-You know how to handle yourself even when theyíve got a hold of you, and a pair of cuffs can be an excellent weapon if you know what youíre doing. You ignore the following penalties that are normally incurred by the restrained condition:
+You know how to handle yourself even when they√≠ve got a hold of you, and a pair of cuffs can be an excellent weapon if you know what you√≠re doing. You ignore the following penalties that are normally incurred by the restrained condition:
 
 * Attacks made against you do not have advantage due to the restrained condition.
 * Attacks you make do not have disadvantage due to the restrained condition.
@@ -4019,15 +4019,15 @@ You can artfully hide or disguise weapons. Over the course of a long rest you ca
 
 All it takes is a little rewiring to take the perfect ride as your own. While inside an inactive vehicle or starfighter you can use an action to begin hotwiring it, creating a fast countdown pool using 5d6. At the end of each of your turns that you spend hotwiring, roll these dice and remove any
 
-with a result of 4ñ6. When there are no more dice remaining in the countdown pool the device is successfully hotwired, and any creature can pilot it even if it normally requires a key, password, or other security measure.
+with a result of 4√±6. When there are no more dice remaining in the countdown pool the device is successfully hotwired, and any creature can pilot it even if it normally requires a key, password, or other security measure.
 
 ###### Improvised Decoy
 
-The guard triumphantly tackles you only to discover that theyíve arrested a garbage bag wearing your hat. As an action you can hastily construct an improvised decoy in an adjacent space out of whatever materials you have on hand, often incorporating an article of your clothing but not requiring one. Any creature that did not directly observe you creating this decoy believes it is you unless they physically interact with it or succeed on a Perception check made against your clever tricks save DC. Once you have fooled a creature with an improvised decoy it is immune to this featureís effects for the next 24 hours.
+The guard triumphantly tackles you only to discover that they√≠ve arrested a garbage bag wearing your hat. As an action you can hastily construct an improvised decoy in an adjacent space out of whatever materials you have on hand, often incorporating an article of your clothing but not requiring one. Any creature that did not directly observe you creating this decoy believes it is you unless they physically interact with it or succeed on a Perception check made against your clever tricks save DC. Once you have fooled a creature with an improvised decoy it is immune to this feature√≠s effects for the next 24 hours.
 
 ###### Insult the Hidden
 
-With enough provocation you can force more insecure infiltrators to reveal their position. As an action you can spend a Dastardly Gambit die to make vicious insults directed at any potential hidden hostile creatures. Any creatures currently hidden from you that can hear you and that can understand you makes a Charisma saving throw. On a failed save creatures respond to your insults and are no longer hidden. Once you have used this feature against a creature it is immune to this featureís effects for the next 24 hours.
+With enough provocation you can force more insecure infiltrators to reveal their position. As an action you can spend a Dastardly Gambit die to make vicious insults directed at any potential hidden hostile creatures. Any creatures currently hidden from you that can hear you and that can understand you makes a Charisma saving throw. On a failed save creatures respond to your insults and are no longer hidden. Once you have used this feature against a creature it is immune to this feature√≠s effects for the next 24 hours.
 
 ###### Junk Flier
 
@@ -4041,7 +4041,7 @@ in this way are only temporary fixes and are suffered again if not repaired prop
 
 You know how to force the issue with an extra layer of charm or effort. Whenever you would roll your Dastardly Gambit die, you may expend an additional Dastardly Gambit die to treat it as if it rolled the maximum possible result.
 
-###### Nobodyís Fool
+###### Nobody√≠s Fool
 
 It takes one to know one, and you know when somebody is trying to pull one over on you. You gain proficiency in Insight. In addition, you may always choose to use Charisma when making Insight checks.
 
@@ -4063,7 +4063,7 @@ Why take on risk when you can convince other people to do it for you? You can pe
 
 ###### Quick Change
 
-Either through physical currency or quick digital transfers you can fluster the other person in a transaction so that you end up on top. You can attempt to scam a creature when you make a purchase from it. If you do, the creature makes an Intelligence saving throw against your clever tricks save DC or you steal a number of credits equal to your 1d12 ◊ your proficiency bonus. On a successful save you donít steal anything but the confusion is passed off as a mistake, though on a success by 10 or more the creature realizes that you were trying a scam.
+Either through physical currency or quick digital transfers you can fluster the other person in a transaction so that you end up on top. You can attempt to scam a creature when you make a purchase from it. If you do, the creature makes an Intelligence saving throw against your clever tricks save DC or you steal a number of credits equal to your 1d12 ‚óä your proficiency bonus. On a successful save you don√≠t steal anything but the confusion is passed off as a mistake, though on a success by 10 or more the creature realizes that you were trying a scam.
 
 ###### Reckless Overload
 
@@ -4073,13 +4073,13 @@ With just a snipped wire here and there, practically any energy weapon can make 
 
 ###### Right in the Tenders
 
-In a truly dishonorable fashion, you hit your target where itís most vulnerable. When you hit a creature with an attack roll, you may
+In a truly dishonorable fashion, you hit your target where it√≠s most vulnerable. When you hit a creature with an attack roll, you may
 
 roll your Dastardly Gambit die and add the result to the damage dealt.
 
 ###### Shoot First
 
-You wonít be caught off guard and innately know when a deal is going south. When you roll for initiative you gain a bonus equal to your Charisma modifier.
+You won√≠t be caught off guard and innately know when a deal is going south. When you roll for initiative you gain a bonus equal to your Charisma modifier.
 
 ###### Showboater
 
@@ -4095,13 +4095,13 @@ Scouts are often full of eclectic specialities. You gain two skill specialties i
 
 ###### Technobabble
 
-People will trust a fast-talker if theyíre wearing a lab coat and spitting enough convincing jargon. You gain proficiency in Science. In addition, you can attempt to deceive people using scientific fast talk by making a Charisma (Science) check. Lies
+People will trust a fast-talker if they√≠re wearing a lab coat and spitting enough convincing jargon. You gain proficiency in Science. In addition, you can attempt to deceive people using scientific fast talk by making a Charisma (Science) check. Lies
 
 told in this way can only be opposed using Science (instead of Insight as normal).
 
 ###### Witty Repartee
 
-You know just how to draw attention and ire. As a bonus action you can engage a creature that can hear and understand you in witty repartee. If you do, the creatureís first attack during its next turn has disadvantage unless it targets you. Once you have used this feature against a creature it is immune to this featureís effects for the next 24 hours.
+You know just how to draw attention and ire. As a bonus action you can engage a creature that can hear and understand you in witty repartee. If you do, the creature√≠s first attack during its next turn has disadvantage unless it targets you. Once you have used this feature against a creature it is immune to this feature√≠s effects for the next 24 hours.
 
 ##### Scout Archetypes
 
@@ -4109,7 +4109,7 @@ Scouts are differentiated by their methods. The end goal of some scouts is to se
 
 ###### Envoy
 
-Blasters, swords, and grenades all have their place, but everyone knows that the penñor indeed, the wordñis mightier than the sword, and envoys wield a subtle power based on influence, information, and interpersonal connections. From ambassadors to entertainers, envoys rely on skill and charisma to negotiate the challenges that face them.
+Blasters, swords, and grenades all have their place, but everyone knows that the pen√±or indeed, the word√±is mightier than the sword, and envoys wield a subtle power based on influence, information, and interpersonal connections. From ambassadors to entertainers, envoys rely on skill and charisma to negotiate the challenges that face them.
 
 Cultural Expertise
 
@@ -4119,7 +4119,7 @@ Always The Right Words
 
 Also at 3rd level, you are able to inspire your allies to greater heights. You have a pool of envoy dice equal to your proficiency bonus. You can use your reaction to expend one envoy die whenever an ally who can hear and understand you makes an ability check or saving throw. That ally may roll the envoy die and add it to the result of their original die roll.
 
-Your envoy die is a d4. You can donate multiple envoy dice to the same ability check or saving throw; in this case, the envoy dice act like expertise dice, and increaseñto a maximum of a d8ñin die size by one stage for each additional envoy die, from d4 to d6, to d8.
+Your envoy die is a d4. You can donate multiple envoy dice to the same ability check or saving throw; in this case, the envoy dice act like expertise dice, and increase√±to a maximum of a d8√±in die size by one stage for each additional envoy die, from d4 to d6, to d8.
 
 You regain spent uses of your envoy dice after you have finished a long rest.
 
@@ -4129,7 +4129,7 @@ Beginning at 6th level, your linguistic expertise is unparalleled. You can make 
 
 Silver Tongue
 
-Also at 6th level, you can sway people to your way of thinking, either with a speech, an appeal to a creatureís own cultural interests, a threat, a clever web of lies, or a musical performance. You must be proficient in Persuasion to use a speech, Insight to use an appeal, Intimidation to use a threat, Deception to use lies, or Performance to use music. All creatures of your choice within 30 feet of you must make a Wisdom saving throw against a DC equal to your clever tricks save DC.
+Also at 6th level, you can sway people to your way of thinking, either with a speech, an appeal to a creature√≠s own cultural interests, a threat, a clever web of lies, or a musical performance. You must be proficient in Persuasion to use a speech, Insight to use an appeal, Intimidation to use a threat, Deception to use lies, or Performance to use music. All creatures of your choice within 30 feet of you must make a Wisdom saving throw against a DC equal to your clever tricks save DC.
 
 On a failed save a creature gains the charmed condition for one minute. After one minute, and every minute thereafter, they
 
@@ -4139,7 +4139,7 @@ Once you have used this feature, you cannot do so again until after you have fin
 
 Allies Everywhere
 
-At 14th level, you have alliesñor those in your debtñeverywhere. You may ërevealí an undisclosed ally, who might be a member of an enemyís retinue, a government official, or somebody with access to important facilities or resources, but it cannot be the leader of those who oppose you.
+At 14th level, you have allies√±or those in your debt√±everywhere. You may √´reveal√≠ an undisclosed ally, who might be a member of an enemy√≠s retinue, a government official, or somebody with access to important facilities or resources, but it cannot be the leader of those who oppose you.
 
 As an action, target a creature with whom you can communicate and who can understand you. Your prospective ally must make a saving throw with a DC equal to your clever tricks save DC. On a failed save, that ally will immediately begin to work with you, even turning on their employers or supposed former allies. Your ally will work with you until you next take a long rest, after which their obligation to you is fulfilled and you cannot recruit them again. As part of this feature, your ally may have secretly performed an action in the past 24 hours which they would have been capable of and had opportunity to carry out.
 
@@ -4149,7 +4149,7 @@ Once you have successfully used this feature you cannot use it again until you h
 
 Scoundrels are charming, rakish, and usually lying through their teeth. To them society is just propaganda and tradition is only peer pressure from dead people.
 
-These scouts forge their own paths, refuse to be tied down, and know that rules are made to be broken. Everybodyís got to eat though, which often puts the fiercely independent scoundrel at odds with authoritiesóthankfully they know to run when the chips are down, and with a quip
+These scouts forge their own paths, refuse to be tied down, and know that rules are made to be broken. Everybody√≠s got to eat though, which often puts the fiercely independent scoundrel at odds with authorities√≥thankfully they know to run when the chips are down, and with a quip
 
 and a smile can suavely flip even the worst situations to their benefit.
 
@@ -4171,15 +4171,15 @@ Just a Misunderstanding
 
 Beginning at 6th level, you develop a talent for spinning even the most ludicrous circumstances into plausible stories.
 
-Whenever you add a Dastardly Gambit die to a Charisma check made to influence a hostile creature, that creatureís attitude to you is treated as if it were indifferent even if you or your allies were previously or are currently fighting it. Any past attacks or aggressive actions are woven into your strangely credible version of events that eases over blame, but this does not forgive future attacks or aggressive actions taken after you use this feature.
+Whenever you add a Dastardly Gambit die to a Charisma check made to influence a hostile creature, that creature√≠s attitude to you is treated as if it were indifferent even if you or your allies were previously or are currently fighting it. Any past attacks or aggressive actions are woven into your strangely credible version of events that eases over blame, but this does not forgive future attacks or aggressive actions taken after you use this feature.
 
-Defectorís Spark
+Defector√≠s Spark
 
-Starting at 14th level, youíve learned just the right words to get people to cast off their shackles and rebel. As an action, you may choose a hostile creature that is operating under the command of another creature that is hostile to you. So long as the target is able to hear you, of a Challenge Rating 5 below your level, and can understand a language that you speak, it makes a Charisma saving throw against your clever tricks save DC. On a failed save the target is convinced to change sides and becomes an ally to you and your other allies, even becoming hostile to its former allies. The chosen creature is not under your control and may change its attitudes later depending on your actions or the actions of your allies. This is not a charm effect. Once you use this feature, you cannot do so again until after you finish a long rest.
+Starting at 14th level, you√≠ve learned just the right words to get people to cast off their shackles and rebel. As an action, you may choose a hostile creature that is operating under the command of another creature that is hostile to you. So long as the target is able to hear you, of a Challenge Rating 5 below your level, and can understand a language that you speak, it makes a Charisma saving throw against your clever tricks save DC. On a failed save the target is convinced to change sides and becomes an ally to you and your other allies, even becoming hostile to its former allies. The chosen creature is not under your control and may change its attitudes later depending on your actions or the actions of your allies. This is not a charm effect. Once you use this feature, you cannot do so again until after you finish a long rest.
 
 ###### Miscreant
 
-Rebels with or without a cause, miscreants shake things up and break heads. Where clever words fail, a closed fistñthe threat of oneñcan work just as well. These scouts take charge, not orders, and spit in the face of danger. Bravado is often all thatís needed, but miscreants are able to back up their bluster when required.
+Rebels with or without a cause, miscreants shake things up and break heads. Where clever words fail, a closed fist√±the threat of one√±can work just as well. These scouts take charge, not orders, and spit in the face of danger. Bravado is often all that√≠s needed, but miscreants are able to back up their bluster when required.
 
 Rebellious Scrapper
 
@@ -4202,7 +4202,7 @@ Beginning at 6th level, you learn to make the most out of practically nothing. A
 
 Heel-Turn
 
-Starting at 14th level, youíve figured the right turn of phrase to get just enough trust to twist the knife. As an action, you may target a creature with an Intelligence of 5 or higher that can hear you and understand a language that you speak. The target makes a Charisma saving throw against your clever tricks save DC. On a failed save you may immediately make a weapon attack against the target with advantage. On a hit the attack becomes a critical hit. Once you use this feature, you cannot do so again until after you finish a long rest.
+Starting at 14th level, you√≠ve figured the right turn of phrase to get just enough trust to twist the knife. As an action, you may target a creature with an Intelligence of 5 or higher that can hear you and understand a language that you speak. The target makes a Charisma saving throw against your clever tricks save DC. On a failed save you may immediately make a weapon attack against the target with advantage. On a hit the attack becomes a critical hit. Once you use this feature, you cannot do so again until after you finish a long rest.
 
 ###### Scammer
 
@@ -4224,17 +4224,17 @@ Cyberspace Chameleon
 
 Beginning at 6th level, you set custom virtual avatars and rerouters that allow you to appear however you like online.
 
-Whenever you communicate through a device you may choose to look and sound like a specific person youíre familiar with, an online persona, or simply as an unknown figure. Creatures can see through this ruse by making an Insight check against your clever tricks save DC, but on a success it
+Whenever you communicate through a device you may choose to look and sound like a specific person you√≠re familiar with, an online persona, or simply as an unknown figure. Creatures can see through this ruse by making an Insight check against your clever tricks save DC, but on a success it
 
 remains unclear who you are, only revealing that your transmission is masked. In addition, you can reroute your location data to a different false location, and successful counter hacking attempts to trace your location only yield your chosen false location.
 
 Virulent Hacker
 
-At 14th level, youíve created devastating viruses and learned how to convince the unwary to let you into their systems. As an action, you may target a sentient device, an augmented creature, or a creature currently crewing or piloting a device that can hear you. The target makes a Charisma saving throw against your clever tricks save DC or you infect it with an insidious computer virus. So long as you remain hacking the device any attack rolls, ability checks, or saving throws made by or made using the hacked device have disadvantage. Once you use this feature, you cannot do so again until after you finish a long rest.
+At 14th level, you√≠ve created devastating viruses and learned how to convince the unwary to let you into their systems. As an action, you may target a sentient device, an augmented creature, or a creature currently crewing or piloting a device that can hear you. The target makes a Charisma saving throw against your clever tricks save DC or you infect it with an insidious computer virus. So long as you remain hacking the device any attack rolls, ability checks, or saving throws made by or made using the hacked device have disadvantage. Once you use this feature, you cannot do so again until after you finish a long rest.
 
 ###### Sleuth
 
-Sometimes you need a rogue to catch a rogue, and sleuths have to be familiar with all the tricks of the trade. Sometimes, the only difference is what side of the law youíre on. Sleuths are experts at uncovering the truth, following clues, and solving mysteries. Some are detectives employed by the government, while others operate solo as private investigators or as part of a group.
+Sometimes you need a rogue to catch a rogue, and sleuths have to be familiar with all the tricks of the trade. Sometimes, the only difference is what side of the law you√≠re on. Sleuths are experts at uncovering the truth, following clues, and solving mysteries. Some are detectives employed by the government, while others operate solo as private investigators or as part of a group.
 
 Natural Intuition
 
@@ -4242,16 +4242,16 @@ At 3rd level when you choose this archetype, you gain an expertise die on Insigh
 
 Registration Lookup
 
-Also at 3rd level, you have access to official registration recordsñwhether legally or via a ëfriendí in law enforcementñand can request the registered owner and address of a starship as long as you know itís registration IDñoften displayed on the hull of a ship, but also automatically available by its transponder code. The process usually takes one hour.
+Also at 3rd level, you have access to official registration records√±whether legally or via a √´friend√≠ in law enforcement√±and can request the registered owner and address of a starship as long as you know it√≠s registration ID√±often displayed on the hull of a ship, but also automatically available by its transponder code. The process usually takes one hour.
 
 I Need A Location On The Suspect
 
-Beginning at 6th level, you become adept at finding your target by using officialñand unofficialñdatabases, old connections, and other surveillance techniques. When trying to locate an individual, you have advantage on that check. You can narrow your target down to a planetary body, but if you critically succeed on the check, you can pinpoint it to a city or other settlement. You can use the following methods (or others with the Narratorís approval) to locate your target:
+Beginning at 6th level, you become adept at finding your target by using official√±and unofficial√±databases, old connections, and other surveillance techniques. When trying to locate an individual, you have advantage on that check. You can narrow your target down to a planetary body, but if you critically succeed on the check, you can pinpoint it to a city or other settlement. You can use the following methods (or others with the Narrator√≠s approval) to locate your target:
 
 * Use databases with an Intelligence (computers) check.
 * Contact old friends and allies with a Charisma (investigation) check.
 
-The DC of the check is based on the targetís distance:
+The DC of the check is based on the target√≠s distance:
 
 **Distance DC**
 
@@ -4271,7 +4271,7 @@ If the target is deliberately hiding or undercover, you have disadvantage on you
 
 At 9th level you can use this feature to locate a specific, obscure type of object or person, such as an expert hacker or rare source of trilithium.
 
-Thereís Something Wrong Here
+There√≠s Something Wrong Here
 
 Starting at 14th level, you gain advantage on ability checks made to spot hidden objects, from concealed weapons to secret compartments (if you are using a passive check, simply add 5 to your passive score as usual).
 
@@ -4279,7 +4279,7 @@ Starting at 14th level, you gain advantage on ability checks made to spot hidden
 
 Smugglers make their way in life by always being one step ahead of the law.
 
-Regardless of the nation or creed, societies always decide something or other shouldnít be allowed. These scouts believe the most restrictive laws make for the most profitable businessóso long as theyíre able to remain flying under the radar. Naturally quick to ease tension or cut through it, smugglers are often long gone before anyone is the wiser.
+Regardless of the nation or creed, societies always decide something or other shouldn√≠t be allowed. These scouts believe the most restrictive laws make for the most profitable business√≥so long as they√≠re able to remain flying under the radar. Naturally quick to ease tension or cut through it, smugglers are often long gone before anyone is the wiser.
 
 Dastardly Instincts
 
@@ -4291,14 +4291,14 @@ Also at 3rd level, you learn the ebb and flow of encounters and right when to sp
 
 * When a creature that can see or hear you is targeted by an attack, you can use your reaction to try to confuse, trick, or otherwise distract it. The target makes a Charisma saving throw against your clever tricks save DC or the triggering attack is made with advantage. Once you have used this feature against a creature, it is
 
-immune to this featureís effects for the next 24 hours.
+immune to this feature√≠s effects for the next 24 hours.
 
 * When you are targeted by a melee weapon attack, you can use your reaction to attempt the Disarm basic maneuver against your attacker. Disarm maneuvers made in this way use your clever tricks DC instead of your maneuver DC.
 * When a hostile creature moves adjacent to you, you can use your reaction to take the Dash action.
 
-Everythingís Fine
+Everything√≠s Fine
 
-Starting at 6th level, you know just how to smooth things over before people go too far, or how to take advantage of the confusion before it does. While you are engaged in combat, you have advantage on Charisma checks made against creatures that havenít yet taken a turn. In addition, while in combat any creature that hasnít taken a turn yet has disadvantage on saving throws against your clever tricks save DC.
+Starting at 6th level, you know just how to smooth things over before people go too far, or how to take advantage of the confusion before it does. While you are engaged in combat, you have advantage on Charisma checks made against creatures that haven√≠t yet taken a turn. In addition, while in combat any creature that hasn√≠t taken a turn yet has disadvantage on saving throws against your clever tricks save DC.
 
 Shocking Turnabout
 
@@ -4308,7 +4308,7 @@ At 14th level, you know how to surprise everyone and turn a bad situation around
 
 Subterfuge is not only the purview of con artists. Militaries, governments, gangs, and
 
-empires alike all need a subtle touch to acquire intelligence or infiltrate their enemies at an armís length with plausible deniability. Espionage is an artform and the top spies are true masters, able to shift the course of history or lop off the heads of state leaving little to no evidence that they ever existed at all.
+empires alike all need a subtle touch to acquire intelligence or infiltrate their enemies at an arm√≠s length with plausible deniability. Espionage is an artform and the top spies are true masters, able to shift the course of history or lop off the heads of state leaving little to no evidence that they ever existed at all.
 
 Clandestine
 
@@ -4324,7 +4324,7 @@ Also at 3rd level, you become an expert at slipping into and out of different ro
 
 Spy Gadget
 
-Beginning at 6th level, youíve either acquired or made a special covert spy gadget. This spy gadget often takes the form of a watch or wrist PCD, but can be your choice of any innocuous object or piece of apparel that you wear or carry on your person. While not in use your spy gadget has the benefits of a Concealed Weapon augment. When you first gain your spy gadget, choose 3 of the following items and weapons:
+Beginning at 6th level, you√≠ve either acquired or made a special covert spy gadget. This spy gadget often takes the form of a watch or wrist PCD, but can be your choice of any innocuous object or piece of apparel that you wear or carry on your person. While not in use your spy gadget has the benefits of a Concealed Weapon augment. When you first gain your spy gadget, choose 3 of the following items and weapons:
 
 * Airhypo
 * Binoculars
@@ -4370,11 +4370,11 @@ If your spy gadget is lost or destroyed, you can make or acquire a new one over 
 
 Provoked Monologue
 
-At 14th level, youíve dealt with inflated egos and know how to trick them into telling too much. As an action, you may choose a hostile creature that can hear you and understand a language you can speak. The creature makes a Charisma saving throw against your clever tricks save DC or becomes charmed by you. While charmed in this way the creature monologues its plans while utterly convinced of its inevitable victory. It cannot perform actions or bonus actions, but may still make reactions. At the Narratorís discretion, creatures may reveal important information while monologuing, particularly if bragging about that information would serve the creatureís ego. A creature remains charmed for 1d6 rounds, or until a hostile action is taken against it or an ally it can see. Creatures that cannot be charmed are immune to this feature. Once you use this feature, you cannot do so again until after you finish a long rest.
+At 14th level, you√≠ve dealt with inflated egos and know how to trick them into telling too much. As an action, you may choose a hostile creature that can hear you and understand a language you can speak. The creature makes a Charisma saving throw against your clever tricks save DC or becomes charmed by you. While charmed in this way the creature monologues its plans while utterly convinced of its inevitable victory. It cannot perform actions or bonus actions, but may still make reactions. At the Narrator√≠s discretion, creatures may reveal important information while monologuing, particularly if bragging about that information would serve the creature√≠s ego. A creature remains charmed for 1d6 rounds, or until a hostile action is taken against it or an ally it can see. Creatures that cannot be charmed are immune to this feature. Once you use this feature, you cannot do so again until after you finish a long rest.
 
 ###### Star Pilot
 
-In the void, most people can operate basic transportñthey can fly a shuttle or man the helm of a cargo ship. But a few devote their lives to the art and craft of piloting, able to perform maneuvers and heroic feats whether diving a small fighter between the laser turrets of a vast destroyer, navigating a dense asteroid field at breakneck speed, or carefully directing a massive exploration vessel into a mysterious nebula. These are the star pilots, the helm officers, the dashing aces who rule the void.
+In the void, most people can operate basic transport√±they can fly a shuttle or man the helm of a cargo ship. But a few devote their lives to the art and craft of piloting, able to perform maneuvers and heroic feats whether diving a small fighter between the laser turrets of a vast destroyer, navigating a dense asteroid field at breakneck speed, or carefully directing a massive exploration vessel into a mysterious nebula. These are the star pilots, the helm officers, the dashing aces who rule the void.
 
 Natural Instinct
 
@@ -4386,7 +4386,7 @@ Reflexive Maneuvers
 
 At 6th level, you gain a combat maneuver from the Ace Starfighter tradition.
 
-Additionally, your starfighterís armor class increases by 1 point.
+Additionally, your starfighter√≠s armor class increases by 1 point.
 
 Flying Ace
 
@@ -4401,7 +4401,7 @@ Finally, when determining your maximum maneuver degree in the Ace Starfighter tr
 |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | **PROF. BONU**  **LEVEL S** | | **FEATURES** | **FAVORED ORDNANC E** | **DRILLS MANEUVER KNOWN S KNOWN** | | **MANEUVE R DEGREE** |
-| 1st | +2 | Drills, Favored Ordnance, Tenacity | 1d4 | 1 | ó | ó |
+| 1st | +2 | Drills, Favored Ordnance, Tenacity | 1d4 | 1 | √≥ | √≥ |
 | 2nd | +2 | Basic Training, Combat Maneuvers | 1d4 | 1 | 2 | 1st |
 | 3rd | +2 | Trooper Archetype | 1d4 | 2 | 2 | 1st |
 | 4th | +2 | Ability Score Improvement | 1d4 | 2 | 3 | 1st |
@@ -4411,10 +4411,10 @@ Finally, when determining your maximum maneuver degree in the Ace Starfighter tr
 | 8th | +3 | Ability Score Improvement | 1d8 | 4 | 4 | 2nd |
 | 9th | +4 | Endurance (one use) | 1d8 | 5 | 4 | 2nd |
 | 10th | +4 | Trooper Archetype Feature, Pillar of Strength | 1d8 | 5 | 5 | 2nd |
-| 11th | +4 | ó | 1d12 | 6 | 5 | 2nd |
+| 11th | +4 | √≥ | 1d12 | 6 | 5 | 2nd |
 | 12th | +4 | Ability Score Improvement | 1d12 | 6 | 5 | 2nd |
 | 13th | +5 | Endurance (two uses) | 1d12 | 7 | 6 | 3rd |
-| 14th | +5 | ó | 1d12 | 7 | 6 | 3rd |
+| 14th | +5 | √≥ | 1d12 | 7 | 6 | 3rd |
 | 15th | +5 | Trooper Archetype Feature | 1d12 | 8 | 6 | 3rd |
 | 16th | +5 | Ability Score Improvement | 2d12 | 8 | 7 | 3rd |
 | 17th | +6 | Endurance (three uses) | 2d12 | 9 | 7 | 3rd |
@@ -4448,9 +4448,9 @@ As a trooper, you gain the following class features.
 
 ###### Equipment
 
-You begin the game with 450 credits, which you can spend on your characterís starting weapons, armor, and adventuring gear. You can select your own gear or choose one of the following equipment packages. Also consult the Suggested Equipment section of your chosen background.
+You begin the game with 450 credits, which you can spend on your character√≠s starting weapons, armor, and adventuring gear. You can select your own gear or choose one of the following equipment packages. Also consult the Suggested Equipment section of your chosen background.
 
-* **Demolitionistís Kit (cost 447 credits):** grenade launcher, frag grenades (3), smoke grenades (2), personal communicator, light maul, multitool, synthweave armor, tactical case
+* **Demolitionist√≠s Kit (cost 447 credits):** grenade launcher, frag grenades (3), smoke grenades (2), personal communicator, light maul, multitool, synthweave armor, tactical case
 * **Master-at-Arms Kit (cost 251 credits):** duffel bag, heavy shock polearm, hyperweave armor,
 
 personal communicator, light blade, medium blade, pistol (20 rounds of ammunition)
@@ -4465,11 +4465,11 @@ Thanks to your years of training, you know how to handle yourself in almost any 
 
 All weapons are deadly in your hands, but one type of weapon is your favorite. At 1st level, choose a specific category of weapon, such as light mauls, medium casters, or cannons. You can also choose a miscellaneous weapon (such bio-chakram or combat chainsaw) as your favored ordnance.
 
-Attacks you make with your favored ordnance deal an additional 1d4 damage of the weaponís type. Your favored ordnance damage applies only to damage that requires an attack roll. Thus, you canít increase the damage dealt by a grenade or a weaponís burst property, unless you have a special ability that allows you to do so.
+Attacks you make with your favored ordnance deal an additional 1d4 damage of the weapon√≠s type. Your favored ordnance damage applies only to damage that requires an attack roll. Thus, you can√≠t increase the damage dealt by a grenade or a weapon√≠s burst property, unless you have a special ability that allows you to do so.
 
 This extra damage increases as you gain trooper levels, as shown in the Favored Ordnance column of the Trooper table.
 
-Once you deal your favored ordnance damage, you canít do so again until the start of your next turn.
+Once you deal your favored ordnance damage, you can√≠t do so again until the start of your next turn.
 
 When you gain a level in this class, you can replace one of your favored ordnance selections with another weapon.
 
@@ -4493,7 +4493,7 @@ Once you use this feature, you must finish a short or long rest before you can u
 
 Tireless Loyalty
 
-Nothing can convince you to turn on those youíve promised to protect or break the ideals youíve sworn to uphold. You have advantage on saving throws against being charmed. While you are charmed by a condition that allows a saving throw at the end of your turn, you can choose to make the save at the start of your turn instead.
+Nothing can convince you to turn on those you√≠ve promised to protect or break the ideals you√≠ve sworn to uphold. You have advantage on saving throws against being charmed. While you are charmed by a condition that allows a saving throw at the end of your turn, you can choose to make the save at the start of your turn instead.
 
 ###### Basic Training
 
@@ -4501,17 +4501,17 @@ Your training brought you into contact with people from all sorts of different b
 
 Chains of Command
 
-You know whoís in chargeóand more importantly, whoís really in charge of an organization (such as a police precinct) or group of individuals (such as a party of rival voidrunners). If you have encountered an organization's leader, you know whoís officially in charge according to that groupís chain of command, as well as the attitudes of each of the groupís members towards their leader.
+You know who√≠s in charge√≥and more importantly, who√≠s really in charge of an organization (such as a police precinct) or group of individuals (such as a party of rival voidrunners). If you have encountered an organization's leader, you know who√≠s officially in charge according to that group√≠s chain of command, as well as the attitudes of each of the group√≠s members towards their leader.
 
 Soldier of Fortune
 
-Youíve worked (or currently work) as a mercenary, taking part in military conflicts for personal profit. Anyone in need of a little extra muscle may come to you with job offers, and you have advantage on ability checks you make to find such jobs or negotiate their terms.
+You√≠ve worked (or currently work) as a mercenary, taking part in military conflicts for personal profit. Anyone in need of a little extra muscle may come to you with job offers, and you have advantage on ability checks you make to find such jobs or negotiate their terms.
 
-The jobs may involve some measure of danger, and they may not pay particularly well. But youíre never out of work, at least not for long.
+The jobs may involve some measure of danger, and they may not pay particularly well. But you√≠re never out of work, at least not for long.
 
 War Stories
 
-Even soldiers who havenít fought together often share similar experiences. If you spend a few minutes swapping stories from your past with someone from a military background, you have advantage on the next Persuasion check you make to influence them.
+Even soldiers who haven√≠t fought together often share similar experiences. If you spend a few minutes swapping stories from your past with someone from a military background, you have advantage on the next Persuasion check you make to influence them.
 
 ###### Combat Maneuvers
 
@@ -4523,11 +4523,11 @@ Additionally, whenever you learn a new maneuver, you can choose one of the maneu
 
 ##### Trooper Archetype
 
-At 3rd level, choose a trooper archetype. Though you are familiar with weapons of all sorts, your archetype represents the types of weapons youíve chosen to focus your training on. You gain benefits from your choice of archetype at 3rd level, then more at 7th, 10th, 15th, and 18th level.
+At 3rd level, choose a trooper archetype. Though you are familiar with weapons of all sorts, your archetype represents the types of weapons you√≠ve chosen to focus your training on. You gain benefits from your choice of archetype at 3rd level, then more at 7th, 10th, 15th, and 18th level.
 
 ###### Ability Score Improvement
 
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you canít increase an ability score above 20 using this feature.
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can√≠t increase an ability score above 20 using this feature.
 
 ###### Extra Attack
 
@@ -4535,7 +4535,7 @@ At 5th level, you can attack twice instead of once whenever you take the attack 
 
 ###### Combat Theater
 
-If your experience on the battlefield has taught you anything, itís that warfare is as much psychological as it is physical. At 6th level, choose one of the following options.
+If your experience on the battlefield has taught you anything, it√≠s that warfare is as much psychological as it is physical. At 6th level, choose one of the following options.
 
 Crowd Control
 
@@ -4549,7 +4549,7 @@ Hearts and Minds
 
 It is a sad fact of war that the innocent are often caught in the crossfire, but you do your best to keep them safe. When you make efforts to keep a
 
-non-combatant out of harmís way, word of your heroism spreads, and any members of their community who were previously indifferent to you become friendly.
+non-combatant out of harm√≠s way, word of your heroism spreads, and any members of their community who were previously indifferent to you become friendly.
 
 ##### Endurance
 
@@ -4565,15 +4565,15 @@ In the heat of battle, others look to you for guidance. The faith that others pl
 
 Celebrity Soldier
 
-Your victories on the battlefield have won you the respect of leaders across the galaxy. Regardless of your Prestige score, your Prestige Center covers an entire planet, or even multiple planets, at the Narratorís discretion. In addition, prominent politicians, businesspeople, and celebrities come to you asking for favors and may be willing to perform favors for you in return. The Narrator determines the nature of these interactions. For example, the head of a shipping conglomerate may arrange transport for you and your companions to one of their off-planet facilities in return for a review of the facilityís security. Similarly, if you endorse a politicianís run for office, they may open doors for you in the future.
+Your victories on the battlefield have won you the respect of leaders across the galaxy. Regardless of your Prestige score, your Prestige Center covers an entire planet, or even multiple planets, at the Narrator√≠s discretion. In addition, prominent politicians, businesspeople, and celebrities come to you asking for favors and may be willing to perform favors for you in return. The Narrator determines the nature of these interactions. For example, the head of a shipping conglomerate may arrange transport for you and your companions to one of their off-planet facilities in return for a review of the facility√≠s security. Similarly, if you endorse a politician√≠s run for office, they may open doors for you in the future.
 
 Impartial Judge
 
-Your integrity is known to be above reproach, and others may call upon you to issue punishments or settle disputes. Your Prestige rating increases by an amount equal to half your proficiency bonus. In addition, other people can always sense when youíre telling the truth (or at least, the truth as you see it). While others may not always agree with your decisions, so long as you do your best to remain impartial, your integrity is rarely called into question.
+Your integrity is known to be above reproach, and others may call upon you to issue punishments or settle disputes. Your Prestige rating increases by an amount equal to half your proficiency bonus. In addition, other people can always sense when you√≠re telling the truth (or at least, the truth as you see it). While others may not always agree with your decisions, so long as you do your best to remain impartial, your integrity is rarely called into question.
 
-Veteranís Insight
+Veteran√≠s Insight
 
-Others seek out your advice, hoping to gain insight from the lessons youíve learned on the battlefield. A creature that listens to your advice for at least 1 minute gains an expertise dice on one ability check of its choice that it makes in the next 24 hours. Once someone has benefited from your Veteranís Insight, they canít do so again for another 24 hours. If an NPC follows your advice and it works out well for them, they become friendly towards you and remain so until you give them reason to change their mind.
+Others seek out your advice, hoping to gain insight from the lessons you√≠ve learned on the battlefield. A creature that listens to your advice for at least 1 minute gains an expertise dice on one ability check of its choice that it makes in the next 24 hours. Once someone has benefited from your Veteran√≠s Insight, they can√≠t do so again for another 24 hours. If an NPC follows your advice and it works out well for them, they become friendly towards you and remain so until you give them reason to change their mind.
 
 ###### Legion Commander
 
@@ -4581,7 +4581,7 @@ At this point in your career, you may find yourself commanding hundreds, or even
 
 Address the Troops
 
-Your words inspire those under your command to fight without fear. You gain proficiency in Persuasion. If youíre already proficient in Persuasion, you instead gain an expertise die.
+Your words inspire those under your command to fight without fear. You gain proficiency in Persuasion. If you√≠re already proficient in Persuasion, you instead gain an expertise die.
 
 In addition, if you spend 10 minutes giving an inspiring speech, each creature you choose with an Intelligence
 
@@ -4589,23 +4589,23 @@ of 4 or greater that can hear and understand you is filled with courage and reso
 
 With the right technology on hand, you can greatly extend the number of creatures you can affect and the distance at which you can do so, even on a galactic scale.
 
-Once youíve used this ability, you must finish a short or long rest before you can do so again.
+Once you√≠ve used this ability, you must finish a short or long rest before you can do so again.
 
 Security Clearance
 
-Governments and military organizations trust you with their most guarded secrets. With a few phone calls to the right people, you can make a Prestige check to obtain a high-level security clearance, granting you access to data such as the location of a top-secret military installation, the blueprints of The Fleetís capital ship, or the medical files of the Emperor. Organizations hostile to you will never knowingly issue you a security clearance. Under most circumstances, your security clearance expires after 2 days. Once youíve used this ability, you must wait a week before you can do so again.
+Governments and military organizations trust you with their most guarded secrets. With a few phone calls to the right people, you can make a Prestige check to obtain a high-level security clearance, granting you access to data such as the location of a top-secret military installation, the blueprints of The Fleet√≠s capital ship, or the medical files of the Emperor. Organizations hostile to you will never knowingly issue you a security clearance. Under most circumstances, your security clearance expires after 2 days. Once you√≠ve used this ability, you must wait a week before you can do so again.
 
 Thousand-Foot View
 
-You can survey the broad strokes of a military campaign to pinpoint an enemyís weak spot. This survey takes the duration of a long rest and might involve reviewing stacks of field reports, analyzing thousands of AI-generated combat simulations, or simply pushing a few small-scale models across a replica battlefield. At the end of the long rest (which you still benefit from normally), you uncover a fatal flaw in your enemyís organization, such as an easily
+You can survey the broad strokes of a military campaign to pinpoint an enemy√≠s weak spot. This survey takes the duration of a long rest and might involve reviewing stacks of field reports, analyzing thousands of AI-generated combat simulations, or simply pushing a few small-scale models across a replica battlefield. At the end of the long rest (which you still benefit from normally), you uncover a fatal flaw in your enemy√≠s organization, such as an easily
 
-disrupted supply line or a shield generator theyíve left undefended.
+disrupted supply line or a shield generator they√≠ve left undefended.
 
-The Narrator determines the nature of the information you uncover. Your stratagem is often time sensitive, and even if you act on it, thereís no guarantee the plan will succeed. Once youíve used this ability in a campaign, you canít do so again until the specifics of the campaign youíre analyzing significantly change.
+The Narrator determines the nature of the information you uncover. Your stratagem is often time sensitive, and even if you act on it, there√≠s no guarantee the plan will succeed. Once you√≠ve used this ability in a campaign, you can√≠t do so again until the specifics of the campaign you√≠re analyzing significantly change.
 
 ##### Never Surrender
 
-Even a mortal wound canít stop you from fightingóat least for a while. At 20th level, when you take damage that reduces you to 0 hit points but doesnít kill you, you donít fall unconscious and can continue acting normally. You still make death saving throws at the start of your turn, suffer death saving throws whenever you take damage, and die after three failed death saving throws. If you are stabilized during this time, you remain conscious, but fall unconscious after 1 minute if you do not regain at least 1 hit point.
+Even a mortal wound can√≠t stop you from fighting√≥at least for a while. At 20th level, when you take damage that reduces you to 0 hit points but doesn√≠t kill you, you don√≠t fall unconscious and can continue acting normally. You still make death saving throws at the start of your turn, suffer death saving throws whenever you take damage, and die after three failed death saving throws. If you are stabilized during this time, you remain conscious, but fall unconscious after 1 minute if you do not regain at least 1 hit point.
 
 ##### Drills
 
@@ -4613,7 +4613,7 @@ When you gain access to a new drill, choose one of the following.
 
 ###### Action Hero
 
-Youíre daring, dynamic, and rush headlong into danger. On your turn, you can take an additional Dash action and gain an expertise die on Acrobatics and Athletics checks you make during the Dash. Once you use this feature, you must finish a short or long rest before you can use it again.
+You√≠re daring, dynamic, and rush headlong into danger. On your turn, you can take an additional Dash action and gain an expertise die on Acrobatics and Athletics checks you make during the Dash. Once you use this feature, you must finish a short or long rest before you can use it again.
 
 ###### Combat Medic
 
@@ -4631,19 +4631,19 @@ You can move twice as fast on a journey. Any allies without this drill that you 
 
 ###### Favored Front
 
-Youíve learned to fight in different kinds of terrain. Choose one type of terrain: arctic, coast, desert, forest, grassland, mountain, subterranean, or swamp. You gain an expertise die on Perception, Stealth, and Survival checks made in this terrain. You can take this drill multiple times, choosing a new terrain each time.
+You√≠ve learned to fight in different kinds of terrain. Choose one type of terrain: arctic, coast, desert, forest, grassland, mountain, subterranean, or swamp. You gain an expertise die on Perception, Stealth, and Survival checks made in this terrain. You can take this drill multiple times, choosing a new terrain each time.
 
 ###### Gear Up
 
-A soldierís gear helps keep them alive, so youíve learned to pack and handle it efficiently. You can don and doff armor in half the time it would normally take. Your Strength score is considered 5 higher when determining your carrying capacity and the weight you can lift, push, or drag.
+A soldier√≠s gear helps keep them alive, so you√≠ve learned to pack and handle it efficiently. You can don and doff armor in half the time it would normally take. Your Strength score is considered 5 higher when determining your carrying capacity and the weight you can lift, push, or drag.
 
 ###### Grunt Work
 
-Youíre not above getting a little dirt under your fingernails. You gain proficiency in carpenterís tools, cookís utensils, or another set of artisanís tools allowed by the Narrator. In addition, when performing manual labor, you gain an expertise die on Constitution saving throws to resist fatigue.
+You√≠re not above getting a little dirt under your fingernails. You gain proficiency in carpenter√≠s tools, cook√≠s utensils, or another set of artisan√≠s tools allowed by the Narrator. In addition, when performing manual labor, you gain an expertise die on Constitution saving throws to resist fatigue.
 
 ###### Lead the Charge
 
-When the time comes to engage the enemy, you make sure youíre always on the front lines, with your allies close behind. You gain an expertise die on initiative rolls. When you roll initiative, you can select one willing ally who rolled lower than you. For the rest of the encounter, that ally acts in the initiative count directly after you.
+When the time comes to engage the enemy, you make sure you√≠re always on the front lines, with your allies close behind. You gain an expertise die on initiative rolls. When you roll initiative, you can select one willing ally who rolled lower than you. For the rest of the encounter, that ally acts in the initiative count directly after you.
 
 ###### No One Left Behind
 
@@ -4659,9 +4659,9 @@ When reloading your weapon in the heat of battle, your hands act from muscle mem
 
 ###### Recon
 
-Hours spent on patrol have honed your senses. You gain proficiency in Perception. If youíre already proficient in Perception, you instead gain an expertise die.
+Hours spent on patrol have honed your senses. You gain proficiency in Perception. If you√≠re already proficient in Perception, you instead gain an expertise die.
 
-Additionally, when performing the Scout journey activity, you donít suffer a level of fatigue on a critical failure.
+Additionally, when performing the Scout journey activity, you don√≠t suffer a level of fatigue on a critical failure.
 
 ###### Rest and Relaxation
 
@@ -4669,15 +4669,15 @@ You know how important a little R & R can be. When you spend hit dice during a s
 
 ###### Security Detail
 
-Youíre always on the lookout for trouble. Your passive Perception score increases by 3, and you can never be surprised.
+You√≠re always on the lookout for trouble. Your passive Perception score increases by 3, and you can never be surprised.
 
 ###### Starship Trooper
 
-Youíre well accustomed to life aboard starships. While aboard a starship or similar vehicle, you gain an expertise die if youíre using a skill youíre proficient in.
+You√≠re well accustomed to life aboard starships. While aboard a starship or similar vehicle, you gain an expertise die if you√≠re using a skill you√≠re proficient in.
 
 ###### Tour of Duty
 
-Youíve learned to interact with people of cultures different from your own. You are proficient in Culture and gain a skill
+You√≠ve learned to interact with people of cultures different from your own. You are proficient in Culture and gain a skill
 
 specialty in Culture. In addition, you learn three languages of your choice.
 
@@ -4687,7 +4687,7 @@ Keeping your gear in proper working order can mean the difference between life a
 
 ##### Trooper Archetypes
 
-More so than perhaps any other martial class, troopers are differentiated by the weapons with which they choose to fight. Depending on the archetype you choose, you might be a professional duelist who fights to defend the honor of your house, a mercenary whose skill with firearms devastates those youíve been paid to fight, or an enlisted soldier specially trained in the use of grenades, mines, and other explosive devices.
+More so than perhaps any other martial class, troopers are differentiated by the weapons with which they choose to fight. Depending on the archetype you choose, you might be a professional duelist who fights to defend the honor of your house, a mercenary whose skill with firearms devastates those you√≠ve been paid to fight, or an enlisted soldier specially trained in the use of grenades, mines, and other explosive devices.
 
 ###### Armiger
 
@@ -4699,11 +4699,11 @@ At 3rd level, choose three additional weapons as your favored ordnance. If you s
 
 Precision Strike
 
-Youíve learned to hone your focus, drowning out all distractions to make a single, precise attack. At 3rd level, while wielding one of your favored ordnance weapons, you can use an action to make a precision strike. Make a single attack as normal, but if you roll a 2 or lower on the attack roll, you can reroll the die and use the new result. The threshold for this reroll increases with your proficiency bonus.
+You√≠ve learned to hone your focus, drowning out all distractions to make a single, precise attack. At 3rd level, while wielding one of your favored ordnance weapons, you can use an action to make a precision strike. Make a single attack as normal, but if you roll a 2 or lower on the attack roll, you can reroll the die and use the new result. The threshold for this reroll increases with your proficiency bonus.
 
 Thus, at 5th level you can reroll an attack roll whenever you roll a 3 or lower. You can reroll on a roll of 4 or lower at 9th level, on a roll of 5 or lower at 13th level, and on a roll of 6 or lower at 17th level. You can choose to reroll after learning whether the attack hits or misses.
 
-You canít make a precision strike more than once on your turn, and you canít make a precision strike outside of your turn. Thus, you canít use this feature in conjunction with your Barrage feature or when making opportunity attacks.
+You can√≠t make a precision strike more than once on your turn, and you can√≠t make a precision strike outside of your turn. Thus, you can√≠t use this feature in conjunction with your Barrage feature or when making opportunity attacks.
 
 Barrage
 
@@ -4713,17 +4713,17 @@ At 16th level, you can forgo your favored ordnance damage to make two additional
 
 Expert Technique
 
-Also at 7th level, enemies who face you on the battlefield soon realize theyíre outmatched. You learn one of the following expert techniques. Whenever you use the Attack action while wielding one of your favored ordnance weapons, you can
+Also at 7th level, enemies who face you on the battlefield soon realize they√≠re outmatched. You learn one of the following expert techniques. Whenever you use the Attack action while wielding one of your favored ordnance weapons, you can
 
 attempt an expert technique that you know in place of an attack. When you successfully use an expert technique, you can choose to deal your favored ordnance damage to the target, even if another feature (such as your Barrage feature) would otherwise cause you to forgo your favored ordnance damage.
 
 Demoralizing Knockdown
 
-Your attack knocks the target flat on its back. If the target is no more than one size category larger than you, it makes a Strength saving throw against your maneuver DC. On a failure, you deal your favored ordnance damage and knock the target prone. In addition, the target is rattled until the end of your next turn. While rattled, the target canít stand up, though it can crawl.
+Your attack knocks the target flat on its back. If the target is no more than one size category larger than you, it makes a Strength saving throw against your maneuver DC. On a failure, you deal your favored ordnance damage and knock the target prone. In addition, the target is rattled until the end of your next turn. While rattled, the target can√≠t stand up, though it can crawl.
 
 Disquieting Disarm
 
-You attempt to knock an item or weapon from a creatureís hand. The target makes a Strength or Dexterity saving throw against your maneuver DC. On a failure, you deal your favored ordnance damage and the target drops the item in its space. In addition, the target is rattled until the end of your next turn. Creatures that are a size category larger than you or that are holding the item with at least two hands have advantage on this save, while a creature of a size category smaller than you has disadvantage.
+You attempt to knock an item or weapon from a creature√≠s hand. The target makes a Strength or Dexterity saving throw against your maneuver DC. On a failure, you deal your favored ordnance damage and the target drops the item in its space. In addition, the target is rattled until the end of your next turn. Creatures that are a size category larger than you or that are holding the item with at least two hands have advantage on this save, while a creature of a size category smaller than you has disadvantage.
 
 While rattled, the target must use an action to recover its weapon or draw a new one.
 
@@ -4735,7 +4735,7 @@ number of feet away from you equal to 5
 
 + 5 for every 5 points it failed its saving throw by. In addition, the target is rattled until the end of your next turn. While rattled, attack rolls against the target are made with advantage.
 
-Armigerís Creed
+Armiger√≠s Creed
 
 At 10th level, your devotion to your code of ethics is its own defense. You gain proficiency with Wisdom saving throws.
 
@@ -4749,7 +4749,7 @@ At 18th level, the connection you share with your weapons deepens to an almost s
 
 ###### Bounty Hunter
 
-True dedication is needed to track down a mark across the vast universe and bring them to justiceóor to drag them back to whoeverís paying for their hide. Bounty hunting is a profession that has stood the test of time, and even in the age of space travel there will always be a need to find those who wish to remain hidden. Bounty hunters are experts trackers, stalking their
+True dedication is needed to track down a mark across the vast universe and bring them to justice√≥or to drag them back to whoever√≠s paying for their hide. Bounty hunting is a profession that has stood the test of time, and even in the age of space travel there will always be a need to find those who wish to remain hidden. Bounty hunters are experts trackers, stalking their
 
 prey for glory and profit no matter how many lightyears their trail is long.
 
@@ -4767,7 +4767,7 @@ Starting at 7th level, you develop tactics needed for tracking down and subduing
 
 Eye for Faces
 
-No matter the disguise, once you get a read on your mark youíd know it anywhere. By spending at least a minute chatting with and closely observing a creature, you can memorize it and its mannerisms. You can instantly and accurately recognize any creature you memorize in this way, and you can automatically see through any disguise it uses so long as you are able to both see it and hear it speak. In addition, you gain an expertise die on Insight checks.
+No matter the disguise, once you get a read on your mark you√≠d know it anywhere. By spending at least a minute chatting with and closely observing a creature, you can memorize it and its mannerisms. You can instantly and accurately recognize any creature you memorize in this way, and you can automatically see through any disguise it uses so long as you are able to both see it and hear it speak. In addition, you gain an expertise die on Insight checks.
 
 Self-Reliant
 
@@ -4785,7 +4785,7 @@ At 16th level, you may perform up to two of the above basic maneuvers using the 
 
 Knockout
 
-At 10th level you start to appreciate that the ìaliveî part of dead or alive takes more effort but usually pays better. Whenever you deal your favored ordnance damage to a creature while it is bloodied, it makes a Constitution saving throw against your maneuver DC. On a failed save the creature is knocked unconscious for 1 hour. A creature knocked unconscious in this way can repeat the saving throw when it takes damage or if another adjacent creature uses an action to wake it. Once a creature
+At 10th level you start to appreciate that the √¨alive√Æ part of dead or alive takes more effort but usually pays better. Whenever you deal your favored ordnance damage to a creature while it is bloodied, it makes a Constitution saving throw against your maneuver DC. On a failed save the creature is knocked unconscious for 1 hour. A creature knocked unconscious in this way can repeat the saving throw when it takes damage or if another adjacent creature uses an action to wake it. Once a creature
 
 successfully saves against this feature it is immune to Knockout for the next 24 hours.
 
@@ -4793,29 +4793,29 @@ Apex Hunter
 
 Beginning at 15th level, your name on a docket is a verifiable guarantee that your target will be caught. You gain every feature from Hunting Tactics instead of only selecting one.
 
-Youíre Coming With Me
+You√≠re Coming With Me
 
 At 18th level you can bring in even the most dangerous bounties. You may at any time choose a creature you can see and mark it. The mark lasts until you choose to end it or until you use this feature to mark another target. You gain an expertise die on attacks against the marked target, as well as on Perception and Survival checks made to track or locate it. In addition, the marked target has disadvantage on saving throws against your maneuver DC. Once you mark a creature in this way, you cannot do so again until you finish a long rest.
 
 ###### Demolitions Expert
 
-It takes a certain kind of mindset to devote oneís life to blowing stuff up, and the process is as much art as it is science.
+It takes a certain kind of mindset to devote one√≠s life to blowing stuff up, and the process is as much art as it is science.
 
-Shaping an explosiveís charge so that it produces the exact effect you intend, detonating it in a glorious cataclysm of fire and shrapnelóit speaks to some in a way nothing else quite does.
+Shaping an explosive√≠s charge so that it produces the exact effect you intend, detonating it in a glorious cataclysm of fire and shrapnel√≥it speaks to some in a way nothing else quite does.
 
 Explosives Mastery
 
-When you select this archetype at 3rd level, grenades and mines count as favored ordnance weapons for you. When a grenade you throw or a mine you have set deals damage, targets in the grenade or mineís blast radius take additional damage equal to your favored ordnance damage.
+When you select this archetype at 3rd level, grenades and mines count as favored ordnance weapons for you. When a grenade you throw or a mine you have set deals damage, targets in the grenade or mine√≠s blast radius take additional damage equal to your favored ordnance damage.
 
 The damage type of this extra damage is the same as the type normally dealt by that grenade or mine.
 
 Eye for Architecture
 
-Also at 3rd level, youíve learned to pinpoint the weaknesses in any structure. You gain proficiency in Engineering. If youíre already proficient in Engineering, you instead gain an expertise die. Your expertise dice in Engineering can be upgraded from d8 to d10, exceeding the usual limit on expertise dice.
+Also at 3rd level, you√≠ve learned to pinpoint the weaknesses in any structure. You gain proficiency in Engineering. If you√≠re already proficient in Engineering, you instead gain an expertise die. Your expertise dice in Engineering can be upgraded from d8 to d10, exceeding the usual limit on expertise dice.
 
 Parabolic Trajectory
 
-Beginning at 3rd level, you learn how to launch grenades in an arcing, parabolic trajectory, increasing their range. Your grenades have the thrown 30/60 property. When you use a grenade launcher to fire a grenade, the launcherís range increases to 200/800.
+Beginning at 3rd level, you learn how to launch grenades in an arcing, parabolic trajectory, increasing their range. Your grenades have the thrown 30/60 property. When you use a grenade launcher to fire a grenade, the launcher√≠s range increases to 200/800.
 
 Expanded Blast Radius
 
@@ -4835,13 +4835,13 @@ If the grenade or mine deals damage, you can change the damage it normally deals
 
 High Explosive
 
-If the grenade or mine deals damage, the damage dice ëexplodeí. Any maximum roll on a die (e.g. a 6 on a d6 or an 8 on a d8) allow you to roll that die again, and add the new roll to the original.
+If the grenade or mine deals damage, the damage dice √´explode√≠. Any maximum roll on a die (e.g. a 6 on a d6 or an 8 on a d8) allow you to roll that die again, and add the new roll to the original.
 
 Shaped
 
-You can alter the grenade or mineís blast radius to a 60 foot cone or a line that is 60 feet long and 10 feet wide. If
+You can alter the grenade or mine√≠s blast radius to a 60 foot cone or a line that is 60 feet long and 10 feet wide. If
 
-you choose this augment, you canít use your Expanded Blast Radius feature to alter the size of the grenade or mineís blast.
+you choose this augment, you can√≠t use your Expanded Blast Radius feature to alter the size of the grenade or mine√≠s blast.
 
 Blast Evasion
 
@@ -4853,7 +4853,7 @@ At 15th level, you become a veritable munitions factory. You learn all the custo
 
 Creative Destruction
 
-At 18th level, youíve developed your ability to create explosives into a true art form. You gain the following benefits.
+At 18th level, you√≠ve developed your ability to create explosives into a true art form. You gain the following benefits.
 
 * Your custom munitions can replicate the effects of the following grenades or mines: concussion, EMP, incendiary, stun.
 * You can now add two custom augments to any of your custom munitions.
@@ -4865,7 +4865,7 @@ Even in a world where starships bombard planets from orbit, warfare often comes 
 
 Firearms Mastery
 
-At 3rd level, you gain all firearms as your favored ordnance. When you use the burst property of a firearm, targets in the weaponís burst area take additional damage equal to your favored ordnance damage.
+At 3rd level, you gain all firearms as your favored ordnance. When you use the burst property of a firearm, targets in the weapon√≠s burst area take additional damage equal to your favored ordnance damage.
 
 The damage type of this extra damage is the same as the type normally dealt by the weapon.
 
@@ -4875,17 +4875,17 @@ Also at 3rd level, you learn how to fire your weapon in short, controlled bursts
 
 Strafe
 
-At 7th level, when you use the burst property with a firearm, you can create a second 10 foot cube contiguous with the primary burst area within the weaponís range. If you do, you do not apply your favored ordnance damage to either burst area. For each area you create, you expend 5 pieces of ammunition.
+At 7th level, when you use the burst property with a firearm, you can create a second 10 foot cube contiguous with the primary burst area within the weapon√≠s range. If you do, you do not apply your favored ordnance damage to either burst area. For each area you create, you expend 5 pieces of ammunition.
 
 At 16th level, you can create a third burst area. Alternatively, you can reduce your favored ordnance damage to 1d12 to create two burst areas at the ammunition cost of one.
 
 Advanced Tactics
 
-Also at 7th level, you develop advanced tactics that allow you to direct the ebb and flow of battle with your gunfire. You learn one of the following advanced tactics, which you can use to augment the burst areas you create with firearms. You canít use more than one advanced tactic on your turn. If you use Strafe to create multiple burst areas, the advanced tactic you use (if any) applies to all areas you create.
+Also at 7th level, you develop advanced tactics that allow you to direct the ebb and flow of battle with your gunfire. You learn one of the following advanced tactics, which you can use to augment the burst areas you create with firearms. You can√≠t use more than one advanced tactic on your turn. If you use Strafe to create multiple burst areas, the advanced tactic you use (if any) applies to all areas you create.
 
 Cover Fire
 
-When you use the burst property with a firearm, you can choose to exclude a number of creatures equal to your proficiency bonus from the burstís effect. All other targets have advantage on the Dexterity saving throw they make to avoid damage from the burst. After the burstís effect is resolved, the creatures you excluded can use their reaction to move up to half their Speed without provoking opportunity attacks.
+When you use the burst property with a firearm, you can choose to exclude a number of creatures equal to your proficiency bonus from the burst√≠s effect. All other targets have advantage on the Dexterity saving throw they make to avoid damage from the burst. After the burst√≠s effect is resolved, the creatures you excluded can use their reaction to move up to half their Speed without provoking opportunity attacks.
 
 Focus Fire
 
@@ -4895,7 +4895,7 @@ When you use the burst property with a firearm, you can choose to create a
 
 Suppressive Fire
 
-When you use the burst property with a firearm, instead of the burstís normal effects, you can choose to fill the area with suppressive fire. Each creature in the area makes a Wisdom saving throw against your maneuver DC. On a failure, the creature is rattled and has disadvantage on ability checks and attack rolls until the end of your next turn.
+When you use the burst property with a firearm, instead of the burst√≠s normal effects, you can choose to fill the area with suppressive fire. Each creature in the area makes a Wisdom saving throw against your maneuver DC. On a failure, the creature is rattled and has disadvantage on ability checks and attack rolls until the end of your next turn.
 
 Take Cover
 
@@ -4909,19 +4909,19 @@ With a gun in your hands, the battlefield is yours to control. At 15th level, yo
 
 Overwhelming Firepower
 
-At 18th level, while wielding a firearm with the burst property, you can use an action to create one of the following effects. To do so, you must expend 10 pieces of ammunition. You canít use your Strafe or Advanced Tactics features to alter these effects further.
+At 18th level, while wielding a firearm with the burst property, you can use an action to create one of the following effects. To do so, you must expend 10 pieces of ammunition. You can√≠t use your Strafe or Advanced Tactics features to alter these effects further.
 
-Mow ëEm Down
+Mow √´Em Down
 
-Select up to ten contiguous 5 foot cubes you can see within the weaponís range. Each creature in that area makes a Dexterity saving throw against your maneuver DC. The target takes the weaponís normal damage on a failed save, or your favored ordnance damage on a success.
+Select up to ten contiguous 5 foot cubes you can see within the weapon√≠s range. Each creature in that area makes a Dexterity saving throw against your maneuver DC. The target takes the weapon√≠s normal damage on a failed save, or your favored ordnance damage on a success.
 
 Spray and Pray
 
-Each target in a 60-foot cone makes a Dexterity saving throw against your maneuver DC. The target takes the weaponís normal damage on a failed save, or your favored ordnance damage on a success.
+Each target in a 60-foot cone makes a Dexterity saving throw against your maneuver DC. The target takes the weapon√≠s normal damage on a failed save, or your favored ordnance damage on a success.
 
 ###### Operative
 
-Some troopers receive more extensive and covert training, acting as special forces deep within enemy territory and completing vital missions. More than footsoldiers, operatives are elite specialists that can accomplish tasks with tact and precision before the enemy is even aware of their presence. These disciplined warriors often keep their contacts long after official military service ends, leading to many to take freelance missions that even officially enlisted wetwork teams wonít touch.
+Some troopers receive more extensive and covert training, acting as special forces deep within enemy territory and completing vital missions. More than footsoldiers, operatives are elite specialists that can accomplish tasks with tact and precision before the enemy is even aware of their presence. These disciplined warriors often keep their contacts long after official military service ends, leading to many to take freelance missions that even officially enlisted wetwork teams won√≠t touch.
 
 Alpha Strike
 
@@ -4929,7 +4929,7 @@ When you choose this archetype at 3rd level, whenever you hit a surprised target
 
 Armored Stealth
 
-Also at 3rd level, you gain proficiency in Stealth. During a long rest, you can customize even the heaviest suit of armor to make sure it doesnít hinder your abilities. If you do so, that piece of armor does not give you disadvantage on Stealth checks. Any other creature wearing that same suit of armor still suffers disadvantage on Stealth checks as normal.
+Also at 3rd level, you gain proficiency in Stealth. During a long rest, you can customize even the heaviest suit of armor to make sure it doesn√≠t hinder your abilities. If you do so, that piece of armor does not give you disadvantage on Stealth checks. Any other creature wearing that same suit of armor still suffers disadvantage on Stealth checks as normal.
 
 Clean Kills
 
@@ -4937,7 +4937,7 @@ Beginning at 7th level, whenever you make an attack using a weapon with the
 
 long-range or scoped weapon augment, you
 
-ignore the disadvantage normally incurred by firing at a target beyond the weaponís normal range and you may reroll any favored ordnance die results of 1. In addition, you gain an expertise die on Stealth checks, and while you are hidden any checks made to locate you from 30 or more feet away have disadvantage.
+ignore the disadvantage normally incurred by firing at a target beyond the weapon√≠s normal range and you may reroll any favored ordnance die results of 1. In addition, you gain an expertise die on Stealth checks, and while you are hidden any checks made to locate you from 30 or more feet away have disadvantage.
 
 At 16th level, whenever you make an attack using a weapon with the
 
@@ -4971,11 +4971,11 @@ Starting at 15th level, you rarely leave any evidence that an operation took pla
 
 Clean Sweep
 
-At 18th level, while wielding a ranged weapon with a long-ranged or scoped weapon augment, you can use an action to expend 5 shots of ammunition in a clean sweep, attacking up to 5 surprised creatures you can see within the weaponís range, rolling separately for each. When hit, a creature makes a Wisdom saving throw against your maneuver DC. On a failure, it is still surprised at the beginning of the next round.
+At 18th level, while wielding a ranged weapon with a long-ranged or scoped weapon augment, you can use an action to expend 5 shots of ammunition in a clean sweep, attacking up to 5 surprised creatures you can see within the weapon√≠s range, rolling separately for each. When hit, a creature makes a Wisdom saving throw against your maneuver DC. On a failure, it is still surprised at the beginning of the next round.
 
 # Chapter 3: Equipment
 
-As technology advances, the perpetual arms race becomes ever deadlier with new and ingenious ways to both kill and stay alive. This chapter includes a variety of equipment and gear for a voidrunnerís needs, including armor, weapons, vehicles, drones, and even cybernetic enhancements. While many entries in the base game have more modern counterparts here, there are someñsuch as instruments, artisanís tools, and the likeñthat still have application for more technologically advanced heroes.
+As technology advances, the perpetual arms race becomes ever deadlier with new and ingenious ways to both kill and stay alive. This chapter includes a variety of equipment and gear for a voidrunner√≠s needs, including armor, weapons, vehicles, drones, and even cybernetic enhancements. While many entries in the base game have more modern counterparts here, there are some√±such as instruments, artisan√≠s tools, and the like√±that still have application for more technologically advanced heroes.
 
 ###### Technology Levels
 
@@ -4989,7 +4989,7 @@ In addition to being noted in its entry or properties, an advanced item is also 
 
 ###### Archaic Gear
 
-All non-magical items from the base game are available to voidrunners at double the costñthey are antiques, after all. Availability of such items is at the Narratorís discretion, and those which are magical in nature are not available unless the game setting includes magic.
+All non-magical items from the base game are available to voidrunners at double the cost√±they are antiques, after all. Availability of such items is at the Narrator√≠s discretion, and those which are magical in nature are not available unless the game setting includes magic.
 
 Credits and gold pieces are of equal
 
@@ -4997,9 +4997,9 @@ value.
 
 ###### Currency
 
-Everything has a price, and in the future, the standard unit of measuring those prices is the credit, often abbreviated to ëcrí.
+Everything has a price, and in the future, the standard unit of measuring those prices is the credit, often abbreviated to √´cr√≠.
 
-Depending on the nature of the setting, this currency may be a fiat currency, a digital currency, or even one backed by some sort of ëgold standardí. It may also have a different name.
+Depending on the nature of the setting, this currency may be a fiat currency, a digital currency, or even one backed by some sort of √´gold standard√≠. It may also have a different name.
 
 A typical worker in a prosperous future society earns about 10 credits per day of work.
 
@@ -5011,17 +5011,17 @@ Supply costs 0.5 cr per Supply.
 
 #### Armor, Shielding, and Weaponry
 
-A soldierís armor featuring her unitís distinctive logo, a praetorís signature blade, the dagger a conman keeps for when a deal goes wrongócharacters are often defined by the arms and armaments that they utilize as much as any psychic ability or
+A soldier√≠s armor featuring her unit√≠s distinctive logo, a praetor√≠s signature blade, the dagger a conman keeps for when a deal goes wrong√≥characters are often defined by the arms and armaments that they utilize as much as any psychic ability or
 
 well-honed lie. You gain most of your proficiencies from your character class, but your background and culture may mean that
 
 you are capable with other kinds of equipment as well.
 
-Ideally, selecting gear means more than checking off items on a list. A character likely has an association with most of their equipmentóthey chose a blade instead of a blaster for a reason, after all. Your characterís backstory and personality likely play a key role in this. Did they grow up on the streets and need a well-hidden weapon to get past the authorities, or did they have reason to wear a blade openly? Is a characterís firearm a named and cherished member of the crew, or is it merely a grim tool to take up when there is no other option? Answers to questions like these help define who your character is on and off the battlefield.
+Ideally, selecting gear means more than checking off items on a list. A character likely has an association with most of their equipment√≥they chose a blade instead of a blaster for a reason, after all. Your character√≠s backstory and personality likely play a key role in this. Did they grow up on the streets and need a well-hidden weapon to get past the authorities, or did they have reason to wear a blade openly? Is a character√≠s firearm a named and cherished member of the crew, or is it merely a grim tool to take up when there is no other option? Answers to questions like these help define who your character is on and off the battlefield.
 
 ##### Weapons
 
-Objects made for killing come in every shape and size. Your class gives you proficiency with certain kinds of weapons, all of which have different properties and ranges. Melee weapons like blades and mauls are held or thrown, while firearms and casters propel ammunition. When making an attack with a weapon, you add either your Strength or Dexterity modifier to the roll, depending on the weaponís type, as well as your proficiency bonus if you have one. A galaxyís worth of peoples utilize an equally diverse range of weapons, but most fall into one of five general types: blades, casters, firearms, mauls, and polearms. In addition to the pre-industrial weapons found in the base game, the weapons in this chapter are typically available to voidrunners.
+Objects made for killing come in every shape and size. Your class gives you proficiency with certain kinds of weapons, all of which have different properties and ranges. Melee weapons like blades and mauls are held or thrown, while firearms and casters propel ammunition. When making an attack with a weapon, you add either your Strength or Dexterity modifier to the roll, depending on the weapon√≠s type, as well as your proficiency bonus if you have one. A galaxy√≠s worth of peoples utilize an equally diverse range of weapons, but most fall into one of five general types: blades, casters, firearms, mauls, and polearms. In addition to the pre-industrial weapons found in the base game, the weapons in this chapter are typically available to voidrunners.
 
 **Simple Weapons.** Direct weapons that require no particular finesse, such as mauls, simple weapons are often wielded by NPCs, who usually lack the training to wield other sorts of weapons. Voidrunners are often proficient with many simple weapons, which include mauls, polearms, and some firearms.
 
@@ -5038,7 +5038,7 @@ While firearms have been widely adopted throughout many cultures, there are stil
 |  |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | **NAME** | **COST** | **DAMAGE** | **WEIGHT** | **PROPERTIES** |
-| Battle gauntlet  *(special)* | 5 cr | 1d6 bludgeoning | Ω lb. | Dual-wielding, exotic, hand-mounted |
+| Battle gauntlet  *(special)* | 5 cr | 1d6 bludgeoning | Œ© lb. | Dual-wielding, exotic, hand-mounted |
 | Combat chainsaw  *(special)* | 65 cr | 2d4 slashing | 12 lbs. | Breaker, exotic, heavy (Str 13+), two-handed |
 | Combat knife  *(light blade)* | 2 cr | 1d4 piercing | 2 lbs. | Defensive (light), dual-wielding, finesse |
 | Dueling sword  *(medium blade)* | 20 cr | 1d8 slashing | 3 lbs. | Defensive (medium), parrying, versatile (1d10) |
@@ -5052,7 +5052,7 @@ While firearms have been widely adopted throughout many cultures, there are stil
 | Tactical baton  *(light maul)* | 2 cr | 1d4 bludgeoning | 2 lbs. | Simple |
 | Vibroknife  *(light blade; sonic)* | 30 cr | 1d4 thunder | 2 lbs. | Defensive (light), dual-wielding, finesse |
 
-***Battle Gauntlet.*** This heavy glove is reinforced with hi-tech materials designed to protect the wearerís hands and bolster the force of their punches. While wearing a battle gauntlet, you can reach your hand into a hazardous area (such flames or a pool of acid) without suffering any harmful effects. The Narrator may rule that extended exposure to a hazard defeats the gauntletís protection, or that the gauntlet offers no protection against certain hazards.
+***Battle Gauntlet.*** This heavy glove is reinforced with hi-tech materials designed to protect the wearer√≠s hands and bolster the force of their punches. While wearing a battle gauntlet, you can reach your hand into a hazardous area (such flames or a pool of acid) without suffering any harmful effects. The Narrator may rule that extended exposure to a hazard defeats the gauntlet√≠s protection, or that the gauntlet offers no protection against certain hazards.
 
 ***Combat Chainsaw.*** Unlike the tools designed for industry or personal use, combat chainsaws are meant for war. When you make a damage roll with the weapon, if either of the dice result in a 4, you can roll an additional d4 and add the result to the total damage dealt.
 
@@ -5060,7 +5060,7 @@ While firearms have been widely adopted throughout many cultures, there are stil
 
 mass-manufactured duranium blades are sturdy and practical, often carried by military forces as a backup weapon.
 
-***Dueling Sword.*** Well-crafted and usually individually designed, dueling swords are often ceremonialñhowever many cultures still regard hand-to-hand combat as an honorable way to resolve disputes.
+***Dueling Sword.*** Well-crafted and usually individually designed, dueling swords are often ceremonial√±however many cultures still regard hand-to-hand combat as an honorable way to resolve disputes.
 
 ***Electro Halberd.*** This polearm sports an electrified blade.
 
@@ -5068,7 +5068,7 @@ mass-manufactured duranium blades are sturdy and practical, often carried by mil
 
 ***Mono-Whip.*** Spools of monomolecular wire affixed to a thin handle, mono-whips slice neatly through organic and inorganic matter alike.
 
-***Plasma Sword.*** A plasma sword is a superheated blade, reminiscent of a psyknightís starglaiveñalthough not as potent.
+***Plasma Sword.*** A plasma sword is a superheated blade, reminiscent of a psyknight√≠s starglaive√±although not as potent.
 
 ***Shock Mace.*** A medium-sized weapon consisting of a handle ending with a ball or other shaped head. The head is electrified.
 
@@ -5076,7 +5076,7 @@ mass-manufactured duranium blades are sturdy and practical, often carried by mil
 
 ***Stun Stick.*** These hand-held devices deliver a powerful electric current that
 
-temporarily disrupts the targetís neuromuscular autonomy. A target damaged by a stun stick makes a Constitution saving throw against your maneuver save DC. On a failed save, the target is knocked prone and rattled until the end of your next turn. A target that fails the saving throw by 5 or more is stunned instead of rattled.
+temporarily disrupts the target√≠s neuromuscular autonomy. A target damaged by a stun stick makes a Constitution saving throw against your maneuver save DC. On a failed save, the target is knocked prone and rattled until the end of your next turn. A target that fails the saving throw by 5 or more is stunned instead of rattled.
 
 ***Tactical Baton.*** A simple duranium stick with a handle.
 
@@ -5124,10 +5124,10 @@ Ranged weapons require ammunition to utilize properly. Melee attacks made with r
 | Polaron gatling gun *(heavy firearm; auto, plasma)* | 535 cr | 2d8 fire | 25 lbs. | Ammunition (range 150/600), heavy (Str 13+), overkill, reload (20 shots), two-handed |
 | Shotgun  *(medium firearm)* | 35 cr | 2d6 piercing | 25 lbs. | Ammunition (range 120/360), reload (20 shots), two-handed |
 | Sniper rifle  *(medium firearm; long-ranged, scoped)* | 165 cr | 2d6 piercing | 8 lbs. | Ammunition (range 240/720), reload (20 shots), two-handed |
-| TK gauntlet  *(special)* | 750 cr | 1d6 bludgeoning | Ω lbs. | Exotic, hand-mounted, parrying, simple, thrown (20/60) |
+| TK gauntlet  *(special)* | 750 cr | 1d6 bludgeoning | Œ© lbs. | Exotic, hand-mounted, parrying, simple, thrown (20/60) |
 | Viper retainer  *(special)* | 35 cr | 1d12 poison | n/a | Exotic, reload (1 shot) |
 
-***Bio-Chakram.*** Bio-chakrams are sharp-edged discs designed to return to the wielderís hand when thrown. All
+***Bio-Chakram.*** Bio-chakrams are sharp-edged discs designed to return to the wielder√≠s hand when thrown. All
 
 bio-chakrams come equipped with the biometric weapon augment. When you make a ranged attack with the
 
@@ -5135,9 +5135,9 @@ bio-chakram, it returns to your hand whether the attack hits or misses and regar
 
 If you are separated from the
 
-bio-chakram by 50 feet or less, you can use a bonus action to call the weapon to your hand. The bio-chakram must be unattended and canít pass through obstructions such as doors or walls, but you do not need to see the weapon to call it in this way (it flies around corners to reach you, for example).
+bio-chakram by 50 feet or less, you can use a bonus action to call the weapon to your hand. The bio-chakram must be unattended and can√≠t pass through obstructions such as doors or walls, but you do not need to see the weapon to call it in this way (it flies around corners to reach you, for example).
 
-Whenever you miss with a ranged attack using the bio-chakram, before the weapon returns to your hand, you can use your reaction to make another attack with the weapon against the same target or another target you can see within the weaponís range.
+Whenever you miss with a ranged attack using the bio-chakram, before the weapon returns to your hand, you can use your reaction to make another attack with the weapon against the same target or another target you can see within the weapon√≠s range.
 
 ***Blaster.*** A common weapon and the standard sidearm of many a voidrunner, a blaster is a pistol which fires bolts of plasma.
 
@@ -5145,7 +5145,7 @@ Whenever you miss with a ranged attack using the bio-chakram, before the weapon 
 
 condensed bolts of energy at the target. It has excellent range, and packs quite a punch.
 
-***Flame Bracer.*** A flame bracer is an anti-personnel weapon designed to be strapped to the userís forearm. As an action, you can activate the bracer to project a jet of flame in a 15-foot line that is 5 feet wide. Each creature in that line takes 2d4 fire damage, or half as much damage on a successful Dexterity saving throw against your maneuver DC. If you expend three uses of the flame bracerís fuel canister, you can alter the area of effect to a 15-foot cone instead.
+***Flame Bracer.*** A flame bracer is an anti-personnel weapon designed to be strapped to the user√≠s forearm. As an action, you can activate the bracer to project a jet of flame in a 15-foot line that is 5 feet wide. Each creature in that line takes 2d4 fire damage, or half as much damage on a successful Dexterity saving throw against your maneuver DC. If you expend three uses of the flame bracer√≠s fuel canister, you can alter the area of effect to a 15-foot cone instead.
 
 ***Flamethrower.*** Unlike flame bracers, flamethrowers are military-grade weapons that project wide swaths of flame. As an action, you can choose between a 30-foot line that is 5 feet wide or a 15-foot cone.
 
@@ -5153,7 +5153,7 @@ Each creature in that area takes 2d6 fire damage, or half as much damage on a su
 
 Unattended flammable objects in the area are ignited.
 
-***Grenade Launcher.*** Grenade launchers allow the wielder to fire a grenade out to the weaponís maximum range rather than throwing it. Once a grenade lands, it detonates, creating a specific effect depending on the grenadeís type (see Grenades).
+***Grenade Launcher.*** Grenade launchers allow the wielder to fire a grenade out to the weapon√≠s maximum range rather than throwing it. Once a grenade lands, it detonates, creating a specific effect depending on the grenade√≠s type (see Grenades).
 
 ***Hypodermic Pistol.*** Hypodermic pistols launch darts equipped with liquid-filled reservoirs. Upon impact, a dart injects the contents of its reservoir into the target.
 
@@ -5163,7 +5163,7 @@ Assassins typically fill their darts with poison, but the darts can also deliver
 
 ***Jolt Pistol.*** Originally designed for personal protection, jolt pistols fire
 
-short-range arcs of electricity that shock the targetís nervous system. A target damaged by a jolt pistol makes a Constitution saving throw against your maneuver save DC. On a failed save, the target is knocked prone and rattled until the end of your next turn. A target that fails the saving throw by 5 or more is stunned instead of rattled. Energy batteries designed for shock weapons (see Ammunition) are also used to power jolt pistols.
+short-range arcs of electricity that shock the target√≠s nervous system. A target damaged by a jolt pistol makes a Constitution saving throw against your maneuver save DC. On a failed save, the target is knocked prone and rattled until the end of your next turn. A target that fails the saving throw by 5 or more is stunned instead of rattled. Energy batteries designed for shock weapons (see Ammunition) are also used to power jolt pistols.
 
 ***Laser Pistol.*** Laser-based firearms fire beams of coherent light at their targets.
 
@@ -5183,13 +5183,13 @@ netcaster is restrained until it is freed. A creature can use its action to make
 
 ***Sniper Rifle.*** A slug rifle designed for long range.
 
-***TK Gauntlet.*** This gauntlet allows the wearer to manipulate the gravity fields surrounding nearby objects. As an action, you can manipulate an unattended object weighing no more than 10 pounds that you can see within 20 feet of you, allowing you to move an object through the air, open or close an unlocked container or door, or perform similar actions. You canít use the gauntlet to perform complex tasks like wielding a weapon or using hacking tools. The effect ends if the object you are manipulating moves farther than 20 feet away from you.
+***TK Gauntlet.*** This gauntlet allows the wearer to manipulate the gravity fields surrounding nearby objects. As an action, you can manipulate an unattended object weighing no more than 10 pounds that you can see within 20 feet of you, allowing you to move an object through the air, open or close an unlocked container or door, or perform similar actions. You can√≠t use the gauntlet to perform complex tasks like wielding a weapon or using hacking tools. The effect ends if the object you are manipulating moves farther than 20 feet away from you.
 
 While you are manipulating an object, you can hurl the object at a target you can see within 20 feet of you, allowing you to make a ranged attack against the
 
 target. This attack normally deals bludgeoning damage, although the Narrator might decide the attack deals a different type of damage, or no damage at all, depending on the nature of the object you are throwing.
 
-***Viper Retainer.*** A viper retainer is designed to fit discreetly inside the wearerís mouth. All viper retainers come equipped with the concealed weapon augment. While wearing a viper retainer, you can use your tongue to activate the retainer as a bonus action, deploying a spray of poisonous gas at a creature you can see within 5 feet of you. The creature makes a Constitution saving throw against a DC equal to 8 + your proficiency bonus
+***Viper Retainer.*** A viper retainer is designed to fit discreetly inside the wearer√≠s mouth. All viper retainers come equipped with the concealed weapon augment. While wearing a viper retainer, you can use your tongue to activate the retainer as a bonus action, deploying a spray of poisonous gas at a creature you can see within 5 feet of you. The creature makes a Constitution saving throw against a DC equal to 8 + your proficiency bonus
 
 + your Dexterity modifier. On a failure, the target takes 1d12 poison damage. Once activated, the expended retainer must be disposed of; inserting a new retainer requires a full minute.
 
@@ -5197,9 +5197,9 @@ Ammunition
 
 Ranged weapons, such as casters and firearms, require ammunition to fire.
 
-Physical ammunition can be fired only by the type of weapon for which it was designed. When you purchase ammunition (or discover an ammo cache during an adventure), be sure to note the ammunitionís type.
+Physical ammunition can be fired only by the type of weapon for which it was designed. When you purchase ammunition (or discover an ammo cache during an adventure), be sure to note the ammunition√≠s type.
 
-***Energy Batteries.*** Unlike weapons which launch physical projectiles like bolts or bullets, weapons which do energy damage drain charges from batteries or power cells. These charges come from the voidrunnnerís Supply cacheñone battery or power cell is equal to 1 Supply and is enough power for 40 shots of a light weapon, 20 shots of a medium weapon, or 10 shots of a heavy weapon.
+***Energy Batteries.*** Unlike weapons which launch physical projectiles like bolts or bullets, weapons which do energy damage drain charges from batteries or power cells. These charges come from the voidrunnner√≠s Supply cache√±one battery or power cell is equal to 1 Supply and is enough power for 40 shots of a light weapon, 20 shots of a medium weapon, or 10 shots of a heavy weapon.
 
 **Table: Ammunition**
 
@@ -5207,10 +5207,10 @@ Physical ammunition can be fired only by the type of weapon for which it was des
 | --- | --- | --- |
 | **Name** | **Cost** | **Weight** |
 | Light, medium, or heavy caster (20) | 1 cr | 1 lb. |
-| Pistol, rifle, or cannon | 1 cr | Ω lb. |
-| Darts (10) | 1 cr | Ω lb. |
-| Fuel canister | 5 cr | Ω lb. |
-| Net cartridge | 5 cr | Ω lb. |
+| Pistol, rifle, or cannon | 1 cr | Œ© lb. |
+| Darts (10) | 1 cr | Œ© lb. |
+| Fuel canister | 5 cr | Œ© lb. |
+| Net cartridge | 5 cr | Œ© lb. |
 
 ###### Weapon Properties
 
@@ -5228,9 +5228,9 @@ Aquatic weapons, such as torpedoes and depth charges, can only be fired through 
 
 ***Burst Fire.*** In addition to making normal attacks with this weapon, you can use an action to expend 10 pieces of ammunition from the weapon and select a
 
-10-foot-cube area within the weaponís range. Each creature in that area makes a Dexterity saving throw against your
+10-foot-cube area within the weapon√≠s range. Each creature in that area makes a Dexterity saving throw against your
 
-maneuver save DC. On a failure, the target takes the weaponís normal damage.
+maneuver save DC. On a failure, the target takes the weapon√≠s normal damage.
 
 ***Defensive.*** This weapon is designed to be used with a shield of the stated weight or lighter (light, medium, or heavy). When you make an attack with this weapon and are using an appropriate shield, you can use a bonus action to either make an attack with your shield or increase your Armor Class by 1 until the start of your next turn.
 
@@ -5250,7 +5250,7 @@ Guided weapons can be targeted at far-off targets if you have an ally mark them 
 
 ***Hand-Mounted.*** This weapon is affixed to your hand. You can do simple activities such as climbing a ladder while wielding this weapon, and you have advantage on saving throws made to resist being disarmed. You cannot use a hand that is wielding a hand-mounted weapon to do complex tasks like picking a pocket or using hacking tools.
 
-***Heavy.*** This weapon is too large for Small creatures to use effectively. Small creatures have disadvantage on attack rolls with heavy weapons. If a heavy weapon has a Strength requirement (noted in parentheses), even Medium or larger creatures need a Strength score equal to or higher than the requirement to use the weapon effectively. creatures that donít meet the Strength requirement have disadvantage on attack rolls made with the weapon.
+***Heavy.*** This weapon is too large for Small creatures to use effectively. Small creatures have disadvantage on attack rolls with heavy weapons. If a heavy weapon has a Strength requirement (noted in parentheses), even Medium or larger creatures need a Strength score equal to or higher than the requirement to use the weapon effectively. creatures that don√≠t meet the Strength requirement have disadvantage on attack rolls made with the weapon.
 
 ***Indirect Fire***V***.*** This weapon property can only be applied to vehicle weapons. Otherwise known as artillery, indirect fire weapons rely partially on gravity to get their payload to the target by firing in an arc. They are often extremely damaging and frequently have ranges measured in miles, but are slow-firing and most accurate against targets that are either stationary or moving in an extremely predictable way. When targeting something such as a creature or vehicle that has moved in the last round, attacks with indirect fire weapons are made at disadvantage. However, a direct hit is seldom necessary as the most common payloads for these weapons deal area damage.
 
@@ -5274,7 +5274,7 @@ single attack made against you by a creature you can see.
 
 ***Parrying Immunity.*** Attacks with this weapon ignore the parrying property and Armor Class bonuses from shields.
 
-***Range.*** This weapon fires ammunition. The range lists two numbers after it, both measured in feetóthe first is the weaponís normal range, and the second is the weaponís maximum range. You have disadvantage on attack rolls made beyond the weaponís normal range, and you cannot make attacks against targets beyond the weaponís maximum range.
+***Range.*** This weapon fires ammunition. The range lists two numbers after it, both measured in feet√≥the first is the weapon√≠s normal range, and the second is the weapon√≠s maximum range. You have disadvantage on attack rolls made beyond the weapon√≠s normal range, and you cannot make attacks against targets beyond the weapon√≠s maximum range.
 
 ***Reach.*** This weapon can be used to make attacks against targets within 10 feet. If a weapon has a longer reach, it is stated in parentheses after this property.
 
@@ -5282,7 +5282,7 @@ single attack made against you by a creature you can see.
 
 ***Simple.*** This weapon can be used with very little skill or training, and all creatures gain proficiency with it.
 
-***Thrown.*** This weapon can be thrown as a ranged weapon attack. The thrown property lists two numbers after it, both measured in feet?óthe first is the weaponís normal thrown range, and the second is the weaponís maximum range. You have disadvantage on attack rolls made beyond the weaponís normal range, and you cannot make attacks against targets beyond the weaponís maximum range. Additionally, when using this weapon to make a ranged weapon attack, you may choose to use your Strength modifier or Dexterity modifier for its attack and damage roll.
+***Thrown.*** This weapon can be thrown as a ranged weapon attack. The thrown property lists two numbers after it, both measured in feet?√≥the first is the weapon√≠s normal thrown range, and the second is the weapon√≠s maximum range. You have disadvantage on attack rolls made beyond the weapon√≠s normal range, and you cannot make attacks against targets beyond the weapon√≠s maximum range. Additionally, when using this weapon to make a ranged weapon attack, you may choose to use your Strength modifier or Dexterity modifier for its attack and damage roll.
 
 ***Two-Handed.*** You must use two hands to wield this weapon.
 
@@ -5290,7 +5290,7 @@ single attack made against you by a creature you can see.
 
 Improvised Weapons
 
-Ambushes, bar fights, and attacks made on fancy dress parties mean that the weapon for the job is not always at hand. An improvised weapon is taken from the environment, whether itís a broken champagne glass, a fifth of alcohol, or even another creature. At the Narratorís discretion, an improvised weapon that closely resembles a simple weapon deals that weaponís damage, while an object that has no obvious analog deals 1d4 damage of a type determined by the Narrator.
+Ambushes, bar fights, and attacks made on fancy dress parties mean that the weapon for the job is not always at hand. An improvised weapon is taken from the environment, whether it√≠s a broken champagne glass, a fifth of alcohol, or even another creature. At the Narrator√≠s discretion, an improvised weapon that closely resembles a simple weapon deals that weapon√≠s damage, while an object that has no obvious analog deals 1d4 damage of a type determined by the Narrator.
 
 Improvised thrown weapons have a normal range of 20 feet and a maximum range of 60 feet.
 
@@ -5304,11 +5304,11 @@ Grenades are simple, thrown weapons that detonate upon impact. As an action, you
 
 Certain weapons, such as grenade launchers (see Ranged Weapons), allow you to launch grenades longer distances without throwing them.
 
-***Concussion.*** Each creature within 10 feet makes a Dexterity saving throw. On a failed save, the target takes 1d6 thunder damage and is knocked prone. On a success, the target takes half as much damage and isnít knocked prone.
+***Concussion.*** Each creature within 10 feet makes a Dexterity saving throw. On a failed save, the target takes 1d6 thunder damage and is knocked prone. On a success, the target takes half as much damage and isn√≠t knocked prone.
 
 ***EMP.*** Each creature within 10 feet makes a Dexterity saving throw. On a failure, any electronic devices the creature is wearing or carrying cease to function
 
-until the end of the creatureís next turn. Unattended devices in that area automatically fail the save. Constructs in the area also take 1d6 lightning damage on a failed save.
+until the end of the creature√≠s next turn. Unattended devices in that area automatically fail the save. Constructs in the area also take 1d6 lightning damage on a failed save.
 
 ***Flash.*** Each creature within 10 feet makes a Constitution saving throw, and is blinded for 1 minute on a failure. A blinded creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
@@ -5316,7 +5316,7 @@ until the end of the creatureís next turn. Unattended devices in that area autom
 
 ***Frag.*** Each creature within 5 feet makes a Dexterity saving throw, taking 1d6 piercing damage on a failed save, or half as much damage on a successful one.
 
-***Gas.*** When detonated, a gas grenade creates a 10-foot-radius sphere of poisonous gas. A creature that enters the cloud for the first time on a turn, or that starts its turn inside the cloud, makes a Constitution saving throw. Creatures that donít need to breathe automatically succeed on the saving throw. On a failure, the creature is poisoned for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. The gas spreads around corners, and its area is heavily obscured. It lasts for 1 minute or until dispersed by a moderate wind (at least 10 miles per hour).
+***Gas.*** When detonated, a gas grenade creates a 10-foot-radius sphere of poisonous gas. A creature that enters the cloud for the first time on a turn, or that starts its turn inside the cloud, makes a Constitution saving throw. Creatures that don√≠t need to breathe automatically succeed on the saving throw. On a failure, the creature is poisoned for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. The gas spreads around corners, and its area is heavily obscured. It lasts for 1 minute or until dispersed by a moderate wind (at least 10 miles per hour).
 
 ***Goo.*** When detonated, a goo grenade fills a 10-foot-radius sphere with a
 
@@ -5326,17 +5326,17 @@ quick-hardening, adhesive foam. For the next minute, the ground in the area is d
 
 1d6 fire damage on a failed save, or half as much damage on a successful one. The explosion spreads around corners and ignites unattended flammable objects in the area.
 
-***Remote Detonator.*** When you set a mine, you can link it to a remote detonator, allowing any creature holding the detonator to trigger the mine as an Interact action. Typically, a detonatorís range is limited to 1,000 feet, but a mine connected to a detonator via a computer network can be detonated from essentially any distance.
+***Remote Detonator.*** When you set a mine, you can link it to a remote detonator, allowing any creature holding the detonator to trigger the mine as an Interact action. Typically, a detonator√≠s range is limited to 1,000 feet, but a mine connected to a detonator via a computer network can be detonated from essentially any distance.
 
 ***Smoke.*** A smoke grenade creates a 10-foot-radius sphere of smoke centered on the point where it detonates. The smoke spreads around corners, and its area is heavily obscured. It lasts for 1 minute or until dispersed by a moderate wind (at least 10 miles per hour).
 
-***Stun.*** Each creature within 10 feet of the grenade when it explodes makes a Constitution saving throw. On a failed save, the target takes 1d6 thunder damage and is rattled until the end of its next turn. A creature that fails the saving throw by 5 or more is stunned instead of rattled until the end of its next turn. On a success, the target takes half as much damage and isnít rattled.
+***Stun.*** Each creature within 10 feet of the grenade when it explodes makes a Constitution saving throw. On a failed save, the target takes 1d6 thunder damage and is rattled until the end of its next turn. A creature that fails the saving throw by 5 or more is stunned instead of rattled until the end of its next turn. On a success, the target takes half as much damage and isn√≠t rattled.
 
 Mines
 
 Unlike grenades, which explode shortly after being thrown, mines are designed to detonate once a specific trigger occurs. As an action, you can set a mine in an unoccupied space within 5 feet of you.
 
-When you set a mine, determine the circumstances under which the mine will detonate. For example, you can set the mine to detonate on a timer, when a creature enters the mineís space, or under other specific circumstances (such as when a door opens or a vehicle activates). You can also rig the mine to detonate remotely using a remote detonator (see below).
+When you set a mine, determine the circumstances under which the mine will detonate. For example, you can set the mine to detonate on a timer, when a creature enters the mine√≠s space, or under other specific circumstances (such as when a door opens or a vehicle activates). You can also rig the mine to detonate remotely using a remote detonator (see below).
 
 When detonated, a mine functions identically to the grenade it emulates.
 
@@ -5355,23 +5355,23 @@ When detonated, a mine functions identically to the grenade it emulates.
 | Incendiary | 50 cr | 1/2 lb. | 10 ft |
 | Smoke | 20 cr | 1/2 lb. | 10 ft |
 | Stun | 100 cr | 1/2 lb. | 10 ft |
-| Remote detonator | 25 cr | ó |  |
+| Remote detonator | 25 cr | √≥ |  |
 
 **Explosives Blast Radius**
 
 ##### Armor
 
-Every spacefarer knows that their suit is the one thing that stands between them and hard vacuum. For some, thatís all it does, but others have turned their suit into a toolbox equipped for their every need; while the most feared combatants are those for whom their suit itself is a weapon. However, such suits are not known for their comfort or maneuverability, and as such many adventurers have multiple sets of armor for different occasions; what may resist hard vacuum is hardly ideal for exploring a verdant alien world, and vice versa.
+Every spacefarer knows that their suit is the one thing that stands between them and hard vacuum. For some, that√≠s all it does, but others have turned their suit into a toolbox equipped for their every need; while the most feared combatants are those for whom their suit itself is a weapon. However, such suits are not known for their comfort or maneuverability, and as such many adventurers have multiple sets of armor for different occasions; what may resist hard vacuum is hardly ideal for exploring a verdant alien world, and vice versa.
 
-Your armorís type is what the majority of the suit is made of, whether that be leather harvested from your homeworld or a high-tech forcefield. Your armorís type determines your armor class and if your armor is space-proof or not. In addition, your armorís type may come with certain benefits or drawbacks: forcefields can be hacked, while power armor tends to be bulky and difficult to maneuver in unless youíre strong enough to handle it. Your armor may also have one coating and some also have a number of mod ports as indicated next to its spacefaring property.
+Your armor√≠s type is what the majority of the suit is made of, whether that be leather harvested from your homeworld or a high-tech forcefield. Your armor√≠s type determines your armor class and if your armor is space-proof or not. In addition, your armor√≠s type may come with certain benefits or drawbacks: forcefields can be hacked, while power armor tends to be bulky and difficult to maneuver in unless you√≠re strong enough to handle it. Your armor may also have one coating and some also have a number of mod ports as indicated next to its spacefaring property.
 
 |  |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| 10í | 10í | 10í | 10í | 10í |
-| 10í | 5í | 5í | 5í | 10í |
-| 10í | 5í | ? | 5í | 10í |
-| 10í | 5í | 5í | 5í | 10í |
-| 10í | 10í | 10í | 10í | 10í |
+| 10√≠ | 10√≠ | 10√≠ | 10√≠ | 10√≠ |
+| 10√≠ | 5√≠ | 5√≠ | 5√≠ | 10√≠ |
+| 10√≠ | 5√≠ | ? | 5√≠ | 10√≠ |
+| 10√≠ | 5√≠ | 5√≠ | 5√≠ | 10√≠ |
+| 10√≠ | 10√≠ | 10√≠ | 10√≠ | 10√≠ |
 
 Armor Types
 
@@ -5393,13 +5393,13 @@ or synthweave, at the expense of comfort.
 
 ***Forcefield*.** Some highly developed civilizations have developed wearable devices that generate a forcefield around the wearer. These devices usually comprise a helm or belt and a respirator, which can be incorporated into the rest of the device or take the form of a separate mouthpiece.
 
-***Hyperweave*.** Hyperweave is a denser and heavier form of synthweave, with multiple layers covering vital organs. It is worn by the Fleetís designated combat units.
+***Hyperweave*.** Hyperweave is a denser and heavier form of synthweave, with multiple layers covering vital organs. It is worn by the Fleet√≠s designated combat units.
 
 ***Leather.*** Leather offers more protection than canvas and often takes the form of a vest or duster.
 
 ***Polymer.*** Polymer armor is made of a set of comparatively light-weight molded panels that cover the torso and groin.
 
-***Power Armor.*** The most feared warriors of the galaxy wear power armor, designed to reflect all but the most powerful shots and blows. Due to its extreme weight, power armor is equipped with hydraulics to support the wearerís movement, rendering it easier to move in, if rather slow.
+***Power Armor.*** The most feared warriors of the galaxy wear power armor, designed to reflect all but the most powerful shots and blows. Due to its extreme weight, power armor is equipped with hydraulics to support the wearer√≠s movement, rendering it easier to move in, if rather slow.
 
 ***Riot Armor.*** Heavy but cheap, riot armor is the preferred protection of most security forces. It is typically composed of a standard-issue vest, boots, and helmet.
 
@@ -5413,21 +5413,21 @@ or synthweave, at the expense of comfort.
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **TYPE** | **COST** | **WEIGH T** | **AC** | **MATERIAL PROPERTIE S** | **STRENGTH REQUIREMEN T** | **STEALTH PENALTY** | **REPAIRABIL ITY** |
 | **Light** | | | | | | | |
-| Canvas | 5 cr | 5 lbs. | 11 + Dex | Comfortable | ó | ó | DC 5, sewing kit |
-| Forcefield | 1,000 cr | 5 lbs. | 13 + Dex | Hackable, Spacefaring, ignores ports | ó | ó | DC 20,  engineerís toolbox |
-| Leather | 15 cr | 10 lbs. | 12 + Dex | Comfortable | ó | ó | DC 10,  sewing kit |
-| Synthweave | 30 cr | 2 lbs. | 12 + Dex | Comfortable | ó | ó | DC 10,  sewing kit |
+| Canvas | 5 cr | 5 lbs. | 11 + Dex | Comfortable | √≥ | √≥ | DC 5, sewing kit |
+| Forcefield | 1,000 cr | 5 lbs. | 13 + Dex | Hackable, Spacefaring, ignores ports | √≥ | √≥ | DC 20,  engineer√≠s toolbox |
+| Leather | 15 cr | 10 lbs. | 12 + Dex | Comfortable | √≥ | √≥ | DC 10,  sewing kit |
+| Synthweave | 30 cr | 2 lbs. | 12 + Dex | Comfortable | √≥ | √≥ | DC 10,  sewing kit |
 | **Medium** | | | | | | | |
-| Aramid breastplate | 80 cr | 8 lbs. | 14 + Dex  (maximum 2) |  | Str 11 | ó | DC 20 |
-| Composite Mesh | 100 cr | 20 lbs. | 14 + Dex  (maximum 2) | Spacefaring (2 mod ports) | Str 11 | ó | DC 20 |
+| Aramid breastplate | 80 cr | 8 lbs. | 14 + Dex  (maximum 2) |  | Str 11 | √≥ | DC 20 |
+| Composite Mesh | 100 cr | 20 lbs. | 14 + Dex  (maximum 2) | Spacefaring (2 mod ports) | Str 11 | √≥ | DC 20 |
 | Polymer | 200 cr | 25 lbs. | 15 + Dex  (maximum 2) | Spacefaring (3 mod ports) | Str 13 | Disadvantag e | DC 20 |
-| Hyperweave | 50 cr | 5 lbs. | 13 + Dex  (maximum 2) | Comfortable | ó | ó | DC 15,  sewing kit |
+| Hyperweave | 50 cr | 5 lbs. | 13 + Dex  (maximum 2) | Comfortable | √≥ | √≥ | DC 15,  sewing kit |
 | Riot Armor | 10 cr | 30 lbs. | 15 + Dex  (maximum 2) |  | Str 13 |  | DC 15 |
 | **Heavy** | | | | | | | |
-| Chitin Armor | 150 cr | 40 lbs. | 16 |  | Str 13 | ó | Not repairable |
+| Chitin Armor | 150 cr | 40 lbs. | 16 |  | Str 13 | √≥ | Not repairable |
 | Composite | 450 cr | 35 lbs. | 17 | Spacefaring (4 mod ports) | Str 14 | Disadvantag e | DC 20 |
 | Carbide Plate | 600 cr | 45 lbs. | 18 |  | Str 15 | Disadvantag e | DC 20 |
-| Power Armor | 4,500 cr | 90 lbs. | 18 | Spacefaring (6 mod ports) | Str 11 | Disadvantag e, speed reduced by 5 feet | DC 15  engineerís toolbox |
+| Power Armor | 4,500 cr | 90 lbs. | 18 | Spacefaring (6 mod ports) | Str 11 | Disadvantag e, speed reduced by 5 feet | DC 15  engineer√≠s toolbox |
 
 Armor Coatings
 
@@ -5457,9 +5457,9 @@ Armor Mods
 
 Many more expensive armors have one or more mod ports, circuitry and connectors that allow for easy modifications and upgrades. Mods purchased for armor are typically installed as part of the cost, but armor mods can be added or removed during a long rest.
 
-***Biosensors.*** This mod tracks the wearerís vitals at all times. As a reaction, you may reduce the damage of an attack against you by 2d6. Once you have done so, you must perform Maintenance on the armor to use this ability again.
+***Biosensors.*** This mod tracks the wearer√≠s vitals at all times. As a reaction, you may reduce the damage of an attack against you by 2d6. Once you have done so, you must perform Maintenance on the armor to use this ability again.
 
-***Drone Port.*** This mod provides a place to store and charge a **utility drone** (you must acquire this drone separately but any variety of utility drone may utilize your drone port). Drones you charge using this port are connected to inbuilt comms in your armor and you can command such drones through voice commands over a distance up to 1 mile with no action required. If you command your drone to attack however it requires your action and the droneís reaction. If your droneís signal is ever jammed it does its best to return to your last known location.
+***Drone Port.*** This mod provides a place to store and charge a **utility drone** (you must acquire this drone separately but any variety of utility drone may utilize your drone port). Drones you charge using this port are connected to inbuilt comms in your armor and you can command such drones through voice commands over a distance up to 1 mile with no action required. If you command your drone to attack however it requires your action and the drone√≠s reaction. If your drone√≠s signal is ever jammed it does its best to return to your last known location.
 
 ***Environmental Recycling.*** This mod captures lost fluids and scrubs carbon dioxide from its internal environment.
 
@@ -5532,14 +5532,14 @@ Table: Armor Coatings
 |  |  |  |
 | --- | --- | --- |
 | **COATING** | **PRICE** | **RESTRICTIONS** |
-| Camouflage | 20 cr | ó |
+| Camouflage | 20 cr | √≥ |
 | Cloaking | 80 cr | Medium or heavy armor only |
-| Cold-shielding | 50 cr | ó |
-| Greased | 10 cr | ó |
-| Heat-shielding | 50 cr | ó |
-| Mirrored | 40 cr | ó |
+| Cold-shielding | 50 cr | √≥ |
+| Greased | 10 cr | √≥ |
+| Heat-shielding | 50 cr | √≥ |
+| Mirrored | 40 cr | √≥ |
 | Shear- thickening | 60 cr | Medium or heavy armor only |
-| Spikes | 100 cr | ó |
+| Spikes | 100 cr | √≥ |
 
 **Table: Armor Mods**
 
@@ -5572,11 +5572,11 @@ Table: Armor Coatings
 | Weapon hatch | 20 cr + cost of weapon |
 | Weapon hatch, improved | 60 cr + cost of weapon |
 
-usually all that is required to alter a suit of armor to fit a new wearer of the same size category. Changing an armorís size category requires a repair check; armor can only decrease in size category.
+usually all that is required to alter a suit of armor to fit a new wearer of the same size category. Changing an armor√≠s size category requires a repair check; armor can only decrease in size category.
 
 Most armors, while protective, are not comfortable to sleep in. If you sleep in your armor, you regain half the number of hit dice and if you have any levels of fatigue or strife, they are not reduced following your long rest. Armor with the comfortable property negates this penalty, allowing you to regain hit dice and remove fatigue and strife as normal.
 
-The time it takes to don or doff armor depends on the armorís category.
+The time it takes to don or doff armor depends on the armor√≠s category.
 
 ***Don.*** This is the time it takes to put on armor. Your Armor Class is only increased by armor that you have fully donned.
 
@@ -5637,7 +5637,7 @@ Shields have come a long way since medieval times, and while putting a big sturd
 
 #### Voidrunning Gear
 
-Weapons and armor are not all there is to survivalóeffective medical care, reliable communication, or the right cyberware at the right time can all mean the difference between living to share stories at the end of the day or being sent home in a small box. While most of the items found in the base game are still available if one knows where to look, many of them have modernized versions listed here. The following section describes general and specialized gear commonly used by voidrunners.
+Weapons and armor are not all there is to survival√≥effective medical care, reliable communication, or the right cyberware at the right time can all mean the difference between living to share stories at the end of the day or being sent home in a small box. While most of the items found in the base game are still available if one knows where to look, many of them have modernized versions listed here. The following section describes general and specialized gear commonly used by voidrunners.
 
 ###### Clothing
 
@@ -5648,7 +5648,7 @@ It is assumed that all voidrunners have basic clothing, or the uniform of an ori
 |  |  |  |
 | --- | --- | --- |
 | **CLOTHING** | **CO ST** | **WEIGH T** |
-| Basic or uniform | ó | 2 lbs. |
+| Basic or uniform | √≥ | 2 lbs. |
 | Costume | 5 cr | 4 lbs. |
 | Fine | 15  cr | 6 lbs. |
 | Noble | 50  cr | 6 lbs. |
@@ -5657,7 +5657,7 @@ Technology advancements do not bypass the humble garment, and never had.
 
 Throughout time people have sought to make their clothing more suited to the way they live their lives, and with the improvement of technology, more specialized garments emerge.
 
-***Diverís Suit.*** This kit includes a wetsuit, swim fins, an oxygen tank, and a diving mask with rebreather. It allows a diver to stay submerged for an hour before
+***Diver√≠s Suit.*** This kit includes a wetsuit, swim fins, an oxygen tank, and a diving mask with rebreather. It allows a diver to stay submerged for an hour before
 
 needing to change oxygen tanks and gives them advantage on Athletics checks related to swimming. Light armor can be worn with a diving suit, without issue but medium armor tends to make swimming exhausting, requiring a DC 13 Constitution save every minute to avoid gaining a level of fatigue. Heavy armor generally sinks the character wearing it, rendering swimming impossible.
 
@@ -5672,7 +5672,7 @@ needing to change oxygen tanks and gives them advantage on Athletics checks rela
 |  |  |  |
 | --- | --- | --- |
 | **ITEM** | **COST** | **WEIGHT** |
-| Diverís suit | 300 cr | 20 lbs. |
+| Diver√≠s suit | 300 cr | 20 lbs. |
 | Ghillie suit | 50 cr | 5 lbs. |
 | Optic camouflage cloak | 900 cr | 3 lbs. |
 | Tactical clothing | 25 cr | 3 lbs. |
@@ -5691,7 +5691,7 @@ generating a user interface out of projected light that can be interacted with b
 
 ***Signal Jammer.*** These devices interfere with the signals generated by wireless networks of various types. Signal jammers are usually found in the possession of militaries and clandestine organizations, but criminals, security services, and hackers employ them as well. The listed cost is for a small version that fits in a backpack or briefcase, but larger ones that require vehicles or even towers to employ also exist. The portable version covers roughly 4 city blocks, making it impossible to get a wireless network signal in or out of the area while it is active. Setting the jammer up takes a minute. Once it is set up, activating or deactivating it takes an action.
 
-***Workstation Computing Device (WCD).*** Dispensing with portability entirely, these larger-scale computers are used on desktops or shipís terminals.
+***Workstation Computing Device (WCD).*** Dispensing with portability entirely, these larger-scale computers are used on desktops or ship√≠s terminals.
 
 They have a lot of processing power and are favored by those who need it like engineers, programmers, gamers, hackers, and those responsible for creating media such as video and music.
 
@@ -5700,15 +5700,15 @@ They have a lot of processing power and are favored by those who need it like en
 |  |  |  |
 | --- | --- | --- |
 | **ITEM** | **COST** | **WEIGHT** |
-| Data Wafer | 2 cr | ó |
-| Personal Communicator | 50 cr | ó |
+| Data Wafer | 2 cr | √≥ |
+| Personal Communicator | 50 cr | √≥ |
 | Portable Computing Device (PCD) | 75 cr | 2 lbs. |
 | Signal Jammer | 250 cr | 10 lbs. |
 | Workstation Computing Device (WCD) | 200 cr | 20 lbs. |
 
 ###### Containers
 
-Containers donít change much in their shapes and sizes as technology advances, but they do get lighter, stronger, and sometimes less expensive. Containers marked with \* are ruggedized, with an AC of
+Containers don√≠t change much in their shapes and sizes as technology advances, but they do get lighter, stronger, and sometimes less expensive. Containers marked with \* are ruggedized, with an AC of
 
 15 and 30 hit points, and shield their contents in a hard vacuum.
 
@@ -5728,13 +5728,13 @@ Containers donít change much in their shapes and sizes as technology advances, b
 
 From tiny friendly orbs to autonomous death machines, drones are simple mechanized creatures that dutifully carry out their digital orders. They may be shiny and new fresh from the package, or they may be sentinel drones patrolling long-abandoned facilities on forgotten worlds, collecting data for creators that no longer exist.
 
-Most drones are linked to an accompanying device, typically a datapad or a wrist mounted data screen that acts as the droneís control device that requires the use of a free hand to operate. A creature wielding a droneís control device can use a bonus action to command the drone to perform a simple action such as ìattackî, ìscout and report backî, or other easily processed tasks which it does to the best of its ability on its next turn in initiative which is always immediately after its controllerís initiative.
+Most drones are linked to an accompanying device, typically a datapad or a wrist mounted data screen that acts as the drone√≠s control device that requires the use of a free hand to operate. A creature wielding a drone√≠s control device can use a bonus action to command the drone to perform a simple action such as √¨attack√Æ, √¨scout and report back√Æ, or other easily processed tasks which it does to the best of its ability on its next turn in initiative which is always immediately after its controller√≠s initiative.
 
-If a droneís control device is destroyed (AC 14, 10 hit points) or the signal between a drone and its control device is jammed the drone becomes confused as per its malfunction feature.
+If a drone√≠s control device is destroyed (AC 14, 10 hit points) or the signal between a drone and its control device is jammed the drone becomes confused as per its malfunction feature.
 
 Equipment, such as armor and drone ports, and some class features may
 
-alter the nature of a droneís control, such as allowing for actionless verbal commands or other benefits or alterations to drone controlling. The statistics for all drones are detailed in the Alien Bestiary.
+alter the nature of a drone√≠s control, such as allowing for actionless verbal commands or other benefits or alterations to drone controlling. The statistics for all drones are detailed in the Alien Bestiary.
 
 **Table: Drones**
 
@@ -5758,9 +5758,9 @@ alter the nature of a droneís control, such as allowing for actionless verbal co
 
 ###### General Gear
 
-Technological equipment, vehicles, and even beings need to be maintained and built, and those with the knowledgeóand implementsóto do so have a hand in shaping the future.
+Technological equipment, vehicles, and even beings need to be maintained and built, and those with the knowledge√≥and implements√≥to do so have a hand in shaping the future.
 
-***Construction Foam.*** An industrial ìspray concrete,î industrial foam comes in a heavy canister or drum and is deployed with a special sprayer. It is semi-solid and shapeable for about 5 minutes after spraying. Once it fully sets after an hour, it becomes a durable stone-like material. A
+***Construction Foam.*** An industrial √¨spray concrete,√Æ industrial foam comes in a heavy canister or drum and is deployed with a special sprayer. It is semi-solid and shapeable for about 5 minutes after spraying. Once it fully sets after an hour, it becomes a durable stone-like material. A
 
 1. foot thick (cubic) section of construction
 
@@ -5768,13 +5768,13 @@ foam has an AC of 15 and 40 hit points, but only weighs 10 lbs, roughly 1/15th o
 
 ***Duct Tape.*** This heavy-duty, airtight, water-resistant tape has a multitude of uses. You can use 3 feet for emergency repairs to clothing, containers, mechanical creatures, or armor, removing the broken condition for 1d8 days. However, if the user suffers a critical hit before the item can be properly repaired, or something else would impose the broken condition on the item, the item
 
-re-breaks and cannot be repaired with duct tape again until properly repaired. You can also use 6 feet of the tape and an action to restrain a medium-sized creature (as zip cuffs), 1 foot to blind a restrained creature until an action is spent to remove the tape, and 1 foot to render a restrained creature unable to speak until an action is spent to remove the tape. A restrained creatureís airway can also be covered with 1 foot of the tape, causing it to begin suffocating until an action is spent to remove the tape. You can use 12 feet of the tape to secure a restrained creature to a chair or other stationary object, imposing disadvantage on checks to escape its restraints.
+re-breaks and cannot be repaired with duct tape again until properly repaired. You can also use 6 feet of the tape and an action to restrain a medium-sized creature (as zip cuffs), 1 foot to blind a restrained creature until an action is spent to remove the tape, and 1 foot to render a restrained creature unable to speak until an action is spent to remove the tape. A restrained creature√≠s airway can also be covered with 1 foot of the tape, causing it to begin suffocating until an action is spent to remove the tape. You can use 12 feet of the tape to secure a restrained creature to a chair or other stationary object, imposing disadvantage on checks to escape its restraints.
 
 ***Earplugs.*** These small, comfortable foam plugs fit into the ear canal of most humanoids. They grant advantage on saving throws to avoid being stunned or deafened by loud noises, but disadvantage on hearing-based Perception checks.
 
-***Multitool.*** A small folding toolkit designed to be clipped to a pocket or carried in a pouch, a multitool usually has pliers, screwdrivers, and a knife blade at a minimum. You can use it for vehicle repair or in place of weaponsmith toolkits, but such checks suffer a ñ1d4 penalty and take twice as long.
+***Multitool.*** A small folding toolkit designed to be clipped to a pocket or carried in a pouch, a multitool usually has pliers, screwdrivers, and a knife blade at a minimum. You can use it for vehicle repair or in place of weaponsmith toolkits, but such checks suffer a √±1d4 penalty and take twice as long.
 
-***Notebook.*** Notebooks of various shapes and sizes are still usefulóand inexpensiveóin the age of digital media.
+***Notebook.*** Notebooks of various shapes and sizes are still useful√≥and inexpensive√≥in the age of digital media.
 
 ***Pen.*** Available in a basic, extremely inexpensive variety and a version that works in zero gravity but costs much more, pens are the standard writing utensil of most Voidrunners.
 
@@ -5786,7 +5786,7 @@ Luminescent varieties exist that cast dim light within 5 feet of the area they a
 
 ***Zero-friction Lubricant.*** A
 
-super-slick sprayed compound, Zero-friction lubricant can make any surface incredibly slippery. It doesnít quite remove *all* friction (the name is hyperbole) but any creature attempting to cross a surface coated with the lubricant or hold onto an item sprayed with it makes a DC 19 Dexterity saving throw each round. Failing the save results in the creature falling prone (and needing another check at the same DC to stand up or move from their position) in the case of a surface or drop the item in the case of an item. Spraying a grappling creature with the lubricant gives advantage on checks to escape a grapple. A spray canister contains enough lubricant to cover 25 square feet.
+super-slick sprayed compound, Zero-friction lubricant can make any surface incredibly slippery. It doesn√≠t quite remove *all* friction (the name is hyperbole) but any creature attempting to cross a surface coated with the lubricant or hold onto an item sprayed with it makes a DC 19 Dexterity saving throw each round. Failing the save results in the creature falling prone (and needing another check at the same DC to stand up or move from their position) in the case of a surface or drop the item in the case of an item. Spraying a grappling creature with the lubricant gives advantage on checks to escape a grapple. A spray canister contains enough lubricant to cover 25 square feet.
 
 Spraying a creature or 5 foot square takes an action.
 
@@ -5794,7 +5794,7 @@ Spraying a creature or 5 foot square takes an action.
 
 ###### Jetpacks
 
-Theyíre dangerous and impractical, but still the dream of freeform personal flight has always been a technological penultimate goal. Unless otherwise noted, the jetpacks provided here can be worn alongside light or medium armors, but do not provide enough lift for takeoff when wearing heavy armors. For most adventures jetpacks are assumed to function as intended without concerns for fuel. If your campaign is utilizing desperate supply rules, instead each jetpack can function for up to an hour on a full fuel tank and can be refilled at the cost of 25 cr.
+They√≠re dangerous and impractical, but still the dream of freeform personal flight has always been a technological penultimate goal. Unless otherwise noted, the jetpacks provided here can be worn alongside light or medium armors, but do not provide enough lift for takeoff when wearing heavy armors. For most adventures jetpacks are assumed to function as intended without concerns for fuel. If your campaign is utilizing desperate supply rules, instead each jetpack can function for up to an hour on a full fuel tank and can be refilled at the cost of 25 cr.
 
 ***Anti-Grav Pack/Boots.*** An ultra-tech descendent of the standard jetpack, an Anti-Grav pack uses antigravity technology to maneuver. The user is surrounded by a very lightweight protective field while the pack is active (AC becomes 12 if it would otherwise be lower) which protects the user from the high winds and allows much faster flight speeds. An Anti-Grav pack grants its user a flight speed of 60 feet. Another variant
 
@@ -5806,21 +5806,21 @@ that uses boots or anklets also exists; it works in the same manner. This is an 
 | --- | --- | --- |
 | **Item** | **Cost** | **Weight** |
 | Construction foam | 150 cr | 60 lbs. |
-| Duct Tape (60 feet) | 2 cr | ó |
-| Earplugs | .5 cr | ó |
-| Multitool | 75 cr | Ω lb. |
-| Notebook | 1 cr | ó |
-| Pen (basic) | .10 cr | ó |
-| Pen (zero-g) | 30 cr | ó |
-| Spray adhesive | 8 cr | Ω lb. |
-| Spray paint (5 uses) | 1.25 cr | Ω lb. |
-| Zero-friction lubricant | 75 cr | Ω lb. |
+| Duct Tape (60 feet) | 2 cr | √≥ |
+| Earplugs | .5 cr | √≥ |
+| Multitool | 75 cr | Œ© lb. |
+| Notebook | 1 cr | √≥ |
+| Pen (basic) | .10 cr | √≥ |
+| Pen (zero-g) | 30 cr | √≥ |
+| Spray adhesive | 8 cr | Œ© lb. |
+| Spray paint (5 uses) | 1.25 cr | Œ© lb. |
+| Zero-friction lubricant | 75 cr | Œ© lb. |
 
 While the user is at an altitude of at least 100 feet in atmosphere, they can activate the glider wings and stay aloft mostly by gliding, using only small pulses from the jetpack to stay aloft. While gliding, you have a passive Stealth score of 10 + your Stealth bonus and you can hide in the sky without any obstacles to hide behind. At night or in space, you also receive an expertise die to Stealth checks while aloft.
 
 ***Jet Boots.*** A favorite of daredevils, jet boots essentially integrate a jetpack into two large, heavy boots. While wearing the jet boots, your walking speed is reduced by 5 feet and you make Stealth checks at disadvantage, but you have a fly speed of 30 feet. You can also make a jet blast attack with the boots. They are considered an improvised weapon, and deal 3d6 fire damage with a reach of 10 feet.
 
-***Improved Jetpack.*** A technological development of a standard jetpack, these improved models eliminate many of the risks and provide higher speeds. This pack grants the user a fly speed of 25 feet. These jetpacks are designed to integrate with cybernetics or an armorís system, allowing hands-free operation.
+***Improved Jetpack.*** A technological development of a standard jetpack, these improved models eliminate many of the risks and provide higher speeds. This pack grants the user a fly speed of 25 feet. These jetpacks are designed to integrate with cybernetics or an armor√≠s system, allowing hands-free operation.
 
 This is an advanced item.
 
@@ -5853,19 +5853,19 @@ Drugs
 
 Voidrunners often benefit from the better living chemistry provides. Whether they are used to heal, harm, or anything in between, drugs can be administered physically, orally, or via airhypo as an action.
 
-***Anti-G Cocktail.*** Administered to pilots and passengers on aircraft and spacecraft executing high-g maneuvers, these injected drugs are unpleasant, but potentially life-saving. A user gains an expertise die on saving throws for starship maneuvers, but also takes 1d4 poison damage. A dose lasts for 10 minutes. The delivery system is typically integrated into a vehicle seat, where it can be activated with the userís reaction in response to starting a maneuver. If it needs to be administered manually with an airhypo, it takes an action.
+***Anti-G Cocktail.*** Administered to pilots and passengers on aircraft and spacecraft executing high-g maneuvers, these injected drugs are unpleasant, but potentially life-saving. A user gains an expertise die on saving throws for starship maneuvers, but also takes 1d4 poison damage. A dose lasts for 10 minutes. The delivery system is typically integrated into a vehicle seat, where it can be activated with the user√≠s reaction in response to starting a maneuver. If it needs to be administered manually with an airhypo, it takes an action.
 
-***Anti-Rad.*** Anti-rad flushes radiation from a creatureís body. A dose is administered via airhypo as an action and takes 10 minutes to take effect, but then immediately flushes all radiation from the patientís body. The process is exhausting, and leaves the patient with two levels of fatigue.
+***Anti-Rad.*** Anti-rad flushes radiation from a creature√≠s body. A dose is administered via airhypo as an action and takes 10 minutes to take effect, but then immediately flushes all radiation from the patient√≠s body. The process is exhausting, and leaves the patient with two levels of fatigue.
 
 ***Gullibility Serum.*** This drug, administered via ingestion or injection, makes the victim extremely trusting. The victim makes a DC 13 Wisdom saving throw or Persuasion checks made against the target have advantage for the next hour.
 
-***Quick-Sober Patch.*** This is a small drug patch about an inch square that can be applied to any exposed skin as an action. It takes effect in one minute, immediately ending the effects of alcohol and similar ìsoftî drugs on the user once the minute has passed. Poisons with a save DC of less than 13 are simultaneously neutralized in the patientís system, and the user gains an immediate saving throw at advantage against poisons with a DC of 13 or higher.
+***Quick-Sober Patch.*** This is a small drug patch about an inch square that can be applied to any exposed skin as an action. It takes effect in one minute, immediately ending the effects of alcohol and similar √¨soft√Æ drugs on the user once the minute has passed. Poisons with a save DC of less than 13 are simultaneously neutralized in the patient√≠s system, and the user gains an immediate saving throw at advantage against poisons with a DC of 13 or higher.
 
 ***Smelling Salts.*** Available in several different forms (crystals, a solution, etc.) when the fumes from smelling salts are inhaled by a creature, they immediately become more alert. Unconscious creatures make a DC 10 Constitution saving throw, and on a success, regain consciousness. creatures that are already conscious can ignore the effects of one
 
 level of fatigue for up to 10 minutes. Overuse of smelling salts can be dangerous. For every dose beyond the first in a 24-hour period, a creature makes a constitution saving throw of DC 11 + 1 per dose beyond the first. A creature that fails takes 1d4 points of poison damage.
 
-***Styx.*** A potent memory-erasing drug, Styx forces a creature exposed to it to make a DC 14 Constitution saving throw or forget the last hour of their life. It can be injected or ingested. Multiple doses extend further back, and it is possible to wipe out weeks or even months of a creatureís memory with repeated or large doses. If a creature is subjected to additional doses within 1 hour of failing this saving throw, they must repeat the saving throw, losing an additional 1d4 days of memory on a failed save.
+***Styx.*** A potent memory-erasing drug, Styx forces a creature exposed to it to make a DC 14 Constitution saving throw or forget the last hour of their life. It can be injected or ingested. Multiple doses extend further back, and it is possible to wipe out weeks or even months of a creature√≠s memory with repeated or large doses. If a creature is subjected to additional doses within 1 hour of failing this saving throw, they must repeat the saving throw, losing an additional 1d4 days of memory on a failed save.
 
 ***Synthetic Adrenaline.*** Typically used as a combat drug, but sometimes used recreationally, synthetic adrenaline gives the user advantage on Strength, Dexterity, and Constitution checks and saves for one minute. Once the effect ends, the user immediately gains two levels of fatigue. It can only be injected.
 
@@ -5878,17 +5878,17 @@ level of fatigue for up to 10 minutes. Overuse of smelling salts can be dangerou
 |  |  |  |
 | --- | --- | --- |
 | **ITEM** | **COST** | **WEIGHT** |
-| Anti-G Cocktail | 50 cr | ó |
-| Anti-Rad | 10 cr | ó |
-| Gullibility Serum | 100 cr | ó |
-| Quick-Sober Patch | 25 cr | ó |
-| Smelling Salts | 5 cr | ó |
-| Styx | 75 cr | ó |
+| Anti-G Cocktail | 50 cr | √≥ |
+| Anti-Rad | 10 cr | √≥ |
+| Gullibility Serum | 100 cr | √≥ |
+| Quick-Sober Patch | 25 cr | √≥ |
+| Smelling Salts | 5 cr | √≥ |
+| Styx | 75 cr | √≥ |
 
 |  |  |  |
 | --- | --- | --- |
-| Synthetic Adrenaline | 250 cr | ó |
-| Truth Serum | 100 cr | ó |
+| Synthetic Adrenaline | 250 cr | √≥ |
+| Truth Serum | 100 cr | √≥ |
 | Universal Airhypo | 20 cr | 1/2 lb. |
 
 Injury Treatment
@@ -5899,7 +5899,7 @@ Futuristic science has produced a variety of items to help voidrunners live to s
 
 non-synthetic creature treated with an antiseptic takes a short rest, they roll a bonus hit die and add the result to the total number of hit points regained from the rest. Once a creature benefits from an antiseptic, it cannot do so again until it finishes a long rest.
 
-***Blood-Stop Bandage.*** These highly durable and stretchy strips are clear to better allow monitoring of a woundís condition. Additionally, they are coated with a coagulant to help them staunch bleeding. You can use an action to apply a blood-stop bandage to yourself or another creature to end ongoing piercing or slashing damage. When using improvised bandages, such as torn clothing, there is a 50% chance of exposure to a disease.
+***Blood-Stop Bandage.*** These highly durable and stretchy strips are clear to better allow monitoring of a wound√≠s condition. Additionally, they are coated with a coagulant to help them staunch bleeding. You can use an action to apply a blood-stop bandage to yourself or another creature to end ongoing piercing or slashing damage. When using improvised bandages, such as torn clothing, there is a 50% chance of exposure to a disease.
 
 Synthetic lifeforms such as androids can benefit fully from this healing, as it prevents the leakage of critical fluids.
 
@@ -5922,13 +5922,13 @@ military units. Synthetic lifeforms such as androids cannot benefit from this he
 |  |  |  |
 | --- | --- | --- |
 | **ITEM** | **COST** | **WEIGHT** |
-| Antiseptic (5 uses) | 7.5 cr | ó |
-| Blood-Stop Bandage | .1 | ó |
+| Antiseptic (5 uses) | 7.5 cr | √≥ |
+| Blood-Stop Bandage | .1 | √≥ |
 | First Aid Kit (15 uses) | 15 cr | 2 lbs. |
 | Medical gelA | 250 cr | 1/2 lb. |
-| Nanopatch | 30 cr | ó |
-| Nanobot compound | 80 cr | ó |
-| Sedative | 3.5 cr | ó |
+| Nanopatch | 30 cr | √≥ |
+| Nanobot compound | 80 cr | √≥ |
+| Sedative | 3.5 cr | √≥ |
 
 Medical Technology Advancements
 
@@ -5944,7 +5944,7 @@ Expertise dice granted by the use of medicine can only be gained from that type 
 
 ***Immune Booster.*** This dark liquid boosts your immune system. After injecting it, you gain an expertise die on Constitution saving throws for 2 hours.
 
-***Steroid.*** This iron-gray liquid increases a patientís physical prowess. After injecting it, you gain an expertise die on Strength saving throws for 2 hours.
+***Steroid.*** This iron-gray liquid increases a patient√≠s physical prowess. After injecting it, you gain an expertise die on Strength saving throws for 2 hours.
 
 ***Stimulant***. This cloudy solution heightens the senses. After injecting it, you gain an expertise die on Wisdom saving throws for 1 hour.
 
@@ -5955,12 +5955,12 @@ Expertise dice granted by the use of medicine can only be gained from that type 
 |  |  |  |
 | --- | --- | --- |
 | **ITEM** | **COST** | **WEIGHT** |
-| Anti-Inhibitive | 5 cr | ó |
-| Cognitive Enhancer | 5 cr | ó |
-| Immune Booster | 10 cr | ó |
-| Steroid | 10 cr | ó |
-| Stimulant | 10 cr | ó |
-| Reflex Enhancer | 10 cr | ó |
+| Anti-Inhibitive | 5 cr | √≥ |
+| Cognitive Enhancer | 5 cr | √≥ |
+| Immune Booster | 10 cr | √≥ |
+| Steroid | 10 cr | √≥ |
+| Stimulant | 10 cr | √≥ |
+| Reflex Enhancer | 10 cr | √≥ |
 
 Synthetic Repair
 
@@ -5972,7 +5972,7 @@ Additionally, there are the following
 
 items:
 
-***Patch Kit (15 uses).*** This kit includes all the basic materials you need to regulate a constructís systems, staunch the loss of critical fluids, and begin repair. As an action, you can expend one use of this item to stabilize a synthetic lifeform that has 0 hit points, without needing to make an Engineering check.
+***Patch Kit (15 uses).*** This kit includes all the basic materials you need to regulate a construct√≠s systems, staunch the loss of critical fluids, and begin repair. As an action, you can expend one use of this item to stabilize a synthetic lifeform that has 0 hit points, without needing to make an Engineering check.
 
 ***Repair Kit.*** The professional version of a patch kit, repair kits are most useful to those with formal engineering training.
 
@@ -5992,13 +5992,13 @@ Whether they are synthetic gems, symbols imbued with psionic power, or carefully
 
 concentration, psionic foci are items that allow creatures with psionic abilities to concentrate on two powers. Their rarity and cost can vary greatly from planet to planet. Cyberware that serves as a psionic focus can be found under Enhancement Implants below.
 
-A psionic focus allows a creature to concentrate on more than one psionic power simultaneously as long as the sum of the powersí levels is less than or equal to their power rating. If the manifesterís concentration is disrupted, such as if they are pushed or take damage, they roll for both powers individually. Both powersí effects still end early if the manifester is killed or incapacitated.
+A psionic focus allows a creature to concentrate on more than one psionic power simultaneously as long as the sum of the powers√≠ levels is less than or equal to their power rating. If the manifester√≠s concentration is disrupted, such as if they are pushed or take damage, they roll for both powers individually. Both powers√≠ effects still end early if the manifester is killed or incapacitated.
 
 **Table: Psionic Foci**
 
 **Item Cost Weight**
 
-Knotted Focus 150 cr ó Synthetic Crystal 200 cr 3 lbs Imbued Emblem 225 cr ó
+Knotted Focus 150 cr √≥ Synthetic Crystal 200 cr 3 lbs Imbued Emblem 225 cr √≥
 
 Psychic Crystals
 
@@ -6010,7 +6010,7 @@ Police, soldiers, spies, and similar professions are frequently thought of mostl
 
 ***Binoculars.*** A good pair of binoculars comes in handy in a variety of situations. They can give the user a clear view of targets up to a quarter-mile away in bright or dim light. An additional 100 credits adds a night vision mode, which allows the user to see at the same range in
 
-darkness. The user has advantage on sight-based Perception checks dealing with faraway targets (up to half a mile). ***Bug.*** Tiny clandestine surveillance devices are often referred to as ìbugs.î
+darkness. The user has advantage on sight-based Perception checks dealing with faraway targets (up to half a mile). ***Bug.*** Tiny clandestine surveillance devices are often referred to as √¨bugs.√Æ
 
 They are about the size of a grain of rice (DC 22 Investigate check to locate) and can pick up ambient conversation in an area up to 20 feet from their location and transmit it over an encrypted datastream up to a mile. Video-capable versions cost twice as much.
 
@@ -6020,11 +6020,11 @@ They are about the size of a grain of rice (DC 22 Investigate check to locate) a
 
 5-foot radius and dim light in a 10-foot one. Once activated, the light stays lit for 12 hours.
 
-***Gateway Projection Device.*** This apparatus fits over the forearm and hand of the user. It has the ability to fire matched portals onto flat surfaces within long range. The weapon has two triggers, one fires blue-rimmed portals and the other orange-rimmed ones. The portals are roughly 6 feet tall and oval-shaped, large enough for a medium-sized creature to pass through comfortably. Entering one portal causes a creature, object, or effect to immediately exit the other. If one portal of each color does not exist, the portal is not enterable, appearing merely as a lighting effect. If the user creates a portal while one of the same color is already in existence, the old portal is immediately replaced with the new one. The device can ìfireî a portal up to 120 feet, which takes an action. An active portal can be dismissed as a bonus action. Portals cannot be dismissed if a creature or object is currently traversing them. This is an advanced item.
+***Gateway Projection Device.*** This apparatus fits over the forearm and hand of the user. It has the ability to fire matched portals onto flat surfaces within long range. The weapon has two triggers, one fires blue-rimmed portals and the other orange-rimmed ones. The portals are roughly 6 feet tall and oval-shaped, large enough for a medium-sized creature to pass through comfortably. Entering one portal causes a creature, object, or effect to immediately exit the other. If one portal of each color does not exist, the portal is not enterable, appearing merely as a lighting effect. If the user creates a portal while one of the same color is already in existence, the old portal is immediately replaced with the new one. The device can √¨fire√Æ a portal up to 120 feet, which takes an action. An active portal can be dismissed as a bonus action. Portals cannot be dismissed if a creature or object is currently traversing them. This is an advanced item.
 
 ***Handcuffs.*** The prisoner restraints of choice in most sci-fi worlds, these metal restraints (AC 16, 20 hit points) can restrain a Small or Medium creature. You can restrain an unwilling creature which requires an action, and for the creature to be either restrained, or both grappled and prone. Escaping the manacles requires a DC 22 Dexterity check, and breaking them requires a DC 22 Strength check. Each set of handcuffs comes with one key.
 
-Without the key, a DC 15 thievesí tools check can pick this lock.
+Without the key, a DC 15 thieves√≠ tools check can pick this lock.
 
 ***Long-Range Microphone.*** The audio equivalent of binoculars, long-range microphones allow normal conversation to be heard at a range of up to 300 feet.
 
@@ -6034,7 +6034,7 @@ The multi-spectrum version (costing 1000 credits or more) also allows the wearer
 
 ***Night-Vision/Multi-Spectrum Contacts.*** These special contact lenses work the same as the goggles above. This is an advanced item.
 
-***Portable X-Ray Scanner*.** A handheld scanning device used in security searches, a portable x-ray scanner can penetrate even into a subjectís body, revealing surgical hardware, dental fillings, and most importantly, cybernetic implants. It is virtually impossible to hide carried, implanted, or swallowed contraband from this device, which grants the user a passive DC 30 Investigate check to find such things on a one-minute scan.
+***Portable X-Ray Scanner*.** A handheld scanning device used in security searches, a portable x-ray scanner can penetrate even into a subject√≠s body, revealing surgical hardware, dental fillings, and most importantly, cybernetic implants. It is virtually impossible to hide carried, implanted, or swallowed contraband from this device, which grants the user a passive DC 30 Investigate check to find such things on a one-minute scan.
 
 ***Proximity Alarm.*** This device monitors a 20-foot diameter area for up to 8 hours. It has a passive Perception score of 14
 
@@ -6042,7 +6042,7 @@ and makes a loud noise if it detects movement within that area.
 
 ***Range Earmuffs.*** These over-ear headphones provide the same protection as earplugs without the drawback by amplifying ambient sound and cutting off at a certain decibel level.
 
-***Tracer.*** This button-sized device can be planted on a person or vehicle and sends out a signal allowing its location to be tracked, typically via a program on the userís ICD. While the tracer is active and within 10 miles, you know the direction of it, and combining a tracer with a mapping program (an upgrade that costs an additional 100 cr) can show you the precise location of it on a map. The tracer stays active for 24 hours, but they are easy to find with bug detectors (automatic success, no roll required). They are typically used on targets that will not suspect their presence.
+***Tracer.*** This button-sized device can be planted on a person or vehicle and sends out a signal allowing its location to be tracked, typically via a program on the user√≠s ICD. While the tracer is active and within 10 miles, you know the direction of it, and combining a tracer with a mapping program (an upgrade that costs an additional 100 cr) can show you the precise location of it on a map. The tracer stays active for 24 hours, but they are easy to find with bug detectors (automatic success, no roll required). They are typically used on targets that will not suspect their presence.
 
 ***Zip Cuffs.*** These super lightweight and portable version of handcuffs are used by riot police and in other situations where mass arrests are likely. They have an AC of only 13 and 15 hp, and the Strength check to break them is DC 16. Unlike most restraints, they are single-use, with the cuffs being cut to release a prisoner rather than unlocked with a key.
 
@@ -6052,23 +6052,23 @@ and makes a loud noise if it detects movement within that area.
 | --- | --- | --- |
 | **Item** | **Cost** | **Weight** |
 | Binoculars | 100 cr | 2 lbs. |
-| Bug (audio-only) | 100 cr | ó |
-| Bug (audio-visual) | 200 cr | ó |
+| Bug (audio-only) | 100 cr | √≥ |
+| Bug (audio-visual) | 200 cr | √≥ |
 | Bug Detector | 250 cr | 1 lb. |
-| Chemical Light Stick | 1 cr | ó |
+| Chemical Light Stick | 1 cr | √≥ |
 | Gateway Projection DeviceA | 100,000  cr | 5 lbs. |
 | Handcuffs | 15 cr | 1 lb. |
 | Long-Range Microphone | 45 cr | 2 lbs. |
 | Night Vision/Multi-Spectrum Goggles | 250 cr | 2 lbs. |
-| Night Vision/Multi-Spectrum ContactsA | 1,000 cr | ó |
+| Night Vision/Multi-Spectrum ContactsA | 1,000 cr | √≥ |
 
 |  |  |  |
 | --- | --- | --- |
 | Portable X-Ray Scanner | 500 cr | 2 lbs. |
 | Proximity Alarm | 100 cr | 2 lbs. |
 | Range Earmuffs | 30 cr | 1/2 lb. |
-| Tracer | 60 cr | ó |
-| Zip Cuffs (set of 10) | .5 cr | ó |
+| Tracer | 60 cr | √≥ |
+| Zip Cuffs (set of 10) | .5 cr | √≥ |
 
 ###### Scientific Gear
 
@@ -6078,7 +6078,7 @@ Like any task, doing so is easier with the right tool.
 
 ***Chemical Detector.*** This handheld device measures various fume levels in the air and provides information about their concentration levels. It is often used by security personnel to look for drugs or explosives. While using a chemical detector, you gain an expertise die on Investigate checks to find hidden drugs, chemicals, or explosives.
 
-***Cryospray.*** An aerosol flash-freezing agent, cryospray is normally used to preserve specimens collected during scientific expeditions, but enterprising users have learned a blast of the spray can make metal brittle (a use of the spray reduces an unattended metal objectís AC by 2) or as an improvised weapon (the spray can only be used on targets within 5 feet, and does 2d6 cold damage). A single canister contains enough for 10 uses.
+***Cryospray.*** An aerosol flash-freezing agent, cryospray is normally used to preserve specimens collected during scientific expeditions, but enterprising users have learned a blast of the spray can make metal brittle (a use of the spray reduces an unattended metal object√≠s AC by 2) or as an improvised weapon (the spray can only be used on targets within 5 feet, and does 2d6 cold damage). A single canister contains enough for 10 uses.
 
 ***Geiger Counter.*** This device measures ambient radiation, emitting an audible warning in the presence of dangerous radiation levels.
 
@@ -6100,7 +6100,7 @@ The universe is a big place, and those who wish to see unexplored parts of it wo
 
 ***Blanket.*** A basic foil blanket that provides warmth in cold environments.
 
-***Digital Scale.*** An improvement on the merchantís scale, this version is precise to
+***Digital Scale.*** An improvement on the merchant√≠s scale, this version is precise to
 
 .01 oz.
 
@@ -6122,7 +6122,7 @@ sight-based Perception checks while wearing it.
 
 grapple needs some sort of protrusion to latch onto; common ones are architectural features like railings, ornamental statuary, pipes, and so on. The line can then be retracted, reeling the user toward the hook, granting an effective climb speed of 60 feet. Improved versions (which cost double the cost) have a
 
-nanomachine-paste anchor instead which can bond to any surface able to support the weight on the line. This version does not need to ìcatchî on anything and can adhere to even sheer surfaces and is considered an advanced item.
+nanomachine-paste anchor instead which can bond to any surface able to support the weight on the line. This version does not need to √¨catch√Æ on anything and can adhere to even sheer surfaces and is considered an advanced item.
 
 ***Lighter.*** This small fire-starting device can be used to light anything with abundant, exposed fuel or
 
@@ -6134,7 +6134,7 @@ highly-flammable objects such as paper as an action. You may also expend a use t
 
 *Planetary:* This map depicts the entirety of a single planet. On
 
-well-explored or long-inhabited planets this usually includes populated areas, delineations between countries, provinces, and states, and names of natural formations, such as mountain ranges or forests, if theyíve been given them. Many also include topography, elevation, terrain, and even live weather. Planets that have only been seen remotely or have not been properly surveyed may only show major geographical features, known settlements, and established routes (if any).
+well-explored or long-inhabited planets this usually includes populated areas, delineations between countries, provinces, and states, and names of natural formations, such as mountain ranges or forests, if they√≠ve been given them. Many also include topography, elevation, terrain, and even live weather. Planets that have only been seen remotely or have not been properly surveyed may only show major geographical features, known settlements, and established routes (if any).
 
 *System:* This map shows the entirety of a single star system, including planets, meteor belts, moons, and significant planetoids.
 
@@ -6142,7 +6142,7 @@ well-explored or long-inhabited planets this usually includes populated areas, d
 
 Depending on the amount of data the map maker had, it may be more or less detailed or accurate.
 
-***Matches.*** An improvement on the tinderbox. Using it to light a torchóor anything else with abundant, exposed fuelótakes an action. Lighting any other fire takes 1 minute.
+***Matches.*** An improvement on the tinderbox. Using it to light a torch√≥or anything else with abundant, exposed fuel√≥takes an action. Lighting any other fire takes 1 minute.
 
 ***Mirror (plastic).*** Made of synthetic products, this mirror is lighter and cheaper than its steel counterpart.
 
@@ -6179,66 +6179,66 @@ Umbrellas fold up when not in use, but are a bulky item when open. Folding or un
 | Digital Scale | 12 cr | 1 lb. |
 | Distress Beacon | 100 cr | 2 lbs. |
 | Entrenching Tool | 5 cr | 2 lbs. |
-| Flashlight | 2 cr | Ω lb |
+| Flashlight | 2 cr | Œ© lb |
 | Floodlight | 40 cr | 5 lbs. |
 | Gas Mask | 100 cr | 2 lbs. |
 | Grapple Gun | 300 cr | 4 lbs. |
-| Lighter (30 uses) | 1 cr | ó |
-| Map (local) | 0.5 cr | ó |
-| Map (planetary) | 20 cr | ó |
-| Map (system) | 100 cr | ó |
-| Map (galactic nav charts) | 5,000 cr | ó |
-| Matches (100) | 1.5 cr | ó |
-| Mirror (plastic) | 1 cr | ó |
-| Paper (100 sheets) | 0.1 cr | ó |
-| Rope, synthetic (50í) | 7 cr | 2 lbs. |
+| Lighter (30 uses) | 1 cr | √≥ |
+| Map (local) | 0.5 cr | √≥ |
+| Map (planetary) | 20 cr | √≥ |
+| Map (system) | 100 cr | √≥ |
+| Map (galactic nav charts) | 5,000 cr | √≥ |
+| Matches (100) | 1.5 cr | √≥ |
+| Mirror (plastic) | 1 cr | √≥ |
+| Paper (100 sheets) | 0.1 cr | √≥ |
+| Rope, synthetic (50√≠) | 7 cr | 2 lbs. |
 | Sleeping Bag | 4 cr | 5 lbs. |
 | Tent (one person) | 10 cr | 8 lbs. |
 | Tent (two-person) | 20 cr | 16 lbs. |
 | Tent (communal) | 50 cr | 30 lbs. |
-| Umbrella | 1.7 cr | Ω lb. |
+| Umbrella | 1.7 cr | Œ© lb. |
 
 ###### Toolkits
 
-In addition to the less-technological tools in the base game, these toolkits allow you to perform specialized tasks such as repairs on the specific type of equipment or vehicle or the collection and interpretation of detailed scientific data. If you lack the proper toolkit, tasks that would use it may be impossible, or at best, all checks will be made with disadvantage. You must be proficient with specialistís tools to use them.
+In addition to the less-technological tools in the base game, these toolkits allow you to perform specialized tasks such as repairs on the specific type of equipment or vehicle or the collection and interpretation of detailed scientific data. If you lack the proper toolkit, tasks that would use it may be impossible, or at best, all checks will be made with disadvantage. You must be proficient with specialist√≠s tools to use them.
 
 Computers
 
-While they arenít represented by a specific tool kit, computers are a vital tool proficiency for voidrunners. Much of society relies on them. This tool proficiency represents the normal use of
+While they aren√≠t represented by a specific tool kit, computers are a vital tool proficiency for voidrunners. Much of society relies on them. This tool proficiency represents the normal use of
 
-computersñcomputer technician kits and hacking tools are different, more specialized proficiencies. You can use the computers tool proficiency to conduct research or operate a device, but you cannot use it to rewire or repair devices or to hack systems.
+computers√±computer technician kits and hacking tools are different, more specialized proficiencies. You can use the computers tool proficiency to conduct research or operate a device, but you cannot use it to rewire or repair devices or to hack systems.
 
 ***Computer Technician Kit.*** This kit includes specialized opening tools, a multimeter, spare parts, thermal compound, and an assortment of cables and adapters. It is used for setting up and performing basic repairs on computer systems or mechanical creatures from an ICD up to a battle droid.
 
 With 10 minutes work and a DC 10 computer technician kit check, you can repair a construct or synthetic lifeform (such as an android) or device. The creature or device regains 1d4 hit points, plus an additional 1d4 hit points if the check's result is 15 or higher. The Narrator might set a higher DC for specialized repairs or decide that such repairs require more time or additional equipment. Fixing a sentinel droid's malfunctioning gyroscopic systems, for example, might require a DC 20 check.
 
-***Cybernetics Kit.*** Contains a mixture of spare parts, anti-rejection drugs, specialized instruments, and basic first aid supplies. This allows you to perform field maintenance and repairs on a creatureís cybernetic implants. It can also be used once as a first-aid kit, but then 2 credits must be spent to replenish the expended supplies before the kit is useful again.
+***Cybernetics Kit.*** Contains a mixture of spare parts, anti-rejection drugs, specialized instruments, and basic first aid supplies. This allows you to perform field maintenance and repairs on a creature√≠s cybernetic implants. It can also be used once as a first-aid kit, but then 2 credits must be spent to replenish the expended supplies before the kit is useful again.
 
 ***Disguise Kit.*** This pouch of props, costuming, and cosmetics lets you change your physical appearance. A creature observing you after you make a disguise kit check must make a Perception check (DC equal to the result of your disguise kit
 
 check) in order to see through your disguise.
 
-***Engineerís Toolbox.*** This kit contains wrenches, bolt drivers, instruments, and so on to work on the drive, braking, navigation, and suspension systems. With 10 minutes work and a DC 10 tools check, you can repair a machine, vehicle, or starfighter. The machine, vehicle or starfighter regains 1d4 hit points, plus an additional 1d4 hit points if the check's result is 15 or higher. The Narrator might set a higher DC for specialized repairs or decide that such repairs require more time or additional equipment. Fixing a wrecked starfighter engine for example, might require a DC 20 check.
+***Engineer√≠s Toolbox.*** This kit contains wrenches, bolt drivers, instruments, and so on to work on the drive, braking, navigation, and suspension systems. With 10 minutes work and a DC 10 tools check, you can repair a machine, vehicle, or starfighter. The machine, vehicle or starfighter regains 1d4 hit points, plus an additional 1d4 hit points if the check's result is 15 or higher. The Narrator might set a higher DC for specialized repairs or decide that such repairs require more time or additional equipment. Fixing a wrecked starfighter engine for example, might require a DC 20 check.
 
 The toolbox also contains a
 
-standard-issue military field maintenance kit for modifying and repairing high-tech weapons and armor. It includes the small drivers, hardening sprays, and cleaning supplies needed to keep a soldierís combat gear working.
+standard-issue military field maintenance kit for modifying and repairing high-tech weapons and armor. It includes the small drivers, hardening sprays, and cleaning supplies needed to keep a soldier√≠s combat gear working.
 
-***Field Laboratory.*** A semi-portable lab with various scientific instruments, sample containers, and reagents allows a creature proficient with the Science skill to perform various types of testing such as identifying substances or organisms, measuring environmental effects such as barometric pressure and seismic activity, and other similar tasks. Some tasks may only be possible with a Field Laboratory, but ones that do not require it (Narratorís discretion) are made with advantage instead.
+***Field Laboratory.*** A semi-portable lab with various scientific instruments, sample containers, and reagents allows a creature proficient with the Science skill to perform various types of testing such as identifying substances or organisms, measuring environmental effects such as barometric pressure and seismic activity, and other similar tasks. Some tasks may only be possible with a Field Laboratory, but ones that do not require it (Narrator√≠s discretion) are made with advantage instead.
 
 ***Hacking Tools.*** Hacking tools resemble common datapads containing potent hacking programs, but they can also be more custom-rigged device amalgams that better reflect their less-than-legal purpose. If you are proficient with hacking tools, you can use an action to begin a hack by making a hacking tools check against a DC determined by the security of the device being hacked. If successful you begin hacking that device, while hacking a device your hacking tools cannot be used to hack another device until the previous hack attempt ends.
 
-***Medical Pouch.*** Often referred to as ëcrash kití, the professional version of a first-aid kit, crash kits are most useful to those with formal medical training. Any creature can expend one use to stabilize a dying creature without the need for a Medicine check, even if they are not proficient.
+***Medical Pouch.*** Often referred to as √´crash kit√≠, the professional version of a first-aid kit, crash kits are most useful to those with formal medical training. Any creature can expend one use to stabilize a dying creature without the need for a Medicine check, even if they are not proficient.
 
 However, creatures with proficiency in Medicine can spend a use of the kit to greater effect. When a creature proficient in Medicine makes a Medicine check with the kit to stabilize a creature, the creature recovers 1d6 hit points for every 5 points the DC of the check is exceeded by (1d6 on a result of 15, 2d6 on a result of 20, etc.) The kit can be used 5 times before being depleted. Replacement supplies cost 25 credits per use.
 
-A medical pouch can also be used to remove a condition from an adjacent creature, as long as the condition is a temporary condition and originally required a saving throw to avoid or resist and is on the following list: blinded, charmed, deafened, paralyzed, poisoned, slowed, stunned. Use an action to make a Medicine check with a DC equal to the saving throw DC originally required to resist or avoid the condition. On a success, the condition is removed. At the Narratorís discretion, certain conditions may not be removable in this manner, and a creature can only benefit from this feature once per long rest.
+A medical pouch can also be used to remove a condition from an adjacent creature, as long as the condition is a temporary condition and originally required a saving throw to avoid or resist and is on the following list: blinded, charmed, deafened, paralyzed, poisoned, slowed, stunned. Use an action to make a Medicine check with a DC equal to the saving throw DC originally required to resist or avoid the condition. On a success, the condition is removed. At the Narrator√≠s discretion, certain conditions may not be removable in this manner, and a creature can only benefit from this feature once per long rest.
 
 ***Multi-Scanner.*** This handheld device can analyze the chemical makeup of a substance, diagnose illnesses or injuries, determine the levels of any known type of radiation, measure temperature, wind direction, and barometric pressure, carbon-date a sample of organic material, scan the genetics of a creature, detect life forms, and so on. Any sort of reading that could be supplied by a specific scientific or medical instrument can be quickly and accurately supplied by the multi-scanner. Getting a scan of a target within 10 feet requires one action, and uses either the Science or Medicine skill depending on the nature of the scan. Using a
 
 multi-scanner gives you advantage on Science and Medicine checks, and an expertise die on Engineering or Investigation checks where precise scientific data would be useful. This is an advanced item.
 
-***Thieves' Tools.*** This set of technical instruments are used to open mechanical locks. You can use an action to open a lock by making a thievesí tools check against a DC determined by the quality of the lock being picked.
+***Thieves' Tools.*** This set of technical instruments are used to open mechanical locks. You can use an action to open a lock by making a thieves√≠ tools check against a DC determined by the quality of the lock being picked.
 
 **Table: Specialist Tools**
 
@@ -6248,10 +6248,10 @@ multi-scanner gives you advantage on Science and Medicine checks, and an experti
 | Computer technician kit | 200 cr | 5 lbs. |
 | Cybernetics kit | 350 cr | 8 lbs. |
 | Field laboratory | 2,000 cr | 100  lbs. |
-| Hacking tools | 500 cr | ó |
+| Hacking tools | 500 cr | √≥ |
 | Medical pouch (crash kit) | 250 cr | 5 lbs. |
 | Multi-scannerA | 500 cr | 1 lb. |
-| Thievesí Tools | 25 cr | 1 lb. |
+| Thieves√≠ Tools | 25 cr | 1 lb. |
 | Vehicle repair kit | 600 cr | 20 lbs. |
 | Weapons and Armor Maintenance Tools. | 550 cr | 20 lbs. |
 
@@ -6266,7 +6266,7 @@ The musical arts grow and innovate as artists gain access to new technologies an
 | **ITEM** | **COST** | **WEIGHT** |
 | Acoustic guitar | 30 cr | 7 lbs. |
 | Electric guitar | 50 cr | 8 lbs. |
-| Harmonica | 2 cr | ó |
+| Harmonica | 2 cr | √≥ |
 | Keytar | 50 cr | 12 lbs. |
 | Saxophone | 40 cr | 4 lbs. |
 | Theremin | 20 cr | 2 lbs. |
@@ -6277,19 +6277,19 @@ One of the most dramatic examples of technological progress is the introduction 
 
 Prosthetics
 
-The most common and simplest form of cyberware are prosthetics. It is the default assumption that any world with FTL travel will have also developed sophisticated prosthetics, though the specifics of those can vary. A character that has suffered the loss of a limb, organ, or other body part can receive a fully-functional replacement for 1,000 credits, though in some settings this type of medical care may be fully or partially-covered by a characterís government benefits or insurance plan. In other settings, this service may be significantly more expensive, costing 5, 10, or even 100 times as much, making these prosthetics the realm of the wealthy or
+The most common and simplest form of cyberware are prosthetics. It is the default assumption that any world with FTL travel will have also developed sophisticated prosthetics, though the specifics of those can vary. A character that has suffered the loss of a limb, organ, or other body part can receive a fully-functional replacement for 1,000 credits, though in some settings this type of medical care may be fully or partially-covered by a character√≠s government benefits or insurance plan. In other settings, this service may be significantly more expensive, costing 5, 10, or even 100 times as much, making these prosthetics the realm of the wealthy or
 
 well-connected and consigning the poor to non-technological options.
 
-Prosthetics function just like the body part they emulate (though they may look different). The prosthetic may be plastic, or metal; vat-grown clones from creatureís own stem cells are fully indistinguishable from the original.
+Prosthetics function just like the body part they emulate (though they may look different). The prosthetic may be plastic, or metal; vat-grown clones from creature√≠s own stem cells are fully indistinguishable from the original.
 
 Enhancement Implants
 
 Implants provide new or enhanced capabilities to a creature. The cost listed for enhancement implants includes the cost of having them surgically implanted. As long as the implant procedure is done with the proper equipment, there is no chance of
 
-rejection or failure; however, creatures need time to adjust to the presence of the implants. Therefore, a character may only have a number of enhancement implants equal to their proficiency bonus. If more are added, the newest implants simply do nothing until the implanted characterís proficiency bonus rises enough to accommodate them, with the oldest inactive implant always coming online first.
+rejection or failure; however, creatures need time to adjust to the presence of the implants. Therefore, a character may only have a number of enhancement implants equal to their proficiency bonus. If more are added, the newest implants simply do nothing until the implanted character√≠s proficiency bonus rises enough to accommodate them, with the oldest inactive implant always coming online first.
 
-Despite the advantages they provide, enhancement implants have drawbacks as welló they require some level of external networking to function, which makes them vulnerable to various attacks such as hacking and EMPs. The DC to hack an implant is 8 + the creatureís Intelligence modifier + its proficiency bonus.
+Despite the advantages they provide, enhancement implants have drawbacks as well√≥ they require some level of external networking to function, which makes them vulnerable to various attacks such as hacking and EMPs. The DC to hack an implant is 8 + the creature√≠s Intelligence modifier + its proficiency bonus.
 
 Adhesion Pads
 
@@ -6305,7 +6305,7 @@ Augmented Reality System
 
 This system projects useful information onto your field of view. When making a skill check you have proficiency in, you gain an expertise die as though you had the relevant skill speciality. If this implant is used in concert with an implanted or ranged
 
-weapon connected to you with a cyberlink, that weaponís short range increases by a number of feet equal to 10 times your proficiency bonus, up to a maximum of its long range. Its long range is unaffected.
+weapon connected to you with a cyberlink, that weapon√≠s short range increases by a number of feet equal to 10 times your proficiency bonus, up to a maximum of its long range. Its long range is unaffected.
 
 **Hacking.** If this system is hacked, it projects static into your field of view. You suffer disadvantage on all checks based on sight (such as Perception, Investigation, and Insight) and ranged attacks (but not melee ones) until the hack ends or you reboot the system, which takes 1 minute. You are blinded while the system reboots, but can choose when to initiate the reboot.
 
@@ -6313,9 +6313,9 @@ Biomonitor
 
 **Cost:** 300 credits
 
-While it is functioning, a biomonitor provides detailed medical data and helps regulate your bodyís systems. Creatures making Medicine checks on you while accessing the biomonitor do so with advantage, and you regain an extra hit point for every hit die you spend during a short rest.
+While it is functioning, a biomonitor provides detailed medical data and helps regulate your body√≠s systems. Creatures making Medicine checks on you while accessing the biomonitor do so with advantage, and you regain an extra hit point for every hit die you spend during a short rest.
 
-**Hacking*.*** If the monitor is disabled via hacking or the character is subject to an EMP blast, the monitor goes into a failsafe mode. During this time, you suffer the effects of two levels of fatigue that cannot be removed until the implant is reset. Resetting the biomonitor requires a short rest and a cybernetics kit. Additionally, when a hacker who gains access to the biomonitorís output data makes a successful attack roll against you they deal extra damage equal to their proficiency bonus. Resetting the implant removes this damage bonus.
+**Hacking*.*** If the monitor is disabled via hacking or the character is subject to an EMP blast, the monitor goes into a failsafe mode. During this time, you suffer the effects of two levels of fatigue that cannot be removed until the implant is reset. Resetting the biomonitor requires a short rest and a cybernetics kit. Additionally, when a hacker who gains access to the biomonitor√≠s output data makes a successful attack roll against you they deal extra damage equal to their proficiency bonus. Resetting the implant removes this damage bonus.
 
 Comms Implant
 
@@ -6339,7 +6339,7 @@ Cyberlink
 
 **Cost:** 1,000 credits
 
-A cyberlink allows you to bypass all conventional forms of input in terms of direct mental interface with any connected device. Cyberlink cables are typically only about a foot long, requiring you to hold the item you are interfacing with or touch it. If the item is a weapon, you count as proficient with it, even if you normally would not be. At the Narratorís discretion, you may gain additional benefits if you also have an augmented reality system.
+A cyberlink allows you to bypass all conventional forms of input in terms of direct mental interface with any connected device. Cyberlink cables are typically only about a foot long, requiring you to hold the item you are interfacing with or touch it. If the item is a weapon, you count as proficient with it, even if you normally would not be. At the Narrator√≠s discretion, you may gain additional benefits if you also have an augmented reality system.
 
 **Hacking*.*** If the implant is hacked, you suffer 2d8 lightning damage and are slowed for 1d6 rounds.
 
@@ -6349,7 +6349,7 @@ Implanted Psionic Focus
 
 You gain the benefits of a psionic focus without needing an external piece of gear.
 
-**Hacking*.*** If hacked, the focus goes haywire. For the next minute, using any psionic power deals 1d6 psychic damage to you. This damage canít be reduced or prevented in any way. In addition, you are rattled for the duration, and any saving throws you make against the psionic abilities of other creatures are made with disadvantage. The implant stabilizes automatically.
+**Hacking*.*** If hacked, the focus goes haywire. For the next minute, using any psionic power deals 1d6 psychic damage to you. This damage can√≠t be reduced or prevented in any way. In addition, you are rattled for the duration, and any saving throws you make against the psionic abilities of other creatures are made with disadvantage. The implant stabilizes automatically.
 
 Implanted Weapon
 
@@ -6399,7 +6399,7 @@ items in addition to 2,000 lbs. of carrying capacity.
 
 ##### Collisions
 
-If a vehicle enters the space occupied by a creature or another object, a collision occurs. Both the vehicle and whatever it impacts take bludgeoning damage according to the otherís size:
+If a vehicle enters the space occupied by a creature or another object, a collision occurs. Both the vehicle and whatever it impacts take bludgeoning damage according to the other√≠s size:
 
 **Table: Vehicle Collisions Size Damage**
 
@@ -6421,57 +6421,57 @@ When a vehicle is reduced to half its total hit points or less, it is damaged an
 
 **Table: Malfunctions D6 MALFUNCTION**
 
-* 1. ***Movement.*** Movement has been compromised, such as losing the sails, losing the animal team drawing the vehicle, or destroying an engine. The vehicleís Speed is reduced to half its normal value.
+* 1. ***Movement.*** Movement has been compromised, such as losing the sails, losing the animal team drawing the vehicle, or destroying an engine. The vehicle√≠s Speed is reduced to half its normal value.
   2. ***Integrity.*** Some key component holding everything together has been lost and the vehicle immediately loses additional hit points equal to 25% of its hit point maximum.
   3. ***Brakes.*** The ability to stop has been lost. The vehicle moves at its Speed each round until it collides with an obstacle of its size or larger.
-  4. ***Steering.*** The driverís ability to fully control the vehicle has been compromised. The vehicle cannot turn.
+  4. ***Steering.*** The driver√≠s ability to fully control the vehicle has been compromised. The vehicle cannot turn.
   5. ***Cargo.*** Half of any Supply currently carried by the vehicle are destroyed.
-  6. ***Superficial.*** The damage looks bad but doesnít cause any further issues.
+  6. ***Superficial.*** The damage looks bad but doesn√≠t cause any further issues.
 
 ##### Hotwiring a Vehicle
 
-Unlike the humble wagon, technological vehicles can be hotwired, allowing a voidrunner to go for a rideófor a time, at least. In a futuristic setting, this calls for a hacking check, as these vehicles are operated by computers. Civilian vehicles typically have a hacking DC of 12, while military vehicles have a hacking DC of 18. See Contested Hacks for more information.
+Unlike the humble wagon, technological vehicles can be hotwired, allowing a voidrunner to go for a ride√≥for a time, at least. In a futuristic setting, this calls for a hacking check, as these vehicles are operated by computers. Civilian vehicles typically have a hacking DC of 12, while military vehicles have a hacking DC of 18. See Contested Hacks for more information.
 
 **Table: Military Land Vehicles**
 
 |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VEHICLE** | **SIZE** | **AC** | **HIT POINTS** | **SPEED** | **CREW** | **COST** | **SUPPLY** | **WEIGHT** | **PROPERTIES** |
-| APC,  ìStreetfighterî | Huge | 19 | 500 | 60 feet/60 mph | 2 | 20k cr | 200 | 16 tons | Armed (HMG ◊2, plasma cannon ◊2, 1◊ light missile  pod ◊1),  heavy armor, sealed, sensor array |
-| Armored landing vehicle, ìPercivalî | Huge | 18 | 600 | 50 feet/50 mph  (land), 30 feet/30 mph (water) | 3 | 25k cr | 80 | 8 tons | Armed (HMG x2, GPMG x1) all terrain, amphibious, medium armor, sealed, sensor array, transport (10) |
-| Assault mech, ìGrave Diggerî | Huge | 21 | 1,500 | 40 feet/40 mph | 2 | 100k cr | 40 | 12 tons | Armed (heavy blaster ◊2, heavy missile launcher x1, infantry mech missile ◊2, kinetic cannon x1), legged, long-range sensor array, pressurized, sealed,  ultra-heavy armor |
-| Battle Wheel | Large | 19 | 250 | 80 feet/80 mph | 1 | 2k cr | 15 | 1.5 tons | Armed (GPMG ◊1, heavy blaster ◊1, ground attack rockets ◊1), all terrain, heavy armor, personal, sealed, sensor array |
-| Exploration APC,  ìMagellanî | Huge | 19 | 450 | 40 feet/40 mph | 2 | 10k cr | 80 | 10 tons | All-terrain, armed: HMG ◊1, kinetic cannon ◊1) medium armor, pressurized, sealed, sensor array |
-| Forward defensive vehicle | Huge | 17 | 400 | 60 feet/60 mph | 4 | 8.5k cr | 80 | 15 tons | Armed (HMG ◊1, GPMG ◊2), all terrain, integrated equipment: plow and floodlight, construction foam dispenser; medium armor |
-| Grav fighting vehicle, ìPattonî | Huge | 19 | 350 | 100 feet/ 100 mph | 2 | 17k cr | 60 | 5 tons | Armed (kinetic cannon ◊1, light missile pod ◊1, hover, medium armor, pressurized, sealed, sensor array, |
-| Grav tank, ìBastionî | Huge | 22 | 800 | 100 feet/ 100 mph | 6 | 25k cr | 40 | 45 tons | Armed (heavy missile launcher ◊1, heavy blaster ◊1, kinetic cannon ◊1, light blaster ◊3, tank cannon ◊1,) hover, long-range sensor array, pressurized, sealed, ultra-heavy armor |
+| APC,  √¨Streetfighter√Æ | Huge | 19 | 500 | 60 feet/60 mph | 2 | 20k cr | 200 | 16 tons | Armed (HMG ‚óä2, plasma cannon ‚óä2, 1‚óä light missile  pod ‚óä1),  heavy armor, sealed, sensor array |
+| Armored landing vehicle, √¨Percival√Æ | Huge | 18 | 600 | 50 feet/50 mph  (land), 30 feet/30 mph (water) | 3 | 25k cr | 80 | 8 tons | Armed (HMG x2, GPMG x1) all terrain, amphibious, medium armor, sealed, sensor array, transport (10) |
+| Assault mech, √¨Grave Digger√Æ | Huge | 21 | 1,500 | 40 feet/40 mph | 2 | 100k cr | 40 | 12 tons | Armed (heavy blaster ‚óä2, heavy missile launcher x1, infantry mech missile ‚óä2, kinetic cannon x1), legged, long-range sensor array, pressurized, sealed,  ultra-heavy armor |
+| Battle Wheel | Large | 19 | 250 | 80 feet/80 mph | 1 | 2k cr | 15 | 1.5 tons | Armed (GPMG ‚óä1, heavy blaster ‚óä1, ground attack rockets ‚óä1), all terrain, heavy armor, personal, sealed, sensor array |
+| Exploration APC,  √¨Magellan√Æ | Huge | 19 | 450 | 40 feet/40 mph | 2 | 10k cr | 80 | 10 tons | All-terrain, armed: HMG ‚óä1, kinetic cannon ‚óä1) medium armor, pressurized, sealed, sensor array |
+| Forward defensive vehicle | Huge | 17 | 400 | 60 feet/60 mph | 4 | 8.5k cr | 80 | 15 tons | Armed (HMG ‚óä1, GPMG ‚óä2), all terrain, integrated equipment: plow and floodlight, construction foam dispenser; medium armor |
+| Grav fighting vehicle, √¨Patton√Æ | Huge | 19 | 350 | 100 feet/ 100 mph | 2 | 17k cr | 60 | 5 tons | Armed (kinetic cannon ‚óä1, light missile pod ‚óä1, hover, medium armor, pressurized, sealed, sensor array, |
+| Grav tank, √¨Bastion√Æ | Huge | 22 | 800 | 100 feet/ 100 mph | 6 | 25k cr | 40 | 45 tons | Armed (heavy missile launcher ‚óä1, heavy blaster ‚óä1, kinetic cannon ‚óä1, light blaster ‚óä3, tank cannon ‚óä1,) hover, long-range sensor array, pressurized, sealed, ultra-heavy armor |
 | Heavy transport truck | Huge | 15 | 450 | 50 feet/50 mph | 1 | 1.5k cr | 160 | 11 tons | All-terrain, light armor, transport |
-| Heavy transport walker | Gargant uan | 19 | 800 | 30 feet/30 mph | 4 | 10k cr | 400 | 40 tons | Armed (heavy blaster ◊4), heavy armor, legged, sealed, transport ◊20 |
-| Hover APC | Huge | 19 | 700 | 60 feet/60 mph | 3 | 27k cr | 80 | 9 tons | Armed: (heavy blaster ◊2, kinetic cannon ◊1); heavy armor, hover, pressurized, sealed, sensor array, transport ◊14 |
-| Infantry fighting vehicle, ìGalahadî | Huge | 19 | 650 | 50 feet/50 mph | 3 | 22k cr | 80 | 10 tons | Armed (HMG ◊1, kinetic cannon ◊1), all terrain, heavy armor, sealed, sensor array, transport ◊12 |
-| Infantry mech, ìDraugrî | Large | 19 | 115 | 20 feet20 mph | 1 | 15k cr | 5 | 1000 lbs | Armed (HMG ◊1, infantry mech missiles ◊1) heavy armor, legged, personal, pressurized, sensor array, sealed |
+| Heavy transport walker | Gargant uan | 19 | 800 | 30 feet/30 mph | 4 | 10k cr | 400 | 40 tons | Armed (heavy blaster ‚óä4), heavy armor, legged, sealed, transport ‚óä20 |
+| Hover APC | Huge | 19 | 700 | 60 feet/60 mph | 3 | 27k cr | 80 | 9 tons | Armed: (heavy blaster ‚óä2, kinetic cannon ‚óä1); heavy armor, hover, pressurized, sealed, sensor array, transport ‚óä14 |
+| Infantry fighting vehicle, √¨Galahad√Æ | Huge | 19 | 650 | 50 feet/50 mph | 3 | 22k cr | 80 | 10 tons | Armed (HMG ‚óä1, kinetic cannon ‚óä1), all terrain, heavy armor, sealed, sensor array, transport ‚óä12 |
+| Infantry mech, √¨Draugr√Æ | Large | 19 | 115 | 20 feet20 mph | 1 | 15k cr | 5 | 1000 lbs | Armed (HMG ‚óä1, infantry mech missiles ‚óä1) heavy armor, legged, personal, pressurized, sensor array, sealed |
 | Medevac hover truck | Huge | 15 | 400 | 80 feet/80mph | 6 | 8.5k cr | 80 | 4 tons | Hover, light armor, mobile facility: med bay |
-| Mobile command center, ìGawainî | Huge | 17 | 450 | 60 feet/60 mph | 2 | 4k cr | 40 | 4.5 tons | All terrain, light armor, long-range sensor array, mobile facility (operations center) |
-| Police interceptor hovercar | Large | 16 | 250 | 120 feet/120 mph | 1 | 2k cr | 40 | 2 tons | Hover, integrated equipment (floodlight ◊2); light armor, mobile facility (holding cell ◊2); self propelled |
-| Recon speeder | Large | 15 | 80 | 135 feet/135 mph | 1 | 500 cr | 8 | 400 lbs | Armed (light blaster ◊2), hover, open-frame, personal |
-| Scout vehicle, ìWild Boarî | Large | 16 | 250 | 80 feet/80 mph | 2 | 1.1k cr | 40 | 3 tons | All-terrain, armed: (GPMG ◊1), light armor, open-frame, |
-| Scout vehicle, ìVaulterî | Large | 19 | 350 | 100 feet/100 mph | 1 | 22.5k cr | 40 | 2.5 tons | Armed (HMG ◊2, light missile pod ◊1), all terrain, heavy armor, long range sensor array, sealed |
+| Mobile command center, √¨Gawain√Æ | Huge | 17 | 450 | 60 feet/60 mph | 2 | 4k cr | 40 | 4.5 tons | All terrain, light armor, long-range sensor array, mobile facility (operations center) |
+| Police interceptor hovercar | Large | 16 | 250 | 120 feet/120 mph | 1 | 2k cr | 40 | 2 tons | Hover, integrated equipment (floodlight ‚óä2); light armor, mobile facility (holding cell ‚óä2); self propelled |
+| Recon speeder | Large | 15 | 80 | 135 feet/135 mph | 1 | 500 cr | 8 | 400 lbs | Armed (light blaster ‚óä2), hover, open-frame, personal |
+| Scout vehicle, √¨Wild Boar√Æ | Large | 16 | 250 | 80 feet/80 mph | 2 | 1.1k cr | 40 | 3 tons | All-terrain, armed: (GPMG ‚óä1), light armor, open-frame, |
+| Scout vehicle, √¨Vaulter√Æ | Large | 19 | 350 | 100 feet/100 mph | 1 | 22.5k cr | 40 | 2.5 tons | Armed (HMG ‚óä2, light missile pod ‚óä1), all terrain, heavy armor, long range sensor array, sealed |
 
 |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Scout walker, ìGruhnkaî | Huge | 17 | 250 | 40 feet/40 mph | 2 | 7.5k cr | 40 | 12 tons | Armed (heavy blaster ◊2), legged, medium armor |
-| Special forces mech, ìVoid Ghostî | Large | 19 | 125 | 25 feet/25 mph | 1 | 30k cr | 5 | 850 lbs. | Armed (heavy blaster ◊1, HMG ◊1, infantry mech missiles ◊1) heavy armor, legged, personal, pressurized, long-range sensor array, stealth, sealed |
-| Spy car | Large | 17 | 550 | 150 feet/150 mph | 2 | 17.5k cr | 30 | 4 tons | Armed (flame thrower ◊2, GPMG ◊2), medium armor, sensor array, sprayer, |
-| Superheavy tank, ìImperitrixî | Gargant uan | 23 | 4000 | 30 feet/30 mph | 10 | 400k cr | 60 | 350 tons | Armed (heavy flamethrower ◊2, kinetic cannon ◊2, HMG ◊7, tank cannon ◊4), all terrain, long range sensor array, pressurized, sealed, ultra-heavy armor |
-| SWAT transport | Huge | 17 | 300 | 60 feet/60 mph | 2 | 4k cr | 40 | 5 tons | Medium armor, sensor array, integrated equipment (floodlight ◊2), transport |
+| Scout walker, √¨Gruhnka√Æ | Huge | 17 | 250 | 40 feet/40 mph | 2 | 7.5k cr | 40 | 12 tons | Armed (heavy blaster ‚óä2), legged, medium armor |
+| Special forces mech, √¨Void Ghost√Æ | Large | 19 | 125 | 25 feet/25 mph | 1 | 30k cr | 5 | 850 lbs. | Armed (heavy blaster ‚óä1, HMG ‚óä1, infantry mech missiles ‚óä1) heavy armor, legged, personal, pressurized, long-range sensor array, stealth, sealed |
+| Spy car | Large | 17 | 550 | 150 feet/150 mph | 2 | 17.5k cr | 30 | 4 tons | Armed (flame thrower ‚óä2, GPMG ‚óä2), medium armor, sensor array, sprayer, |
+| Superheavy tank, √¨Imperitrix√Æ | Gargant uan | 23 | 4000 | 30 feet/30 mph | 10 | 400k cr | 60 | 350 tons | Armed (heavy flamethrower ‚óä2, kinetic cannon ‚óä2, HMG ‚óä7, tank cannon ‚óä4), all terrain, long range sensor array, pressurized, sealed, ultra-heavy armor |
+| SWAT transport | Huge | 17 | 300 | 60 feet/60 mph | 2 | 4k cr | 40 | 5 tons | Medium armor, sensor array, integrated equipment (floodlight ‚óä2), transport |
 
 **Table: Military Air Vehicles**
 
 |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VEHICLE** | **SIZE** | **AC** | **HIT POINTS** | **SPEED** | **CREW** | **COST** | **SUPPLY** | **PROPERTIES** |
-| Gunship | Huge | 17 | 175 | 250 feet/  250 mph | 2 | 30k cr | 20 | Armed (HMG ◊1, heavy missile launcher ◊4, ground attack rockets ◊2), long-range sensor array, medium armor, pressurized, sealed, VTOL, |
-| MedEvac VTOL | Huge | 19 | 250 | 175 feet/  175 mph | 4 | 14k cr | 40 | Armed (GPMG ◊2), heavy armor, long-range sensor array, mobile facility: med bay; integrated equipment (floodlight ◊2); pressurized, sealed, VTOL |
+| Gunship | Huge | 17 | 175 | 250 feet/  250 mph | 2 | 30k cr | 20 | Armed (HMG ‚óä1, heavy missile launcher ‚óä4, ground attack rockets ‚óä2), long-range sensor array, medium armor, pressurized, sealed, VTOL, |
+| MedEvac VTOL | Huge | 19 | 250 | 175 feet/  175 mph | 4 | 14k cr | 40 | Armed (GPMG ‚óä2), heavy armor, long-range sensor array, mobile facility: med bay; integrated equipment (floodlight ‚óä2); pressurized, sealed, VTOL |
 | Orbital Drop Pod | Large | 19 | 95 | 10 feet/ 10mph | 1 | 900 cr | 10 | Drop, heavy armor, personal, pressurized, sealed, VTOL |
 
 **Table: Military Water Vehicles**
@@ -6479,8 +6479,8 @@ Unlike the humble wagon, technological vehicles can be hotwired, allowing a void
 |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **NAME** | **SIZE** | **AC** | **HIT POINTS** | **SPEED** | **CREW** | **COST** | **SUPPLY** | **WEIGHT** | **PROPERTIES** |
-| Fast Attack Vessel | Gargantu an | 19 | 900 | 50 feet/  50 mph | 5 | 55k cr | 80 | 30 tons | Armed: (GPMG ◊4, kinetic cannon ◊1, smart torpedo  ◊2), heavy armor, long-range sensor array |
-| Submarine Flagship | Titanic | 23 | 7,000 | 70 feet/  70 mph | 30 | 190k cr | 10,000 | 20,000  tons | Armed, (devastator torpedo ◊1, cruise missile launcher ◊4, heavy electrolaser ◊10, smart torpedo  ◊20), long-range sensor array; mobile facilities: holding cell ◊10, kitchen ◊2, medical bay, operations center, residence ◊40, science bay), pressurized, sealed, submersible, ultra-heavy armor |
+| Fast Attack Vessel | Gargantu an | 19 | 900 | 50 feet/  50 mph | 5 | 55k cr | 80 | 30 tons | Armed: (GPMG ‚óä4, kinetic cannon ‚óä1, smart torpedo  ‚óä2), heavy armor, long-range sensor array |
+| Submarine Flagship | Titanic | 23 | 7,000 | 70 feet/  70 mph | 30 | 190k cr | 10,000 | 20,000  tons | Armed, (devastator torpedo ‚óä1, cruise missile launcher ‚óä4, heavy electrolaser ‚óä10, smart torpedo  ‚óä20), long-range sensor array; mobile facilities: holding cell ‚óä10, kitchen ‚óä2, medical bay, operations center, residence ‚óä40, science bay), pressurized, sealed, submersible, ultra-heavy armor |
 | Swimmer Delivery Vehicle | Medium | 15 | 60 | 40 feet/  40 mph | 1 | 40 cr | - | 80 lbs | High-performance, miniature, open frame, personal, submersible |
 
 **Table: Civilian Land Vehicles**
@@ -6507,7 +6507,7 @@ Unlike the humble wagon, technological vehicles can be hotwired, allowing a void
 |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VEHICLE** | **SIZE** | **AC** | **HIT POINT S** | **SPEED** | **CREW** | **COST** | **SUPPLY** | **PROPERTIES** |
-| Firefighting VTOL | Huge | 15 | 300 | 100 feet/ 100 mph | 3 | 7k cr | 80 | Light armor, pressurized, integrated equipment (fire suppression system ◊2 and floodlights ◊4), sealed, VTOL, |
+| Firefighting VTOL | Huge | 15 | 300 | 100 feet/ 100 mph | 3 | 7k cr | 80 | Light armor, pressurized, integrated equipment (fire suppression system ‚óä2 and floodlights ‚óä4), sealed, VTOL, |
 | Flying car | Large | 14 | 210 | 120 feet/ 120 mph | 1 | 3k cr | 40 | Pressurized, sealed, VTOL |
 | Heavy transport VTOL | Huge | 16 | 475 | 120 feet/ 120 mph | 2 | 4k cr | 80 | Transport, VTOL |
 | News VTOL | Huge | 14 | 350 | 150 feet/ 150 mph | 2 | 3.5k cr | 80 | VTOL |
@@ -6531,18 +6531,18 @@ Vehicles in a science fiction setting have the ability to go many more places an
 |  |  |  |  |
 | --- | --- | --- | --- |
 | **ARMO R GRADE** | **COVER** | **DAMAGE REDUCTIO N** | **SPECIAL** |
-| Light | Half cover | 2 | ó |
-| Medium | Three-quarte rs cover | 4 | ó |
+| Light | Half cover | 2 | √≥ |
+| Medium | Three-quarte rs cover | 4 | √≥ |
 | Heavy | Full cover | 6 | Immune to the breaker weapon property. |
 | Ultra-he avy | Full cover | 8 | Immune to the breaker weapon property. |
 
-***Heavy Equipment.*** The vehicle contains a digger, wrecking ball, roller, massive saw, or other heavy tool. Attacks made with this tool suffer disadvantage and deal bludgeoning, piercing, or slashing damage as appropriate. The tool deals damage according to the vehicleís size: Largeó4d6 damage, Hugeó8d6 damage, Gargantuanó12d6 damage, or Titanicó16d6 damage.
+***Heavy Equipment.*** The vehicle contains a digger, wrecking ball, roller, massive saw, or other heavy tool. Attacks made with this tool suffer disadvantage and deal bludgeoning, piercing, or slashing damage as appropriate. The tool deals damage according to the vehicle√≠s size: Large√≥4d6 damage, Huge√≥8d6 damage, Gargantuan√≥12d6 damage, or Titanic√≥16d6 damage.
 
 ***Hover.*** A high-tech development, this vehicle hovers above the surface of solid ground or liquids. It is a land vehicle, but can traverse any surface features by hovering up to 10 feet above the ground without being slowed by difficult terrain or sinking into liquid.
 
 ***Integrated Equipment.*** The vehicle includes one or more pieces of integrated equipment. This equipment can be activated or deactivated as a bonus action.
 
-* *Plow:* The plow provides an additional +1 to AC against attacks from the front and pushes loose, solid obstacles such as unpacked dirt or snow out of the vehicleís way as it travels. A vehicle can only travel at half its Speed with a plow deployed.
+* *Plow:* The plow provides an additional +1 to AC against attacks from the front and pushes loose, solid obstacles such as unpacked dirt or snow out of the vehicle√≠s way as it travels. A vehicle can only travel at half its Speed with a plow deployed.
 * *Crane:* The vehicle includes a crane arm for reaching high locations. The vehicle must be stopped to use the crane arm. A crane arm may have a tool attached, but typically has either a passenger basket or a winch. A Large vehicle can reach up to 40 feet with a crane boom and a Huge one can reach up to 150 feet. The winch on a Huge crane can lift up to 80 tons, but the vehicle must be stopped and anchored (a process which takes 10 minutes) before it can start moving cargo.
 * *Fire Suppression System:* This vehicle has high-pressure hoses that can spray water or fire suppressing foam up to 120 feet. This equipment can also be used as a water cannon.
 * *Floodlight:* The vehicle has one or more floodlights.
@@ -6551,7 +6551,7 @@ Vehicles in a science fiction setting have the ability to go many more places an
 
 are primarily found at ports rather than out on vehicles.
 
-***Legged.*** The vehicle has mechanical legs. It gains the benefits of the all-terrain feature and can also clamber over obstacles of up to the vehicleís own size (moving at a maximum of half the vehicleís Speed when doing so), but the vehicle can be knocked over, suffering from the prone condition. Just like a creature, a prone vehicle must spend half its movement to stand up from prone and cannot move until it does.
+***Legged.*** The vehicle has mechanical legs. It gains the benefits of the all-terrain feature and can also clamber over obstacles of up to the vehicle√≠s own size (moving at a maximum of half the vehicle√≠s Speed when doing so), but the vehicle can be knocked over, suffering from the prone condition. Just like a creature, a prone vehicle must spend half its movement to stand up from prone and cannot move until it does.
 
 ***Mass Transit.*** A mass transit vehicle is a specialized version of the transport type, and only needs a crew of up to 4 people to operate, regardless of size, though often additional crew members will provide security, customer service, and similar functions. The remaining capacity can be occupied by passengers.
 
@@ -6560,8 +6560,8 @@ are primarily found at ports rather than out on vehicles.
 ***Mobile Facilities.*** The vehicle incorporates the features of a starship deck. A vehicle must be at least Huge size to accommodate a single mobile facility or Gargantuan to have up to 4. Available options are leisure deck, medical bay, operations center, and science bay Additionally, mobile facilities can have the following additional options:
 
 * *Workshop:* Provides the benefits of any four typ*e*s *o*f vehicle repair tools as well as weapons and armor maintenance tools.
-* *Kitchen:* The vehicle has compact but versatile food storage and preparation equipment such as freezer, ovens, providing cookís tools that can be simultaneously used at advantage by a number of creatures equal to half its crew size.
-* *Residence:* The vehicle provides sleeping quarters, shower and toilet systems, and a set of cookís tools.
+* *Kitchen:* The vehicle has compact but versatile food storage and preparation equipment such as freezer, ovens, providing cook√≠s tools that can be simultaneously used at advantage by a number of creatures equal to half its crew size.
+* *Residence:* The vehicle provides sleeping quarters, shower and toilet systems, and a set of cook√≠s tools.
 * *Store:* The vehicle has a cramped, but browsable, selection of retail shelving.
 * *Holding Cell:* The vehicle has a passenger compartment that can be secured from the outside for prisoner transport. DC 20 Strength check to escape.
 
@@ -6575,7 +6575,7 @@ one-quarter the carrying capacity of a normal vehicle of the same size.
 
 ***Railway.*** A railway vehicle travels along a permanent route of some sort, such as train tracks, a maglev system, or the tether of a space elevator.
 
-***Ridden.*** A ridden vehicle relies on the muscle power of its rider to propel it, and its speed is determined by the speed of the creature riding it. Multiply the speed of the creature by the indicated value to get the speed of the vehicle, rounding the result down to the nearest 10 feet. For example, a ridden (◊3) vehicle ridden by a creature with a speed of 35 feet has a speed of 100 feet or 10 miles per hour.
+***Ridden.*** A ridden vehicle relies on the muscle power of its rider to propel it, and its speed is determined by the speed of the creature riding it. Multiply the speed of the creature by the indicated value to get the speed of the vehicle, rounding the result down to the nearest 10 feet. For example, a ridden (‚óä3) vehicle ridden by a creature with a speed of 35 feet has a speed of 100 feet or 10 miles per hour.
 
 Furthermore, because ridden vehicles rely on the muscles of their riders to move, their carrying capacity is limited to double that of their rider unless otherwise stated.
 
@@ -6597,7 +6597,7 @@ Creatures also make the Constitution save, becoming restrained on a failure.
 
 **Caltrops:** Vehicles and creatures that enter this area or begin their turn in it make a DC 15 Dexterity save, taking 1d6 piercing damage for every 10 feet of distance they move. The driver of a vehicle with tires makes a DC 15 Dexterity saving throw and safely stops the vehicle on a success. On a failure
 
-the vehicle either takes the Brake action and stops or rolls over and crashes at the Narratorís discretion.
+the vehicle either takes the Brake action and stops or rolls over and crashes at the Narrator√≠s discretion.
 
 **Grit:** Vehicles and creatures in the affected area ignore difficult terrain caused by ice and/or snow.
 
@@ -6633,7 +6633,7 @@ Vehicles are equipped with a wide variety of powerful weaponry. Most fall into o
 
 Vehicular weapons can have the same breaker, burst fire, loading, long range, or reloading properties as personal weapons. Vehicle weapons can also be fitted with weapon augments (see Customized Weapons). All vehicle weapons are considered to be mounted.
 
-Vehicle weapons of up to Large size can be purchased as a mounted weapon or added to existing vehicles. Weapons with a size of Huge or larger or with a price of ìintegratedî are large, complex, or otherwise demanding in some way and can only be installed on a vehicle specifically designed to use it. Additionally, the Aquatic weapon trait applies to some vehicle weapons.
+Vehicle weapons of up to Large size can be purchased as a mounted weapon or added to existing vehicles. Weapons with a size of Huge or larger or with a price of √¨integrated√Æ are large, complex, or otherwise demanding in some way and can only be installed on a vehicle specifically designed to use it. Additionally, the Aquatic weapon trait applies to some vehicle weapons.
 
 **Table: Vehicle Weapons**
 
@@ -6665,24 +6665,24 @@ Vehicle weapons of up to Large size can be purchased as a mounted weapon or adde
 
 ###### Special Ammunition
 
-Indirect fire and guided weapons typically have a wider variety of ammunition types than direct fire weapons do. Basic weapon descriptions assume a general purpose warhead, but additional types exist. When using special ammunition, the number of dice remains the same as the base ammunition type, but the size of dice and type of damage can change and additional effects may be present. Ammunition with a ìspecialî damage type does no damage on impact/detonation and instead produces some other effect.
+Indirect fire and guided weapons typically have a wider variety of ammunition types than direct fire weapons do. Basic weapon descriptions assume a general purpose warhead, but additional types exist. When using special ammunition, the number of dice remains the same as the base ammunition type, but the size of dice and type of damage can change and additional effects may be present. Ammunition with a √¨special√Æ damage type does no damage on impact/detonation and instead produces some other effect.
 
 ***Armor-Piercing.*** This ammunition deals piercing damage and ignores up to 5 points of damage reduction.
 
-***Anti-Personnel.*** This ammunition deals slashing damage, and its damage die is increased one step from its normal damage. The radius of this effect is determined by the weaponís size: Mediumó15 feet, Largeó30 feet, Hugeó45 feet, and Gargantuanó60 feet.
+***Anti-Personnel.*** This ammunition deals slashing damage, and its damage die is increased one step from its normal damage. The radius of this effect is determined by the weapon√≠s size: Medium√≥15 feet, Large√≥30 feet, Huge√≥45 feet, and Gargantuan√≥60 feet.
 
 Creatures in this area can make a DC 15 Dexterity save, taking half damage on a success.
 
-***High Explosive.*** This ammunition deals thunder damage to its target, as well as half damage to all targets within a certain radius. This distance is determined by the weaponís size: Mediumó10 feet, Largeó20 feet, Hugeó30 feet, and Gargantuanó40 feet.
+***High Explosive.*** This ammunition deals thunder damage to its target, as well as half damage to all targets within a certain radius. This distance is determined by the weapon√≠s size: Medium√≥10 feet, Large√≥20 feet, Huge√≥30 feet, and Gargantuan√≥40 feet.
 
-***Incendiary.*** This ammunition deals fire damage to its target, as well as half damage to all targets within a certain radius. This distance is determined by the weaponís size: Mediumó10 feet, Largeó20 feet, Hugeó30 feet, and Gargantuanó40 feet. Flammable objects in area ignite for 2d6 fire damage per round until extinguished
+***Incendiary.*** This ammunition deals fire damage to its target, as well as half damage to all targets within a certain radius. This distance is determined by the weapon√≠s size: Medium√≥10 feet, Large√≥20 feet, Huge√≥30 feet, and Gargantuan√≥40 feet. Flammable objects in area ignite for 2d6 fire damage per round until extinguished
 
 ***Singularity.*** This ammunition deals force damage. Additionally, nearby targets make a DC 20 Strength save. On a failure, it is pulled violently towards the center of the blast, taking bludgeoning damage equal to half the original blast and are knocked prone. The area of this
 
-secondary affect is based on the vehicleís size: Mediumó20 feet, Largeó40 feet, Hugeó60 feet, and Gargantuanó90 feet.
+secondary affect is based on the vehicle√≠s size: Medium√≥20 feet, Large√≥40 feet, Huge√≥60 feet, and Gargantuan√≥90 feet.
 
-***EMP.*** This ammunition deals no damage, but acts as an EMP grenade, but with a radius determined by the weaponís size: Mediumó30 feet, Largeó60 feet, Hugeó90 feet, and Gargantuanó120 feet.
+***EMP.*** This ammunition deals no damage, but acts as an EMP grenade, but with a radius determined by the weapon√≠s size: Medium√≥30 feet, Large√≥60 feet, Huge√≥90 feet, and Gargantuan√≥120 feet.
 
-***Gas.*** This ammunition deals no damage, but acts as an gas grenade, but with a radius determined by the weaponís size: Mediumó30 feet, Largeó60 feet, Hugeó90 feet, and Gargantuanó120 feet.
+***Gas.*** This ammunition deals no damage, but acts as an gas grenade, but with a radius determined by the weapon√≠s size: Medium√≥30 feet, Large√≥60 feet, Huge√≥90 feet, and Gargantuan√≥120 feet.
 
-***Foam.*** This ammunition deals no damage, but acts as an foam grenade, but with a radius determined by the weaponís size: Mediumó30 feet, Largeó60 feet, Hugeó90 feet, and Gargantuanó120 feet.
+***Foam.*** This ammunition deals no damage, but acts as an foam grenade, but with a radius determined by the weapon√≠s size: Medium√≥30 feet, Large√≥60 feet, Huge√≥90 feet, and Gargantuan√≥120 feet.

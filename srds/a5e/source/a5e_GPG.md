@@ -19,7 +19,7 @@ Characters with constructed heritage share a variety of traits in common.
 
 Magical healing only restores half as many hit points as normal unless you are also repaired in the same round (with an Engineering check, the *mending* cantrip, or similar).
 
-In addition, you donít require Supply in the typical sense; instead of eating food, you rely on a specific substance to refuel. Every 24 hours without the substance you suffer a level of fatigue and strife as your inner machinations begin to decay. Select one of the following.
+In addition, you don√≠t require Supply in the typical sense; instead of eating food, you rely on a specific substance to refuel. Every 24 hours without the substance you suffer a level of fatigue and strife as your inner machinations begin to decay. Select one of the following.
 
 * *Combustibles:* 1 pound of coal or hemp, or 2 pounds of wood.
 * *Darkness:* 2 hours of complete darkness.
@@ -52,13 +52,13 @@ Regardless of planarite type, the planar energy contained within allows you to f
 
 In addition to the traits found in your constructed heritage, choose one of the following frames as your heritage gift.
 
-***Cross-Functional.*** With the Narratorís permission, you can choose an augment trait from a different frame instead of an augment trait for your chosen frame.
+***Cross-Functional.*** With the Narrator√≠s permission, you can choose an augment trait from a different frame instead of an augment trait for your chosen frame.
 
 #### Military Frame
 
 ***Battle Readiness.*** Your Speed increases to 30 feet and you are proficient with clubs, spears, and light crossbows.
 
-In addition, you have a melee weapon built into one of your arms that is immediately swapped out for a hand when sheathed. Choose one melee weapon that does not have the heavy, two-handed, or versatile property. When attached in this way, you are proficient with the weapon, it cannot be thrown, and you cannot be disarmed of it. The weapon can be replaced with another weapon with 10 minutes of work and a DC 13 Engineering or tinkerís tools check.
+In addition, you have a melee weapon built into one of your arms that is immediately swapped out for a hand when sheathed. Choose one melee weapon that does not have the heavy, two-handed, or versatile property. When attached in this way, you are proficient with the weapon, it cannot be thrown, and you cannot be disarmed of it. The weapon can be replaced with another weapon with 10 minutes of work and a DC 13 Engineering or tinker√≠s tools check.
 
 ***Military Augments.*** Choose two of the following customizations to enhance your military frame.
 
@@ -90,7 +90,7 @@ two-handed) or if wielding a versatile weapon to be treated as wielding it two h
 
 * *Arc Welder Extension:* This extension functions as the *shocking grasp* cantrip (using your highest ability score as its spellcasting ability) but its effects are nonmagical.
 * *Flamethrower Extension:* This extension functions as the *produce flame* cantrip (using your highest ability score as its spellcasting ability) but its effects are nonmagical.
-* *Multi-Tool Extension:* You are proficient with and can deploy built-in navigatorís tools, thievesí tools, and tinkerís tools with this extension.
+* *Multi-Tool Extension:* You are proficient with and can deploy built-in navigator√≠s tools, thieves√≠ tools, and tinker√≠s tools with this extension.
 
 Utility Augments.
 
@@ -112,7 +112,7 @@ You gain an expertise die on concentration checks and your Armor Class increases
 
 #### Engine Upgrade
 
-You have a fly speed of 30 feet. To use this speed, you canít be encumbered. Whenever you spend 3 full consecutive rounds airborne without landing, you gain a level of fatigue. Any fatigue gained in this way is removed upon finishing a short or long rest.
+You have a fly speed of 30 feet. To use this speed, you can√≠t be encumbered. Whenever you spend 3 full consecutive rounds airborne without landing, you gain a level of fatigue. Any fatigue gained in this way is removed upon finishing a short or long rest.
 
 #### Warframe Upgrade
 
@@ -156,7 +156,7 @@ You gain an expertise die on attack and damage rolls for unarmed strikes and any
 | 19th | +6 | Ability Score Improvement | 7 | 7 | 4 | 6 | 5th |
 | 20th | +6 | Laboratory of the Master | 7 | 7 | 4 | 6 | 5th |
 
-*Multiclassing Prerequisites: Intelligence 13 Multiclassing Proficiencies: Engineer, tinkerís tools*
+*Multiclassing Prerequisites: Intelligence 13 Multiclassing Proficiencies: Engineer, tinker√≠s tools*
 
 *For the purposes of the Vigilante feat, 3 artificer levels can be taken in place of either the adept or ranger level prerequisite.*
 
@@ -174,7 +174,7 @@ You gain an expertise die on attack and damage rolls for unarmed strikes and any
 
 **Weapons:** Simple weapons, darts, geared slingshots, hand crossbows, heavy crossbows, light crossbows, light hammers, throwing daggers
 
-**Tools:** Thieves' tools, tinker's tools, one type of artisan's tools or smithís tools
+**Tools:** Thieves' tools, tinker's tools, one type of artisan's tools or smith√≠s tools
 
 **Saving Throws:** Constitution, Intelligence **Skills:** Engineering, and choose three from Arcana, Culture, History, Investigation, Medicine, Nature, Perception, Sleight of
 
@@ -182,21 +182,21 @@ Hand
 
 ### Equipment
 
-You begin the game with 180 gold which you can spend on your characterís starting weapons, armor, and adventuring gear. You can select your own gear or choose one of the following equipment packages. Also consult the Suggested Equipment section of your chosen background.
+You begin the game with 180 gold which you can spend on your character√≠s starting weapons, armor, and adventuring gear. You can select your own gear or choose one of the following equipment packages. Also consult the Suggested Equipment section of your chosen background.
 
-* **Blacksmithís Package (cost 158 gp):** Mace, scale mail, heavy shield, acid (vial), chain (10 feet), dungeoneerís pack, portable ram, sledgehammer, smithís tools, whetstone.
+* **Blacksmith√≠s Package (cost 158 gp):** Mace, scale mail, heavy shield, acid (vial), chain (10 feet), dungeoneer√≠s pack, portable ram, sledgehammer, smith√≠s tools, whetstone.
 
-###### Locksmithís Package (cost 160 gp):
+###### Locksmith√≠s Package (cost 160 gp):
 
 Dagger, 2 throwing daggers, leather
 
-brigandine, acid (vial), burglarís pack, caltrops (bag of 20), lock, steel mirror, thievesí tools, tinkerís tools.
+brigandine, acid (vial), burglar√≠s pack, caltrops (bag of 20), lock, steel mirror, thieves√≠ tools, tinker√≠s tools.
 
-* **Scientistís Package (cost 173 gp):** Light crossbow and quiver with 20 bolts, 2 light hammers, leather brigandine, abacus, alchemistís supplies, ball bearings (bag of 1,000), 10 pieces of chalk, common clothes, healerís satchel, lantern (standard), merchantís scale, oil flask, scholarís pack,
+* **Scientist√≠s Package (cost 173 gp):** Light crossbow and quiver with 20 bolts, 2 light hammers, leather brigandine, abacus, alchemist√≠s supplies, ball bearings (bag of 1,000), 10 pieces of chalk, common clothes, healer√≠s satchel, lantern (standard), merchant√≠s scale, oil flask, scholar√≠s pack,
 
 ### Artificial Spellcasting
 
-Artificers are able to harness magic through technology. See Chapter 11: Spellcasting in the *Adventurerís Guide* for the general rules of spellcasting and the Spells Listing for the Artificer spell list.
+Artificers are able to harness magic through technology. See Chapter 11: Spellcasting in the *Adventurer√≠s Guide* for the general rules of spellcasting and the Spells Listing for the Artificer spell list.
 
 #### Spell Inventions
 
@@ -206,13 +206,13 @@ A spell invention is a unique experimental device that is esoteric and useless t
 
 You can change your list of prepared spells and replace or create new spell inventions whenever you finish a long rest by spending at least 10 minutes tinkering and experimenting with 1 gold worth of materials per new spell invention (in addition to any material components the
 
-spell requires). Any spell inventions youíve prepared previously are taken apart and integrated into the new ones, or fall apart due to a lack of maintenance.
+spell requires). Any spell inventions you√≠ve prepared previously are taken apart and integrated into the new ones, or fall apart due to a lack of maintenance.
 
 You can only have a maximum of 1 spell invention per spell you have prepared. You do not have spell slots, and instead utilize your spell inventions to cast spells. Whenever you cast a prepared artificer spell using a spell invention, you may cast it at a spell slot level up to your maximum spell level as shown on the Artificer table. You may freely draw a spell invention from your inventory as part of the same action used to cast a spell through it, and you may also freely stow any spell inventions you were already wielding using that same action.
 
 Using a spell invention does not remove its spell from your list of prepared spells.
 
-You can determine the exact form a spell invention takes but it weighs 1 pound per spell level, is no longer than 1 foot in any dimension, and it must be wielded in at least one hand to be used (treat cantrips as 1st-level spells). A spell invention has an AC equal to 10 + your Intelligence modifier, and a number of hit points equal to your artificer level ◊ 2. You can fully repair your spell inventions whenever you finish a long rest, so long as you have access to your tools of artifice.
+You can determine the exact form a spell invention takes but it weighs 1 pound per spell level, is no longer than 1 foot in any dimension, and it must be wielded in at least one hand to be used (treat cantrips as 1st-level spells). A spell invention has an AC equal to 10 + your Intelligence modifier, and a number of hit points equal to your artificer level ‚óä 2. You can fully repair your spell inventions whenever you finish a long rest, so long as you have access to your tools of artifice.
 
 ***Fizzle Die.*** After you cast a spell using a spell invention, you must roll a fizzle die, a 1d4. If the result is less than or equal to the spell slot level used to cast the spell, your spell invention burns out, runs out of power, or otherwise malfunctions and cannot be used again until repaired. Your fizzle die improves by one step at 10th level (from 1d4 to 1d6) and again at 20th level (from 1d6 to 1d8), and it improves by one step when using a spell invention gained from your artificer archetype (maximum 1d10).
 
@@ -236,18 +236,18 @@ You can cast an artificer spell as a ritual using a spell invention if that spel
 
 #### Tools of Artifice
 
-You produce your spell inventions and infuse items using your tools which act as your spellcasting focus. These tools can be a sewing kit, smithís tools, thievesí tools, or any sort of artisanís tools. After you gain the ability to infuse items at 2nd level, you can also use any item bearing one of your infusions as tools of artifice. You must be proficient with the tools you use in this way.
+You produce your spell inventions and infuse items using your tools which act as your spellcasting focus. These tools can be a sewing kit, smith√≠s tools, thieves√≠ tools, or any sort of artisan√≠s tools. After you gain the ability to infuse items at 2nd level, you can also use any item bearing one of your infusions as tools of artifice. You must be proficient with the tools you use in this way.
 
 ### Craftsman
 
-Artificers often start out in creative or artistic trades. You gain an expertise die on Engineering checks, and on artisan's tools checks and smithís tools checks made to create items or make repairs.
+Artificers often start out in creative or artistic trades. You gain an expertise die on Engineering checks, and on artisan's tools checks and smith√≠s tools checks made to create items or make repairs.
 
 ### Tactical Chemistry
 
 At 1st level, as a bonus action, you can create one of the following items:
 
 * acid (vial)
-* alchemistís fire
+* alchemist√≠s fire
 * black powder charge
 * ether (flask)
 * flash bomb
@@ -261,11 +261,11 @@ At 1st level, as a bonus action, you can create one of the following items:
 
 Items you make in this way are extremely unstable and must be used immediately. If an item you created in this way is not used (activated, lit, thrown, or applied as appropriate to the item) by the end of your next turn it dissolves into useless sludge.
 
-You can use this feature to create a number of items equal to your proficiency bonus. You regain all expended uses when you finish a short or long rest. You cannot regain expended uses in this way if you donít have access to tools of artifice.
+You can use this feature to create a number of items equal to your proficiency bonus. You regain all expended uses when you finish a short or long rest. You cannot regain expended uses in this way if you don√≠t have access to tools of artifice.
 
 ### Schematics
 
-Starting at 2nd level, you can build all manner of things with the right tools, materials, and most importantly the schematics of what youíre trying to make.
+Starting at 2nd level, you can build all manner of things with the right tools, materials, and most importantly the schematics of what you√≠re trying to make.
 
 #### Schematic Book
 
@@ -281,7 +281,7 @@ When you have the schematics for a magic item, they gain advantage on crafting c
 
 #### Creating New Schematics
 
-You can attempt to create and add a new schematic to your schematic book by spending 1 hour studying a magic item and gold equal to 1/10th of that itemís cost in experiments and material tests. At the end of the hour make an Engineering check (DC equal to itemís crafting DC).
+You can attempt to create and add a new schematic to your schematic book by spending 1 hour studying a magic item and gold equal to 1/10th of that item√≠s cost in experiments and material tests. At the end of the hour make an Engineering check (DC equal to item√≠s crafting DC).
 
 On a success you create a new schematic of that magic item and add it to your schematic book, and on a failure the time and materials are wasted.
 
@@ -291,7 +291,7 @@ To add a schematic to your schematic book or to create a schematic of a magic it
 
 #### Replacing Your Schematic Book
 
-The knowledge in your schematic book is too complex to keep entirely memorized, and if it is destroyed or lost you canít reproduce it. For this reason most artificers fiercely protect their schematic books and many write copies. You can
+The knowledge in your schematic book is too complex to keep entirely memorized, and if it is destroyed or lost you can√≠t reproduce it. For this reason most artificers fiercely protect their schematic books and many write copies. You can
 
 copy a schematic from your own schematic book into another book. This is just like creating a new schematic only significantly faster and easier since you already understand your own notations. You need only spend 10 minutes and 1 gold for each of your own schematics you copy into another book, or to create new schematics for a magic item you currently have infused.
 
@@ -301,7 +301,7 @@ Once you have sufficiently studied a magic item you can reproduce and temporaril
 
 If you have the schematic for a magic item, you can use an action to infuse it, turning a mundane item into the magic item from your schematic.
 
-An infusion only works on mundane items specific to the type of magic item. For example, an infusion using a schematic for a magic longsword can only be used on a nonmagical longsword, and an infusion using a schematic for a suit of light armor can only be used on a nonmagical suit of padded cloth or padded leather. Many magic items take the form of small trinkets, baubles, and gems that can often be interchangeable, but the infused item needs to only be similar to the magic itemís description.
+An infusion only works on mundane items specific to the type of magic item. For example, an infusion using a schematic for a magic longsword can only be used on a nonmagical longsword, and an infusion using a schematic for a suit of light armor can only be used on a nonmagical suit of padded cloth or padded leather. Many magic items take the form of small trinkets, baubles, and gems that can often be interchangeable, but the infused item needs to only be similar to the magic item√≠s description.
 
 The Narrator determines whether or not an item is suitable for an infusion.
 
@@ -315,7 +315,7 @@ regular upkeep. Whenever you finish a long rest you can maintain any infused ite
 
 ### Field Discoveries
 
-Experimentation is the key to scientific progress, and through your experiences and findings in the field youíve discovered new skills and data. At 2nd level you gain one field discovery of your choice. Field discoveries are detailed at the end of the class description. The Field Discoveries column of the Artificer table shows when you learn more field discoveries. Unless otherwise noted, you can gain each field discovery only once.
+Experimentation is the key to scientific progress, and through your experiences and findings in the field you√≠ve discovered new skills and data. At 2nd level you gain one field discovery of your choice. Field discoveries are detailed at the end of the class description. The Field Discoveries column of the Artificer table shows when you learn more field discoveries. Unless otherwise noted, you can gain each field discovery only once.
 
 ### Artificer Archetype
 
@@ -323,11 +323,11 @@ At 3rd level, you choose a field of study and technological specialty. Your choi
 
 ### Ability Score Improvement
 
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or increase two ability scores of your choice 1. As normal, you canít increase an ability score above 20 using this feature.
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or increase two ability scores of your choice 1. As normal, you can√≠t increase an ability score above 20 using this feature.
 
 ### Omnitools
 
-With a bit of arcane power and a lot of overengineering, your tools fold and flip into whatever you need them to be. Also at 4th level, you can use your tools of artifice as if they were any kind of artisanís tools or miscellaneous tool kits. This ability does not grant you proficiency in those tool sets but you can make tool checks as if you had those tools.
+With a bit of arcane power and a lot of overengineering, your tools fold and flip into whatever you need them to be. Also at 4th level, you can use your tools of artifice as if they were any kind of artisan√≠s tools or miscellaneous tool kits. This ability does not grant you proficiency in those tool sets but you can make tool checks as if you had those tools.
 
 ### Battlefield Smithing
 
@@ -343,7 +343,7 @@ In addition, during a short rest you can spend 25 gold in materials to permanent
 
 You have advantage on checks made to repair vehicles, and you are always considered to have access to a forge when repairing a vehicle.
 
-In addition, during a short rest you can either repair any malfunction a vehicle is suffering or restore up to 50 of the vehicleís hit points at the cost of 25 gold in materials.
+In addition, during a short rest you can either repair any malfunction a vehicle is suffering or restore up to 50 of the vehicle√≠s hit points at the cost of 25 gold in materials.
 
 #### Weapon Smithing
 
@@ -363,7 +363,7 @@ Your excitement for your work is infectious and most find your quirky methodolog
 
 #### Sporadic Genius
 
-Youíre known for sudden bursts of insight and people listen to your fervorous insights. When you or another creature you can see within 30 feet of you makes an ability check or a saving throw, you can use your reaction to add your Intelligence modifier to the roll.
+You√≠re known for sudden bursts of insight and people listen to your fervorous insights. When you or another creature you can see within 30 feet of you makes an ability check or a saving throw, you can use your reaction to add your Intelligence modifier to the roll.
 
 You can use this feature a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a long rest.
 
@@ -402,21 +402,21 @@ In addition, your spell inventions have become streamlined enough that other cre
 
 ### Marvel of Innovation
 
-At 13th level, when you first gain this feature, choose a type of artisanís tools you are proficient with and a newly invented foodstuff, object, or trade good that could conceivably be crafted using those tools.
+At 13th level, when you first gain this feature, choose a type of artisan√≠s tools you are proficient with and a newly invented foodstuff, object, or trade good that could conceivably be crafted using those tools.
 
-For example, using brewerís supplies you
+For example, using brewer√≠s supplies you
 
-could invent carbonated sodas, using glassblowerís tools you could invent glowing iridium glassware, or using jewelerís tools you could invent a fine mechanism for better performing pocket watches.
+could invent carbonated sodas, using glassblower√≠s tools you could invent glowing iridium glassware, or using jeweler√≠s tools you could invent a fine mechanism for better performing pocket watches.
 
-Whenever you use your chosen tools to create trade goods, you can instead create your new invention as a trade good. Your new invention has a value equal to 5 times the value of normal trade goods created using those tools as shown on the Artisanís Tools and Profession Checks table on page 338 of the *Adventurerís Guide*.
+Whenever you use your chosen tools to create trade goods, you can instead create your new invention as a trade good. Your new invention has a value equal to 5 times the value of normal trade goods created using those tools as shown on the Artisan√≠s Tools and Profession Checks table on page 338 of the *Adventurer√≠s Guide*.
 
-Any other uses your invention may have are at the Narratorís discretion, but its utility shouldnít exceed that of other mundane adventuring gear.
+Any other uses your invention may have are at the Narrator√≠s discretion, but its utility shouldn√≠t exceed that of other mundane adventuring gear.
 
-In addition, your notoriety as a great inventor spreads along with your invention. While you are in a region youíve sold your invention in, you have advantage on prestige checks.
+In addition, your notoriety as a great inventor spreads along with your invention. While you are in a region you√≠ve sold your invention in, you have advantage on prestige checks.
 
 ### Technological Attunement
 
-At 14th level youíve managed to bypass many of the arcane roadblocks regarding magic item attunement through the clever use of technology.
+At 14th level you√≠ve managed to bypass many of the arcane roadblocks regarding magic item attunement through the clever use of technology.
 
 * + You can attune to up to 5 magic items at once.
   + You ignore all heritage, culture, class, level, and alignment requirements when attuning to or using a magic item.
@@ -429,7 +429,7 @@ At 17th level, when rolling the fizzle die would burn out one of your spell inve
 
 At 18th level, while you are attuned to a magic item that uses charges, you can use a bonus action to expend one infusion use
 
-and restore up to 1d6 of that itemís spent charges.
+and restore up to 1d6 of that item√≠s spent charges.
 
 ### Magical Automaton
 
@@ -437,7 +437,7 @@ At 20th level, whenever you create a spell invention, you may spend 25 additiona
 
 The exact design of your spell automaton is up to you, and it may resemble a humanoid creature, a boxy contraption, or be a magical construct flowing with arcane energies.
 
-Your spell automaton is an ally to you and your companions. In combat, the it shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you donít issue any, it takes the Dodge action and uses its move to avoid danger.
+Your spell automaton is an ally to you and your companions. In combat, the it shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don√≠t issue any, it takes the Dodge action and uses its move to avoid danger.
 
 You can maintain this spell automaton as if it was an infused item, requiring both the prepared spell invention and two uses of your infusion feature. You can repair your spell automaton to full hit points during a long rest so long as you have access to your tools of artifice. You can only maintain a single spell automaton at a time, and if you attempt to create a second spell automaton or fail to maintain one after finishing a long rest the spell automaton falls apart into scrap.
 
@@ -453,7 +453,7 @@ Spell Automaton
 
 **STR DEX CON INT WIS CHA**
 
-16 (+3)12 (+1)16 (+3)1 (ñ5) 6 (ñ2) 1 (ñ5)
+16 (+3)12 (+1)16 (+3)1 (√±5) 6 (√±2) 1 (√±5)
 
 ###### Proficiency +2; Maneuver DC 13
 
@@ -473,13 +473,13 @@ Spell Automaton
 
 ***Multiattack.*** The automaton attacks twice with its slams or once with its integrated spell.
 
-***Slam.*** *Melee Weapon Attack:* its creatorís spell attack modifier to hit, reach 5 ft., one target. *Hit:* 2d10 + 4 + your Intelligence modifier bludgeoning damage.
+***Slam.*** *Melee Weapon Attack:* its creator√≠s spell attack modifier to hit, reach 5 ft., one target. *Hit:* 2d10 + 4 + your Intelligence modifier bludgeoning damage.
 
 ***Integrated Spell.*** The automaton uses the spell invention integrated into it to cast a spell, using your spell attack bonus and spell save DC. If the spell invention integrated into it would burn out due to the result of the fizzle die, the automaton takes 30 damage instead.
 
 #### BONUS ACTIONS
 
-***Overclock (Recharge 5ñ6).*** The automaton takes the Dash action.
+***Overclock (Recharge 5√±6).*** The automaton takes the Dash action.
 
 ## Field Discoveries
 
@@ -491,7 +491,7 @@ You can improve fishing traps, hunting snares, and hunting traps as you set them
 
 ### Alchemical Prodigy
 
-When you first gain this field discovery, you gain two schematics of your choice and add them to your schematic book. These schematics must be for potions of common or uncommon rarity. You gain proficiency with alchemistís supplies, or if you are already proficient you gain an expertise die
+When you first gain this field discovery, you gain two schematics of your choice and add them to your schematic book. These schematics must be for potions of common or uncommon rarity. You gain proficiency with alchemist√≠s supplies, or if you are already proficient you gain an expertise die
 
 instead. In addition, you have advantage on checks made to create schematics for potions.
 
@@ -505,7 +505,7 @@ Whenever you begin a long rest that would incur the penalties of roughing it (su
 
 ### Orienteering
 
-With 1 minuteís work you can cobble together a makeshift compass. Compasses made in this way become useless after 1 hour and have no sale value. You also gain an expertise die on checks made for the Chronicle journey activity. In addition, you gain proficiency in Survival and its *wayfinding* skill specialty. If you already have this skill specialty you instead gain a Survival skill specialty of your choice.
+With 1 minute√≠s work you can cobble together a makeshift compass. Compasses made in this way become useless after 1 hour and have no sale value. You also gain an expertise die on checks made for the Chronicle journey activity. In addition, you gain proficiency in Survival and its *wayfinding* skill specialty. If you already have this skill specialty you instead gain a Survival skill specialty of your choice.
 
 ### Reengineering Nature
 
@@ -513,15 +513,15 @@ You may use Engineering in place of Survival when setting up camp or performing 
 
 ### Retraced Development
 
-With 1 hour of work you can create ramshackle versions of any type of artisanís tools out of wood and stone. You take a ñ2 penalty on checks made with these ramshackle tools, only you can make use of them, and they have no sale value, but you can use them just like normal versions of those tools and they can also be used as tools of artifice.
+With 1 hour of work you can create ramshackle versions of any type of artisan√≠s tools out of wood and stone. You take a √±2 penalty on checks made with these ramshackle tools, only you can make use of them, and they have no sale value, but you can use them just like normal versions of those tools and they can also be used as tools of artifice.
 
 ### Rope and Pulley Master
 
 By spending 10 minutes working with at least 300 feet of rope, you can create the following through ingenious use of ropes and pulleys.
 
 * + A rope system that provides safe travel over a gap of 50 feet or less. You must be able to access both sides of this gap to create a rope system in this way.
-  + A rope system that allows a creature to lift an object of a weight up to 5 ◊ its carrying capacity directly up as far as 50 feet.
-  + A rope system that allows a creature to drag an object of a weight up to 5 ◊ its carrying capacity as far as 50 feet.
+  + A rope system that allows a creature to lift an object of a weight up to 5 ‚óä its carrying capacity directly up as far as 50 feet.
+  + A rope system that allows a creature to drag an object of a weight up to 5 ‚óä its carrying capacity as far as 50 feet.
   + A manual rope elevator that allows a single Medium-sized or smaller creature to travel up to 50 feet straight up and down as if it were difficult terrain (a tree, cliff wall, ceiling, or similar structure is required at the top of this elevator for the ropes to attach).
 
 You can also deconstruct and recover the rope used in any of these rope
@@ -536,11 +536,11 @@ You gain the Engineering skill specialty *mechanical traps*. In addition, if you
 
 Your mastery of locomotion and gearing allows you to easily infuse elements of motion into simple devices. As an action you can create and place a Tiny moving gadget called a tinker toy (such as a walking doll, flying whirligig, or toy boat) out of 1 gold worth of materials. This tinker toy has AC 10, 1 hit point, and your choice of a Speed of 10 feet, fly speed of 10 feet, or swim speed of 10 feet. When you place this device it begins moving in a straight line until it is destroyed, it is blocked by an obstacle, or you use a bonus action to pick it up again. Tinker toys made in this way weigh 2 pounds, and can carry up to 1 pound worth of other devices or materials.
 
-Once you create a tinker toy in this way you cannot do so again until you finish a short rest, and any existing tinker toys youíve created fall apart whenever you create a new one.
+Once you create a tinker toy in this way you cannot do so again until you finish a short rest, and any existing tinker toys you√≠ve created fall apart whenever you create a new one.
 
 ## Artificer Archetypes
 
-Science has countless branching paths to takeóevery artificer has their own specialties and unique understanding of the universe, its physical laws, and how those laws can be broken. At 3rd level select one of the following artificer archetypes.
+Science has countless branching paths to take√≥every artificer has their own specialties and unique understanding of the universe, its physical laws, and how those laws can be broken. At 3rd level select one of the following artificer archetypes.
 
 ### Bombardier
 
@@ -554,7 +554,7 @@ You can use a bonus action to arm an alchemical grenade. An armed alchemical gre
 
 Alchemical grenades are thrown weapons with a range of 20/60 feet, and when an armed alchemical grenade hits a target it deals 1d6 force damage. This damage increases by 1d6 when you reach 5th level, 11th level, and 17th level (maximum 4d6). Whenever you hit a target with an alchemical grenade, each creature within 5 feet of the target makes a Dexterity saving throw or takes half as much damage as taken by the target (the target is immune to this effect). Whenever you miss with an armed alchemical grenade it explodes in a harmless location at the end of your turn.
 
-You can use this feature to arm a number of alchemical grenades equal to your proficiency bonus. Creating these alchemical grenades has no material costs. You regain all expended uses when you finish a short or long rest by mixing chemicals and soldering together new shells for later use. You cannot regain expended uses in this way if you donít have access to tools of artifice.
+You can use this feature to arm a number of alchemical grenades equal to your proficiency bonus. Creating these alchemical grenades has no material costs. You regain all expended uses when you finish a short or long rest by mixing chemicals and soldering together new shells for later use. You cannot regain expended uses in this way if you don√≠t have access to tools of artifice.
 
 Whenever you arm an alchemical grenade, you may select one of the following grenade types.
 
@@ -572,7 +572,7 @@ an Intelligence saving throw or is rattled until the end of its next turn. This 
 
 #### Combustible
 
-A target hit by this grenade takes 1d6 additional fire damage. This additional fire damage increases by 1d6 when you reach 5th level, 11th level, and 17th level (maximum 4d6). Flammable objects within 5 feet of the target that arenít being worn or carried ignite, taking 1d6 ongoing fire damage until a creature uses an action to smother the flames.
+A target hit by this grenade takes 1d6 additional fire damage. This additional fire damage increases by 1d6 when you reach 5th level, 11th level, and 17th level (maximum 4d6). Flammable objects within 5 feet of the target that aren√≠t being worn or carried ignite, taking 1d6 ongoing fire damage until a creature uses an action to smother the flames.
 
 #### Flashbang
 
@@ -580,7 +580,7 @@ A target hit by this grenade makes a Constitution saving throw or is blinded unt
 
 #### Bombardier Spells
 
-Starting at 3rd level, when you prepare your artificer spells you can prepare certain spells and create spell inventions for them in addition to your normal number of prepared spells. These spells count as artificer spells for you, even if they arenít on the artificer spell list.
+Starting at 3rd level, when you prepare your artificer spells you can prepare certain spells and create spell inventions for them in addition to your normal number of prepared spells. These spells count as artificer spells for you, even if they aren√≠t on the artificer spell list.
 
 **TABLE: BOMBARDIER SPELLS**
 
@@ -605,7 +605,7 @@ In addition, you may use your Intelligence when making attack and damage rolls u
 
 #### Precision Explosives
 
-At 9th level you learn the fine art of causing explosions when you *mean* to cause explosions. Whenever you arm an alchemical grenade or use Tactical Chemistry to create an alchemistís fire, black powder charge, smoke bomb, or tanglefoot bag, you can use an action to set it in an unoccupied space in one of the following ways.
+At 9th level you learn the fine art of causing explosions when you *mean* to cause explosions. Whenever you arm an alchemical grenade or use Tactical Chemistry to create an alchemist√≠s fire, black powder charge, smoke bomb, or tanglefoot bag, you can use an action to set it in an unoccupied space in one of the following ways.
 
 ***Set Trigger.*** You attach the item to an object or surface and choose a specific mechanical action that triggers it, such as an attached chest being opened, or the wheels of an attached wagon turning.
 
@@ -619,7 +619,7 @@ If an item set using this feature is normally thrown, any creature within 5 feet
 
 it explodes is treated as if it were hit by the item. If an item set in this way normally has an area of effect, that area is centered where the item was set.
 
-You may also set alchemistís fires, black powder charges, smoke bombs, and tanglefoot bags not created using Tactical Chemistry at the cost of 5 gold in materials per item set in this way.
+You may also set alchemist√≠s fires, black powder charges, smoke bombs, and tanglefoot bags not created using Tactical Chemistry at the cost of 5 gold in materials per item set in this way.
 
 #### Demolitions Master
 
@@ -637,26 +637,26 @@ When you select this archetype at 3rd level, you gain proficiency with air vehic
 
 #### Custom Vehicle
 
-At 3rd level you gain the ability to create your own custom personal vehicle. Your custom vehicle is a land vehicle with statistics as shown on Table: Engineerís vehicle.
+At 3rd level you gain the ability to create your own custom personal vehicle. Your custom vehicle is a land vehicle with statistics as shown on Table: Engineer√≠s vehicle.
 
-You can create this custom vehicle over the course of 8 hours of uninterrupted work. This vehicle is unique and its exact appearance is up to you. Your custom vehicle requires your regular care, and if you attempt to create another vehicle using this feature any vehicles youíve previously
+You can create this custom vehicle over the course of 8 hours of uninterrupted work. This vehicle is unique and its exact appearance is up to you. Your custom vehicle requires your regular care, and if you attempt to create another vehicle using this feature any vehicles you√≠ve previously
 
 constructed in this way fall apart into useless scrap. So long as you have access to your tools of artifice, you can restore your custom vehicle to full hit points and remove any malfunctions during a long rest.
 
-For more detailed information regarding vehicles, see Chapter 4: Equipment in the *Adventurerís Guide*.
+For more detailed information regarding vehicles, see Chapter 4: Equipment in the *Adventurer√≠s Guide*.
 
 Whenever you finish a long rest, you can make modifications to your custom vehicle by expending infusion uses. These modifications only remain functional due to your infusions, and you can maintain these modifications as if they were infused items. Any modifications you fail to maintain are removed whenever you finish a long rest.
 
 You can install any of the following modifications at the cost of 1 infusion each.
 
-**TABLE: ENGINEERíS VEHICLE**
+**TABLE: ENGINEER√≠S VEHICLE**
 
 |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **VEHICLE** | **SIZE**  **\*** | **AC** | **HP** | **SPEED** | **CREW** | **COST** | **SUPPLY** | **SPECIAL** |
 | Custom | Medi | 10 + your | 10 + your | 30 feet | 1 | 10 gp | 10 | Personal |
 | vehicle | um or | Intelligence | artificer | or 3 |  |  |  |  |
-|  | Large | Modifier | level ◊ 5 | miles |  |  |  |  |
+|  | Large | Modifier | level ‚óä 5 | miles |  |  |  |  |
 |  |  |  |  | per |  |  |  |  |
 |  |  |  |  | hour |  |  |  |  |
 
@@ -666,7 +666,7 @@ inventions are destroyed if your custom vehicle is destroyed.
 
 #### Armor Plating
 
-Your custom vehicleís AC increases by 2.
+Your custom vehicle√≠s AC increases by 2.
 
 #### All-Terrain
 
@@ -674,7 +674,7 @@ Your custom vehicle ignores difficult terrain.
 
 #### Chemical Boosters
 
-While driving your vehicle, you can use a bonus action to increase its speed by 30 feet for 1 minute. Once the vehicleís speed is increased in this way it cannot benefit from this modification again until you finish a long rest maintaining or reinstalling this modification.
+While driving your vehicle, you can use a bonus action to increase its speed by 30 feet for 1 minute. Once the vehicle√≠s speed is increased in this way it cannot benefit from this modification again until you finish a long rest maintaining or reinstalling this modification.
 
 #### Enhanced Brakes
 
@@ -690,7 +690,7 @@ Your custom vehicle gains a climb speed of 30 feet or 3 miles per hour.
 
 #### Motorized Wheels
 
-Your custom vehicleís Speed increases to 50 feet or 5 miles per hour.
+Your custom vehicle√≠s Speed increases to 50 feet or 5 miles per hour.
 
 #### Passenger Seat
 
@@ -710,7 +710,7 @@ While driving your custom vehicle, you gain the benefits of half cover.
 
 #### Engineer Spells
 
-Also at 3rd level, when you prepare your artificer spells you can prepare certain spells and create spell inventions for them (or forgo them for modifications to your custom vehicle) in addition to your normal number of prepared spells. These spells count as artificer spells for you, even if they arenít on the artificer spell list.
+Also at 3rd level, when you prepare your artificer spells you can prepare certain spells and create spell inventions for them (or forgo them for modifications to your custom vehicle) in addition to your normal number of prepared spells. These spells count as artificer spells for you, even if they aren√≠t on the artificer spell list.
 
 **TABLE: ENGINEER SPELLS**
 
@@ -728,9 +728,9 @@ Also at 3rd level, when you prepare your artificer spells you can prepare certai
 
 #### Pinpoint Maneuvering
 
-Starting at 5th level, while driving a vehicle, whenever an action would allow you to change the vehicleís facing up to 90 degrees, you may change it up to 180 degrees instead.
+Starting at 5th level, while driving a vehicle, whenever an action would allow you to change the vehicle√≠s facing up to 90 degrees, you may change it up to 180 degrees instead.
 
-In addition, whenever an attack hits a vehicle youíre driving or a collision occurs involving a vehicle you are driving, you can use your reaction to avoid the worst of it, reducing the damage your vehicle would take by the result of a vehicle check (air, land, or water as appropriate to the vehicle).
+In addition, whenever an attack hits a vehicle you√≠re driving or a collision occurs involving a vehicle you are driving, you can use your reaction to avoid the worst of it, reducing the damage your vehicle would take by the result of a vehicle check (air, land, or water as appropriate to the vehicle).
 
 #### Advanced Vehicle Modifications
 
@@ -742,7 +742,7 @@ The vehicle becomes an air vehicle (with a fly speed of 50 feet or 5 miles per h
 
 #### Buzzsaws
 
-Your custom vehicle gains inbuilt defenses in the form of motorized saws. While driving your custom vehicle you can make an attack using the saws as an action at any time during the vehicleís movement.
+Your custom vehicle gains inbuilt defenses in the form of motorized saws. While driving your custom vehicle you can make an attack using the saws as an action at any time during the vehicle√≠s movement.
 
 They are a 2d12 weapon, they can target any creature adjacent to the vehicle, and they add your Intelligence modifier for their attack and damage rolls.
 
@@ -752,7 +752,7 @@ While driving your custom vehicle, you gain the benefits of three-quarters-cover
 
 #### Grabbing Claws
 
-Your custom vehicle has a pair of mechanical claws that you can attack with by using an action while driving it. You gain proficiency with the claws and may use your Intelligence when making attack and damage rolls with them. On a hit the claws deal 2d6 bludgeoning or piercing damage (chosen when you make the modification) and a creature makes a Strength or Dexterity saving throw against a DC equal to your passive Engineering score or becomes grappled. Creatures can attempt to escape this grapple as normal, using your passive Engineering score instead of your maneuver DC. Your custom vehicleís movement is not
+Your custom vehicle has a pair of mechanical claws that you can attack with by using an action while driving it. You gain proficiency with the claws and may use your Intelligence when making attack and damage rolls with them. On a hit the claws deal 2d6 bludgeoning or piercing damage (chosen when you make the modification) and a creature makes a Strength or Dexterity saving throw against a DC equal to your passive Engineering score or becomes grappled. Creatures can attempt to escape this grapple as normal, using your passive Engineering score instead of your maneuver DC. Your custom vehicle√≠s movement is not
 
 impeded by grappling a creature, and your vehicle may grapple a maximum of 1 creature at a time.
 
@@ -775,11 +775,11 @@ At 15th level, whenever you make modifications to your custom vehicle, you may c
 
 #### Bonus Proficiencies
 
-When you select this archetype at 3rd level, you gain proficiency with the sewing kit and leatherworkerís tools. If you already had any of these proficiencies you gain an expertise die with that type of tool instead.
+When you select this archetype at 3rd level, you gain proficiency with the sewing kit and leatherworker√≠s tools. If you already had any of these proficiencies you gain an expertise die with that type of tool instead.
 
 #### Stitcher Spells
 
-At 3rd level, when you prepare your artificer spells you can prepare certain spells and create spell inventions for them (or forgo them for modifications) in addition to your normal number of prepared spells. These spells count as artificer spells for you, even if they arenít on the artificer spell list.
+At 3rd level, when you prepare your artificer spells you can prepare certain spells and create spell inventions for them (or forgo them for modifications) in addition to your normal number of prepared spells. These spells count as artificer spells for you, even if they aren√≠t on the artificer spell list.
 
 **TABLE: STITCHER SPELLS**
 
@@ -796,7 +796,7 @@ At 3rd level, when you prepare your artificer spells you can prepare certain spe
 
 Also at 3rd level you become able to create a monstrous minion.
 
-You can create this monstrous minion by spending 8 hours of uninterrupted work on a humanoid corpse that has been dead no more than 24 hours. This monstrous minion is unique and its exact appearance is up to you. It follows you and is loyal to you, but it acts independently. In combat, it rolls its own initiative and acts on its own turn. Your monstrous minion wonít attack except as a reaction to being attacked, but it can take
+You can create this monstrous minion by spending 8 hours of uninterrupted work on a humanoid corpse that has been dead no more than 24 hours. This monstrous minion is unique and its exact appearance is up to you. It follows you and is loyal to you, but it acts independently. In combat, it rolls its own initiative and acts on its own turn. Your monstrous minion won√≠t attack except as a reaction to being attacked, but it can take
 
 other actions as normal and makes death saving throws. You can only have one monstrous minion at a time, and any previously created monstrous minion collapses into a corpse when you create another.
 
@@ -804,11 +804,11 @@ On your turn you can use a bonus action to order your monstrous minion to perfor
 
 Your monstrous minion is a **zombie** (see *Monstrous Menagerie*) with the following improvements.
 
-* Your monstrous minionís type changes to monstrosity.
-* Whenever your monstrous minion rolls initiative, it gains a number of temporary hit points equal to your artificer level ◊ your proficiency bonus.
-* Your monstrous minionís Armor Class increases by an amount equal to your proficiency bonus.
+* Your monstrous minion√≠s type changes to monstrosity.
+* Whenever your monstrous minion rolls initiative, it gains a number of temporary hit points equal to your artificer level ‚óä your proficiency bonus.
+* Your monstrous minion√≠s Armor Class increases by an amount equal to your proficiency bonus.
 * Your monstrous minion adds your proficiency bonus to its attack and damage rolls.
-* Your monstrous minion regains all lost hit points at the end of a long rest so long as you can tend to it with leatherworkerís tools or a sewing kit.
+* Your monstrous minion regains all lost hit points at the end of a long rest so long as you can tend to it with leatherworker√≠s tools or a sewing kit.
 
 Whenever you finish a long rest, you can graft modifications onto your monstrous minion at the cost of infusion uses. These modifications only remain functional due to your infusions, and you can maintain these modifications as if they were infused items. Any modifications you fail to maintain are removed whenever you finish a long rest.
 
@@ -828,11 +828,11 @@ Your monstrous minion gains a climb speed of 20 feet. In addition, the maneuver 
 
 #### Extra Legs
 
-Your monstrous minionís Speed increases by 15 feet. You must have access to at least one additional humanoid corpse that has been dead no more than 24 hours to graft this modification.
+Your monstrous minion√≠s Speed increases by 15 feet. You must have access to at least one additional humanoid corpse that has been dead no more than 24 hours to graft this modification.
 
 #### Fine Stitchwork
 
-Your stitchwork is barely noticeable and with a heavy coat or similar accouterments your monstrous minion can pass for a living creature. When you graft this modification, make a leatherworkerís tools or sewing kit check. Creatures must make a Perception check with a DC equal to your check result to visually determine that your minion is a monstrosity.
+Your stitchwork is barely noticeable and with a heavy coat or similar accouterments your monstrous minion can pass for a living creature. When you graft this modification, make a leatherworker√≠s tools or sewing kit check. Creatures must make a Perception check with a DC equal to your check result to visually determine that your minion is a monstrosity.
 
 #### Grafted Spell Invention
 
@@ -844,7 +844,7 @@ When you prepare your spell inventions and modifications to your monstrous minio
 
 #### Infectious Bite
 
-Your monstrous minionís bite attack deals an additional 1d4 ongoing necrotic damage that persists until the target regains hit points or is medically administered to with a DC 15 Medicine check. This damage increases by 1d4 when you reach 11th level.
+Your monstrous minion√≠s bite attack deals an additional 1d4 ongoing necrotic damage that persists until the target regains hit points or is medically administered to with a DC 15 Medicine check. This damage increases by 1d4 when you reach 11th level.
 
 If the target is a beast, dragon, giant, humanoid, or monstrosity and it dies while suffering from this effect, it rises as a zombie after 1 minute, gaining the **zombie template**. Zombies created in this way are hostile to all non-undead and are not under your control.
 
@@ -856,22 +856,22 @@ This damage increases by 1d6 when you reach 11th level.
 
 #### Thicker Skin
 
-Your monstrous minionís Armor Class increases by 2.
+Your monstrous minion√≠s Armor Class increases by 2.
 
 #### Vigor Mortis
 
-Your monstrous minion can take the Dash action as a bonus action. It canít do so again until it moves 0 feet on its turn.
+Your monstrous minion can take the Dash action as a bonus action. It can√≠t do so again until it moves 0 feet on its turn.
 
 #### Medical Sutures
 
-Starting at 5th level youíve turned your arcano-science expertise towards first aid. You can create the following additional items using Tactical Chemistry:
+Starting at 5th level you√≠ve turned your arcano-science expertise towards first aid. You can create the following additional items using Tactical Chemistry:
 
 * bandage
 * healing satchel (1 use)
 
-In addition, you can reattach a severed limb or body part. The limb or body part must be relatively intact and the injury must be no more than 8 hours old. The reattaching process takes 1 hour and requires a DC 14 leatherworkerís tools or sewing kit check. On a success the limb or body part is attached and functional with no further complications. On a failure the limb cannot be saved.
+In addition, you can reattach a severed limb or body part. The limb or body part must be relatively intact and the injury must be no more than 8 hours old. The reattaching process takes 1 hour and requires a DC 14 leatherworker√≠s tools or sewing kit check. On a success the limb or body part is attached and functional with no further complications. On a failure the limb cannot be saved.
 
-Alternatively, you can replace a lost limb or body part with a donor part. This donor part must be analogous to a missing part (an arm for an arm, a leg for a leg), and it must be from a humanoid creature of the same size. The reattaching process requires a DC 20 leatherworkerís tools or sewing kit check when performed in this way.
+Alternatively, you can replace a lost limb or body part with a donor part. This donor part must be analogous to a missing part (an arm for an arm, a leg for a leg), and it must be from a humanoid creature of the same size. The reattaching process requires a DC 20 leatherworker√≠s tools or sewing kit check when performed in this way.
 
 #### Advanced Grafting
 
@@ -881,29 +881,29 @@ At 9th level, the following modifications are added to your list of modification
 
 You must have access to the corpse of a dragon that has been dead no more than 24 hours to graft this modification. Your monstrous minion gains the following breath weapon attack.
 
-***Stolen Breath (Recharge 5ñ6).*** The monster exhales the putrid and infected gullet of a fallen dragon in a 30-foot cone. Each creature in the area makes a Dexterity saving throw. A creature takes 3d6 necrotic damage and 3d6 damage of the type the dragon breathed in life on a
+***Stolen Breath (Recharge 5√±6).*** The monster exhales the putrid and infected gullet of a fallen dragon in a 30-foot cone. Each creature in the area makes a Dexterity saving throw. A creature takes 3d6 necrotic damage and 3d6 damage of the type the dragon breathed in life on a
 
 failed saving throw, or half damage on a success.
 
 #### Giant Muscles
 
-You must have access to the corpse of a giant that has been dead no more than 24 hours to graft this modification. Your monstrous minionís Strength increases by 6.
+You must have access to the corpse of a giant that has been dead no more than 24 hours to graft this modification. Your monstrous minion√≠s Strength increases by 6.
 
 #### Grim Duplicate
 
-You must have access to the corpse of a humanoid that has been dead no more than 24 hours to graft this modification. Your monstrous minion has the face and features of the humanoid used to make this modification. When you graft this modification, make a leatherworkerís tools or sewing kit check. Creatures must make a Perception check with a DC equal to the result or your check to visually determine that your minion is not the humanoid used to create it, realizing it is a monstrosity on a success by 5 or more.
+You must have access to the corpse of a humanoid that has been dead no more than 24 hours to graft this modification. Your monstrous minion has the face and features of the humanoid used to make this modification. When you graft this modification, make a leatherworker√≠s tools or sewing kit check. Creatures must make a Perception check with a DC equal to the result or your check to visually determine that your minion is not the humanoid used to create it, realizing it is a monstrosity on a success by 5 or more.
 
 #### Monstrous Part
 
-You must have access to the corpse of a monstrosity with a CR no greater than half your artificer level that has been dead no more than 24 hours to graft this modification. Your monstrous minion gains a trait or attack unique to that monstrosity, such as the barbed tail (and tail attack) of a manticore or the head (and gaze attack) of a yeti. The parts of a monstrosity that can grant an attack or trait are at the Narratorís discretion.
+You must have access to the corpse of a monstrosity with a CR no greater than half your artificer level that has been dead no more than 24 hours to graft this modification. Your monstrous minion gains a trait or attack unique to that monstrosity, such as the barbed tail (and tail attack) of a manticore or the head (and gaze attack) of a yeti. The parts of a monstrosity that can grant an attack or trait are at the Narrator√≠s discretion.
 
 #### Risen Beast
 
 You must have access to the corpse of a beast with a CR of 1 or less that has been dead no more than 24 hours to graft this modification. Your monstrous minion uses the statistics of the beast with the **zombie template** (page 435 in *Monstrous Menagerie*), gaining the other improvements found in the Monster Minion feature as normal.
 
-#### Itís Alive!
+#### It√≠s Alive!
 
-At 15th level youíve beaten deathómostly. You gain the *resurrection* spell and when you prepare your artificer spells you can prepare it and create a spell invention for it (or forgo it for a modification) in addition to your normal number of prepared spells. This spell counts as a 5th-level artificer spell for you and you can cast it without the usual material components, but a creature you target with it gains the monstrosity type and cannot be targeted by this feature again.
+At 15th level you√≠ve beaten death√≥mostly. You gain the *resurrection* spell and when you prepare your artificer spells you can prepare it and create a spell invention for it (or forgo it for a modification) in addition to your normal number of prepared spells. This spell counts as a 5th-level artificer spell for you and you can cast it without the usual material components, but a creature you target with it gains the monstrosity type and cannot be targeted by this feature again.
 
 ## Artificer Spell List
 
@@ -955,7 +955,7 @@ As an artificer you may choose from the following spells.
 
 ***Burning Hands* (evo):** Shoot forth a sheet of flames from your hands, damaging creatures in a cone.
 
-***Calculated Retribution* (abj):** Surround yourself with a dampening magical field and collect the energy of your foesí attacks to use against them.
+***Calculated Retribution* (abj):** Surround yourself with a dampening magical field and collect the energy of your foes√≠ attacks to use against them.
 
 ***Comprehend Languages* (div):** Use magic to better interpret languages you do not understand.
 
@@ -979,7 +979,7 @@ As an artificer you may choose from the following spells.
 
 ***Jump* (tra):** Imbue a creature with astonishing leaping abilities.
 
-***Longstrider* (tra):** Increase a creatureís Speed.
+***Longstrider* (tra):** Increase a creature√≠s Speed.
 
 ***Purify Food and Drink* (tra):** Cleanse food and drink of poisons and disease.
 
@@ -993,7 +993,7 @@ As an artificer you may choose from the following spells.
 
 ***Blur* (ill):** Cloak yourself in distortion, imposing disadvantage on attacks against you.
 
-***Continual Flame* (evo):** Create a torch-like flame that canít be extinguished.
+***Continual Flame* (evo):** Create a torch-like flame that can√≠t be extinguished.
 
 ***Darkvision* (tra**): Grant a creature the ability to see in the dark.
 
@@ -1001,7 +1001,7 @@ As an artificer you may choose from the following spells.
 
 ***Enhance Ability* (tra):** Increase the effectiveness of one ability score for a creature.
 
-***Enlarge/Reduce* (tra):** Increase or decrease a creatureís size.
+***Enlarge/Reduce* (tra):** Increase or decrease a creature√≠s size.
 
 ***Find Traps* (div):** Know whether traps are present.
 
@@ -1013,7 +1013,7 @@ As an artificer you may choose from the following spells.
 
 ***Hold Person* (enc):** Paralyze a humanoid.
 
-***Invigorated Strikes* (tra):** Increase the damage dealt by a creatureís unarmed strikes and natural weapons.
+***Invigorated Strikes* (tra):** Increase the damage dealt by a creature√≠s unarmed strikes and natural weapons.
 
 ***Invisibility* (ill):** Render a creature invisible so long as it does not attack or cast spells.
 
@@ -1039,7 +1039,7 @@ As an artificer you may choose from the following spells.
 
 ***Clairvoyance* (div):** Create a sensor at a distance, allowing you to see or hear through it.
 
-***Cobraís Spit* (cjr):** Spit venom at a creature within 30 feet.
+***Cobra√≠s Spit* (cjr):** Spit venom at a creature within 30 feet.
 
 ***Crushing Haymaker* (evo):** Deliver a devastating strike that deals thunder damage and lays your target low.
 
@@ -1139,12 +1139,12 @@ This transformation is no less painful than an involuntary change, but you retai
 
 * Your Armor Class is 13 + your Dexterity modifier + your proficiency bonus.
 * You cannot speak or cast spells.
-* Any features or traits from your class, destiny, or culture are unaffected if your current form is physically capable of using them. However, you canít utilize any traits gained from your heritage while transformed.
+* Any features or traits from your class, destiny, or culture are unaffected if your current form is physically capable of using them. However, you can√≠t utilize any traits gained from your heritage while transformed.
 * Your equipment does not transform with you. Any clothes or armor are destroyed if you transform while wearing them.
 
 ***Wolfsbane Weakness.*** While in hybrid or beast form you are poisoned while within 10 feet of a living or dried wolfsbane flower that you can smell.
 
-For more information on lycanthropes and lycanthropy, see pages 310ñ315 in *Monstrous Menagerie*.
+For more information on lycanthropes and lycanthropy, see pages 310√±315 in *Monstrous Menagerie*.
 
 ### Curse Bearer
 
@@ -1164,7 +1164,7 @@ Increase your Charisma by 1, to a maximum of 20.
 
 You can speak with animals (as the spell) of the same type as your curse (bears for a wereboar, boars for a wereboar, and so on). You can also cast *animal friendship* without spending material components, but are only able to target animals of the same type as your curse. Once you have used this feature
 
-to cast *animal friendship*, you canít use it again until you finish a long rest. In addition, you have advantage on Charisma checks made against animals when the moon is full.
+to cast *animal friendship*, you can√≠t use it again until you finish a long rest. In addition, you have advantage on Charisma checks made against animals when the moon is full.
 
 ### Moon Speech
 
@@ -1200,7 +1200,7 @@ While you are transformed, you gain the following features.
 
 fatigue. While you are transformed, you gain the following features.
 
-***Bear Grab.*** If you hit a Medium or smaller creature with your claw attack, it is grappled. Until this grapple ends, you canít use two-handed weapons and canít attack a different target with your claw.
+***Bear Grab.*** If you hit a Medium or smaller creature with your claw attack, it is grappled. Until this grapple ends, you can√≠t use two-handed weapons and can√≠t attack a different target with your claw.
 
 ***Crescent Moon Defense.*** You gain resistance against slashing, bludgeoning, and piercing damage from weapons that are not magical or silvered.
 
@@ -1268,7 +1268,7 @@ While you are transformed, you gain the following features.
 
 ***Bite.*** You gain a bite natural weapon you are proficient with. You can use Dexterity instead of Strength for the attack rolls of your bite. On a hit your bite deals piercing damage equal to 1d4 plus your Strength modifier or Dexterity modifier (whichever is highest).
 
-***Darkvision.*** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You canít discern color in darkness, only shades of gray. If you already have darkvision, its range increases by 30 feet.
+***Darkvision.*** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can√≠t discern color in darkness, only shades of gray. If you already have darkvision, its range increases by 30 feet.
 
 ***Keen Smell.*** You have advantage on Perception checks that rely on smell.
 
@@ -1308,7 +1308,7 @@ tiger-humanoid hybrid.
 
 While you are transformed, you gain the following features.
 
-***Darkvision.*** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You canít discern color in darkness, only shades of gray. If you already have darkvision, its range increases by 30 feet.
+***Darkvision.*** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can√≠t discern color in darkness, only shades of gray. If you already have darkvision, its range increases by 30 feet.
 
 ***Fang and Claw.*** You gain a bite natural weapon and claw natural weapons which you are proficient with. You can use Dexterity instead of Strength for the attack rolls of your bite or claw. On a hit your bite or claw deals piercing damage equal to 1d6 plus your Strength modifier or Dexterity modifier (whichever is highest).
 
@@ -1352,7 +1352,7 @@ wolf-humanoid hybrid.
 
 While you are transformed, you gain the following features.
 
-***Darkvision.*** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You canít discern color in darkness, only shades of gray. If you already have darkvision, its range increases by 30 feet.
+***Darkvision.*** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can√≠t discern color in darkness, only shades of gray. If you already have darkvision, its range increases by 30 feet.
 
 ***Fang and Claw.*** You gain a bite natural weapon and claw natural weapons which you are proficient with. You can use Dexterity instead of Strength for the attack rolls of your bite or claw. On a hit your bite or claw deals piercing damage equal to 1d6 plus your Strength modifier or Dexterity modifier (whichever is highest).
 
@@ -1386,7 +1386,7 @@ You have completely mastered the wolf within. You can transform one additional t
 
 # Jabberwock
 
-The jabberwock is a gangly, long-necked dragon native to the faerie realm. Although its appearance is unlikely, even the mightiest heroes must beware the jabberwockís claws that grab and eyes of flame. Spellcasters in particular fear its burbling speech, a magical singsong that ruins spells and reduces words to nonsense.
+The jabberwock is a gangly, long-necked dragon native to the faerie realm. Although its appearance is unlikely, even the mightiest heroes must beware the jabberwock√≠s claws that grab and eyes of flame. Spellcasters in particular fear its burbling speech, a magical singsong that ruins spells and reduces words to nonsense.
 
 JABBERWOCK CHALLENGE 18
 
@@ -1422,35 +1422,35 @@ Perception +11
 
 **Languages** Jabber
 
-***Legendary Resistance (3/Day).*** When the jabberwock fails a saving throw, it can choose to succeed instead. It canít do so against an effect that would sever one of its body parts.
+***Legendary Resistance (3/Day).*** When the jabberwock fails a saving throw, it can choose to succeed instead. It can√≠t do so against an effect that would sever one of its body parts.
 
-***Reactive.*** The jabberwock can take three reactions per round. It canít take more than one reaction on the same turn.
+***Reactive.*** The jabberwock can take three reactions per round. It can√≠t take more than one reaction on the same turn.
 
-***Regeneration.*** The jabberwock regains 20 hit points at the start of its turn. The jabberwock dies only if its head is severed. A creature can sever the jabberwockís head by dealing 15 slashing damage to it in a single turn while it has 0 hit points.
+***Regeneration.*** The jabberwock regains 20 hit points at the start of its turn. The jabberwock dies only if its head is severed. A creature can sever the jabberwock√≠s head by dealing 15 slashing damage to it in a single turn while it has 0 hit points.
 
 ***Vorpal Weakness.*** While the jabberwocky is bloodied, a roll of 16 or higher with a *sword of sharpness* or *vorpal sword* is treated as a 20.
 
-***Whiffling Flight.*** The jabberwockís flight is clumsy and unpredictable. While the jabberwock is flying it has disadvantage on attack rolls and attack rolls against it have disadvantage.
+***Whiffling Flight.*** The jabberwock√≠s flight is clumsy and unpredictable. While the jabberwock is flying it has disadvantage on attack rolls and attack rolls against it have disadvantage.
 
 ACTIONS
 
 ***Multiattack.*** The jabberwock attacks once with its bite and twice with its claw.
 
-***Bite.*** *Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:* 26 (3d12 + 7) slashing damage. On a critical hit against a creature, the jabberwockís teeth debilitate a limb until the character completes a long rest or is restored to full hit points. At the Narrator's discretion, the target might suffer a permanent wound that requires the *regeneration* spell. For a typical humanoid, roll 1d6: 1ñ3 arm (preventing the use of that arm to hold items or wear a shield), 4ñ6 leg (halving the targetís Speed).
+***Bite.*** *Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:* 26 (3d12 + 7) slashing damage. On a critical hit against a creature, the jabberwock√≠s teeth debilitate a limb until the character completes a long rest or is restored to full hit points. At the Narrator's discretion, the target might suffer a permanent wound that requires the *regeneration* spell. For a typical humanoid, roll 1d6: 1√±3 arm (preventing the use of that arm to hold items or wear a shield), 4√±6 leg (halving the target√≠s Speed).
 
 ***Claw.*** *Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:* 20 (3d8 + 7) slashing damage. If the target is a creature, it is grappled (escape DC 21). Until this grapple ends, the target is restrained. The jabberwock can have up to two creatures grappled at a time.
 
-***Eyes of Flame (Recharge 5ñ6).*** The jabberwockís gaze ignites everything in a 60-foot cone. Each creature in that area makes a DC 21 Dexterity saving throw, taking 49 (14d6) fire damage on a failed save or half damage on a success.
+***Eyes of Flame (Recharge 5√±6).*** The jabberwock√≠s gaze ignites everything in a 60-foot cone. Each creature in that area makes a DC 21 Dexterity saving throw, taking 49 (14d6) fire damage on a failed save or half damage on a success.
 
 BONUS ACTIONS
 
-***Burble.*** The jabberwock speaks in the magical Jabber language. Each creature within 30 feet of the jabberwock that can hear it and that doesnít speak Jabber makes a DC 20 Wisdom saving throw. On a failure, the creature is subjected to a burbling curse. While cursed, half the words the creature speaks are replaced with words in the Jabber language. Each time the creature speaks, casts a spell with a vocalized component, or uses an
+***Burble.*** The jabberwock speaks in the magical Jabber language. Each creature within 30 feet of the jabberwock that can hear it and that doesn√≠t speak Jabber makes a DC 20 Wisdom saving throw. On a failure, the creature is subjected to a burbling curse. While cursed, half the words the creature speaks are replaced with words in the Jabber language. Each time the creature speaks, casts a spell with a vocalized component, or uses an
 
-effect that requires listeners to understand its words, the creature must roll a d20. On a roll of 1ñ9, the speech is unintelligible or the spell or effect is wasted. The creature repeats the saving throw whenever it finishes a long rest, ending the curse on a success. If a creatureís saving throw is successful or the effect ends for it, it is immune to Burble for 24 hours.
+effect that requires listeners to understand its words, the creature must roll a d20. On a roll of 1√±9, the speech is unintelligible or the spell or effect is wasted. The creature repeats the saving throw whenever it finishes a long rest, ending the curse on a success. If a creature√≠s saving throw is successful or the effect ends for it, it is immune to Burble for 24 hours.
 
 REACTIONS
 
-***Claws that Catch.*** When a creature escapes the jabberwockís grapple, the jabberwock makes a claw attack against that creature.
+***Claws that Catch.*** When a creature escapes the jabberwock√≠s grapple, the jabberwock makes a claw attack against that creature.
 
 ***Jaws that Bite.*** When a creature that the jabberwock can see makes a melee attack against it, the jabberwock makes a bite attack against that creature.
 
@@ -1458,7 +1458,7 @@ REACTIONS
 
 **Combat**
 
-While flying, the jabberwock uses Eyes of Flame. The jabberwock then lands, attacking one opponent with a bite and a claw and a different opponent with its second claw. It focuses on spellcasters, grappling them and using Burble to hamper their spells. It prefers to use its reaction to bite a grappled creature. If it isnít grappling a creature, it uses Whiffling Dodge. The jabberwock flies away if it takes slashing damage while it is bloodied. When it retreats, it carries with it any creatures it is grappling.
+While flying, the jabberwock uses Eyes of Flame. The jabberwock then lands, attacking one opponent with a bite and a claw and a different opponent with its second claw. It focuses on spellcasters, grappling them and using Burble to hamper their spells. It prefers to use its reaction to bite a grappled creature. If it isn√≠t grappling a creature, it uses Whiffling Dodge. The jabberwock flies away if it takes slashing damage while it is bloodied. When it retreats, it carries with it any creatures it is grappling.
 
 Jabberwock Variant: Jabberwocky
 
@@ -1466,7 +1466,7 @@ Jabberwocky is a CR 24 (62,000) XP) monster. It has 405 (30d12 + 210; bloodied 2
 
 ***Manxome Burble.*** Whenever a creature that was cursed by Jabberwocky speaks, each listener must succeed on a DC 20 Wisdom saving throw or be subject to
 
-Burbling Curse. A listener cursed in this way canít spread the curse any further.
+Burbling Curse. A listener cursed in this way can√≠t spread the curse any further.
 
 Jabberwocky has the following additional reaction:
 
@@ -1474,7 +1474,7 @@ Jabberwocky has the following additional reaction:
 
 ## Fateholder
 
-A giant arachnid with eight multicolored eyes, a fateholder fixes its prey with an unsettling gaze that can read, or even alter, the victimís past, present, and future.
+A giant arachnid with eight multicolored eyes, a fateholder fixes its prey with an unsettling gaze that can read, or even alter, the victim√≠s past, present, and future.
 
 **FATEHOLDER** CHALLENGE 13 LEGENDARY LARGE MONSTROSITY 10,000 XP
 
@@ -1506,7 +1506,7 @@ Intimidation +9, Perception +10, Stealth
 
 **Ethereal Sight.** The fateholder can see into both the Material and Ethereal Plane.
 
-**Innate Spellcasting.** The fateholderís spellcasting ability is Wisdom (spell save DC 18). It can innately cast the following spells, requiring no material components:
+**Innate Spellcasting.** The fateholder√≠s spellcasting ability is Wisdom (spell save DC 18). It can innately cast the following spells, requiring no material components:
 
 3/day each: alarm, detect thoughts, legend lore, mirage arcane, misty step, scrying
 
@@ -1516,7 +1516,7 @@ Intimidation +9, Perception +10, Stealth
 
 Roll d8 on the list of Eye Beam secondary effects. Targets automatically succeed on saving throws against that effect.
 
-**Psionic Awareness.** When a creature within 1 mile of the fateholder uses a psionic ability, the fateholder knows the creatureís direction but not its distance.
+**Psionic Awareness.** When a creature within 1 mile of the fateholder uses a psionic ability, the fateholder knows the creature√≠s direction but not its distance.
 
 **Spider Climb.** The fateholder can use its climb speed even on difficult surfaces and upside down on ceilings.
 
@@ -1532,16 +1532,16 @@ ACTIONS
 
 **Eye Beam.** Ranged Spell Attack: +10 to hit, range 120 ft., one target. Hit: 9 (2d8) psychic damage and the target must succeed on a DC 17 Constitution saving throw or be subjected to one of the following randomly chosen secondary effects:
 
-1. *Alter Fate.* The target gains the doomed condition. It is aware it will die as a result of a bizarre series of coincidences in 13 (2d12) hours. In addition to the normal means of removing the condition, it can be avoided if the fateholder dies or chooses to end it as an action. Alternatively, the fateholder can instead permanently replace the targetís destiny with one of the fateholderís choice. A character who has unlocked the fulfillment feature of their previous destiny is considered to have already unlocked that of their new destiny.
+1. *Alter Fate.* The target gains the doomed condition. It is aware it will die as a result of a bizarre series of coincidences in 13 (2d12) hours. In addition to the normal means of removing the condition, it can be avoided if the fateholder dies or chooses to end it as an action. Alternatively, the fateholder can instead permanently replace the target√≠s destiny with one of the fateholder√≠s choice. A character who has unlocked the fulfillment feature of their previous destiny is considered to have already unlocked that of their new destiny.
 2. *Cut Strand.* The target takes an additional 13 (3d8) necrotic damage. If this damage reduces the target to 0 hit points it dies, its body disappears, and creatures that are more than 100 feet away when it dies forget about its existence until reminded. This effect can only be undone with wish or true resurrection.
-3. *Foreshadow.* The next hit on the target before the end of the fateholderís next turn is a critical hit.
-4. *Seal Spells.* The target canít cast spells or use psionic abilities until the end of its next turn.
-5. *Shift Reality.* The fateholder teleports the target to an unoccupied space within 120 feet of the fateholder. The space must be on a solid surface but the fateholder doesnít need to see it.
+3. *Foreshadow.* The next hit on the target before the end of the fateholder√≠s next turn is a critical hit.
+4. *Seal Spells.* The target can√≠t cast spells or use psionic abilities until the end of its next turn.
+5. *Shift Reality.* The fateholder teleports the target to an unoccupied space within 120 feet of the fateholder. The space must be on a solid surface but the fateholder doesn√≠t need to see it.
 6. *Tangle Psyches.* The target is confused until the end of its next turn as several alternate versions of itself vie for mental control.
 7. *Terrify.* The target is frightened until the end of its next turn. While frightened in this way, its Speed is 0.
-8. *Twist History.* The fateholder alters a Large or smaller nonmagical object, or a 10-foot cube of a nonmagical Huge or larger object, within 5 feet of the target, replacing it with a similar object from another version of reality. The fateholder can create or destroy the object or change its nature (for instance, adding or removing a door to a wall). This change canít immediately cause a creature or object to take damage or fall.
+8. *Twist History.* The fateholder alters a Large or smaller nonmagical object, or a 10-foot cube of a nonmagical Huge or larger object, within 5 feet of the target, replacing it with a similar object from another version of reality. The fateholder can create or destroy the object or change its nature (for instance, adding or removing a door to a wall). This change can√≠t immediately cause a creature or object to take damage or fall.
 
-**Ethereal Web (Recharge 5ñ6).** The fateholder releases ethereal silk in a 60-foot cone. The area is filled with ethereal webs.
+**Ethereal Web (Recharge 5√±6).** The fateholder releases ethereal silk in a 60-foot cone. The area is filled with ethereal webs.
 
 LEGENDARY ACTIONS
 
@@ -1559,11 +1559,11 @@ When the fateholder is bloodied, it tries to escape by traveling through an ethe
 
 ### Ethereal Webs CR 4
 
-Ethereal webs can be their own encounter or used to make another encounter more challenging. A fateholder in its ethereal web is a CR 17 encounter. (If a fateholder uses an action to create an ethereal web during combat the encounterís difficulty is not affected.)
+Ethereal webs can be their own encounter or used to make another encounter more challenging. A fateholder in its ethereal web is a CR 17 encounter. (If a fateholder uses an action to create an ethereal web during combat the encounter√≠s difficulty is not affected.)
 
 Ethereal webs spun by fateholders act as gateways, allowing the spiders to travel between planes and store captured creatures where they can feed at leisure.
 
-Such webs exist simultaneously in the Waking and the Ethereal Planeóif theyíre destroyed on one plane, they cease to exist on the other as well.
+Such webs exist simultaneously in the Waking and the Ethereal Plane√≥if they√≠re destroyed on one plane, they cease to exist on the other as well.
 
 Ethereal webs appear translucent, and at times almost fade from view. In dim light, it requires a DC 13 passive Perception check to spot the webs, though any active search will find them.
 
@@ -1583,7 +1583,7 @@ When you select this archetype at 3rd level, gain proficiency with Arcana. If yo
 
 Starting at 3rd level, you can spend 1 exertion to hold a melee weapon and concentrate on the future as a bonus action. You gain a prophecy die, which starts as a d6 and only applies to the weapon you used as a focus. You can add your prophecy die to your attack rolls or damage rolls, which you choose at the beginning of your turn.
 
-If you choose to add it to an attack roll and miss, the prophecy is still unfolding and the dieís size increases by one step (to a maximum of d8). On a hit, or if you choose to add it to a damage roll, the dieís size decreases by one step (to a minimum of d4) as you leverage the forces of fate.
+If you choose to add it to an attack roll and miss, the prophecy is still unfolding and the die√≠s size increases by one step (to a maximum of d8). On a hit, or if you choose to add it to a damage roll, the die√≠s size decreases by one step (to a minimum of d4) as you leverage the forces of fate.
 
 Your prophecy die lasts for a number of rounds equal to your proficiency bonus.
 
@@ -1651,7 +1651,7 @@ Also at 3rd level, you can choose one creature who can benefit from your Bardic 
 
 #### Plot Twist
 
-Starting at 6th level, when a creature you have granted Bardic Inspiration to fails an attack roll, ability check, or saving throw, you can spend your reaction to declare that isnít how the story goes and allow it to roll again, including your Bardic Inspiration die, taking the higher result. This reroll spends the Bardic Inspiration die, even if the creature did not spend it on the first roll.
+Starting at 6th level, when a creature you have granted Bardic Inspiration to fails an attack roll, ability check, or saving throw, you can spend your reaction to declare that isn√≠t how the story goes and allow it to roll again, including your Bardic Inspiration die, taking the higher result. This reroll spends the Bardic Inspiration die, even if the creature did not spend it on the first roll.
 
 Once you have used this feature a number of times equal to your proficiency bonus, you cannot do so again until you finish a long rest.
 
@@ -1665,7 +1665,7 @@ Starting 14th level, when you spend your last Bardic Inspiration you can spend a
 
 All revokers hold similar tenets, regardless of the deity they serve.
 
-* **Rise Above Your Past.** Donít let your past define you. Judge others based on their actions now, not then.
+* **Rise Above Your Past.** Don√≠t let your past define you. Judge others based on their actions now, not then.
 * **Learn From Mistakes.** Never commit the same mistakes. Draw
 
 knowledge from every failure. Remind others that defeat should be a turning point, not a dead end.
@@ -1710,7 +1710,7 @@ For the duration, you gain the following benefits:
 * You gain an expertise die on Insight, Intimidation and Perception checks.
 * When you miss a weapon attack, you deal radiant damage equal to your Charisma bonus.
 * When you spend spell slots with Unbound Heroism, you gain twice as many temporary hit points and your additional radiant damage becomes 1d12.
-* You score critical hits on a roll of 19ñ20.
+* You score critical hits on a roll of 19√±20.
 
 #### True Calling
 
@@ -1728,7 +1728,7 @@ Though all of them look slightly different, at the core of these rings is a stra
 
 This ring stores inspiration and holds it for later use. While wearing this ring, you can choose to gain and use the inspiration stored within it. Once the inspiration is used, it is no longer stored within the ring.
 
-When found, the ring contains 1d4 ñ 1 inspiration, as determined by the Narrator. The ring can store up to 4 inspiration at a time. To store inspiration, a creature with inspiration spends a short rest wearing the ring and chooses to bestow it. The inspiration has no immediate effect.
+When found, the ring contains 1d4 √± 1 inspiration, as determined by the Narrator. The ring can store up to 4 inspiration at a time. To store inspiration, a creature with inspiration spends a short rest wearing the ring and chooses to bestow it. The inspiration has no immediate effect.
 
 In addition, whenever inspiration from within the ring is used the Narrator may choose to grant a vision of possible future events of great import.
 
@@ -1738,7 +1738,7 @@ Characters raised in spinner cults share a variety of traits in common with one 
 
 **Necessary Skills.** You gain proficiency in either Deception or Insight and either Investigation or Perception.
 
-**Cold Read.** When you first meet someone new and interact with them personally for at least 1 minute, you can ask the Narrator one question about them. This question must be a surface-level question about their personality or life, such as ìdo they have children?î, ìwhat do they think of the duke?î, or ìwhat do they want right now?î You have advantage on the next Deception, Persuasion or Insight check you make that uses this knowledge to benefit you.
+**Cold Read.** When you first meet someone new and interact with them personally for at least 1 minute, you can ask the Narrator one question about them. This question must be a surface-level question about their personality or life, such as √¨do they have children?√Æ, √¨what do they think of the duke?√Æ, or √¨what do they want right now?√Æ You have advantage on the next Deception, Persuasion or Insight check you make that uses this knowledge to benefit you.
 
 **Discreetly Armed.** You gain an expertise die on checks made to persuade others to let you remain armed or to conceal weapons or items about your person.
 
@@ -1750,9 +1750,9 @@ Characters raised in spinner cults share a variety of traits in common with one 
 
 **Source of Inspiration: Foresight.** You know in your very being that all things follow naturally from one another in a deterministic pattern, and that by planning in the present you secure the future.
 
-Make a plan that snatches victory from the jaws of defeat, make a fool of a foe by remaining one step ahead of them, supply your allies with vital information, sow false or deceptive information among your foes, lay the groundwork for something that wonít pay off until potentially well after the end of your life.
+Make a plan that snatches victory from the jaws of defeat, make a fool of a foe by remaining one step ahead of them, supply your allies with vital information, sow false or deceptive information among your foes, lay the groundwork for something that won√≠t pay off until potentially well after the end of your life.
 
-**Inspiration Feature: Preordained Fate.** When you have 0 hit points at the end of another creatureís turn, you can spend your inspiration to gain 1 hit point. When you do, move your position in initiative to immediately after that creatureís turn, and take your turn normally.
+**Inspiration Feature: Preordained Fate.** When you have 0 hit points at the end of another creature√≠s turn, you can spend your inspiration to gain 1 hit point. When you do, move your position in initiative to immediately after that creature√≠s turn, and take your turn normally.
 
 ###### Fulfilling Your Destiny
 
@@ -1804,7 +1804,7 @@ Make a group check. Each adventurer may choose either an Acrobatics or Athletics
 
 **Area** Region (special)
 
-The insatiable cravings and unnatural twilight of the city seep into travelers' minds, causing them to become ravenous and suspicious. Supply consumed as part of this challenge does not reduce an adventurerís normal need for nourishment.
+The insatiable cravings and unnatural twilight of the city seep into travelers' minds, causing them to become ravenous and suspicious. Supply consumed as part of this challenge does not reduce an adventurer√≠s normal need for nourishment.
 
 **Growing Hunger.** For every 4 hours spent in the city an adventurer must make a Wisdom saving throw. On a failure, they must consume a Supply or suffer one level of strife.
 
@@ -1816,7 +1816,7 @@ Adventurers can temporarily dispel the gloaming by holding an impromptu feast. I
 
 companions reconnect over a generous meal and conversation. It also delays the next growing hunger check for 24 hours.
 
-Alternatively, a group check to bolster the partyís resolve can be made. For example, a Religion check to recall a sustaining meditation, a Performance check to provide pleasant distraction, or a Survival or Medicine check to confirm that, despite what theyíre feeling, theyíre actually sufficiently fed.
+Alternatively, a group check to bolster the party√≠s resolve can be made. For example, a Religion check to recall a sustaining meditation, a Performance check to provide pleasant distraction, or a Survival or Medicine check to confirm that, despite what they√≠re feeling, they√≠re actually sufficiently fed.
 
 **Critical Failure.** Overcome by an
 
@@ -1824,9 +1824,9 @@ all-consuming hunger the adventurers fall to devouring and squabbling over every
 
 **Failure.** Each adventurer that failed discretely consumes 2 Supply while watching those around them for signs of treachery. If they cannot consume 2 Supply they suffer a level of strife.
 
-**Success.** The adventurers manage to maintain their control and resist the Fellspireís savage hunger.
+**Success.** The adventurers manage to maintain their control and resist the Fellspire√≠s savage hunger.
 
-**Critical Success.** Fighting off the encroaching mistrust renews the adventurerís bonds and their confidence in each other. Each adventurer gains an expertise dice on the next action they take to help their comrades.
+**Critical Success.** Fighting off the encroaching mistrust renews the adventurer√≠s bonds and their confidence in each other. Each adventurer gains an expertise dice on the next action they take to help their comrades.
 
 ### Magic Items
 
@@ -1858,7 +1858,7 @@ Each piece of Gloam Bread is considered one Supply. When consumed, you have adva
 
 *Weapon (dagger), very rare (requires attunement, cost 6,000 gold)*
 
-**Crafting Components:** An intellect devourerís tongue
+**Crafting Components:** An intellect devourer√≠s tongue
 
 This item appears to be a dagger hilt. While grasping the hilt, you can use a bonus action to cause a blade of purple flames to spring into existence, or make the blade disappear.
 
@@ -1892,7 +1892,7 @@ Instead of Ram and Dance Tune, the earless hungerer has the following actions:
 
 **Skull Smash.** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage. If the satyr moves at least 20 feet straight towards the target before the attack, the target makes a DC 13 Constitution saving throw or is stunned until the end of its next turn.
 
-**Crippling Stomp.** Up to two humanoids within 5 feet with feet of the earless hungerer make a DC 13 Dexterity saving throw. On a failure, they take 3 (1d4) bludgeoning damage, their movement speed is halved, and they have disadvantage on attack rolls until the beginning of the satyrís next turn.
+**Crippling Stomp.** Up to two humanoids within 5 feet with feet of the earless hungerer make a DC 13 Dexterity saving throw. On a failure, they take 3 (1d4) bludgeoning damage, their movement speed is halved, and they have disadvantage on attack rolls until the beginning of the satyr√≠s next turn.
 
 #### Shambling Mound Variant: Sewer Walker
 
@@ -1900,13 +1900,13 @@ Instead of Lightning Absorption, the sewer walker has the following trait:
 
 **Acid Absorption.** When the Sewer Walker is subjected to acid damage, it instead regains hit points equal to the acid damage dealt.
 
-All of a shambling moundís actions are all replaced with the following:
+All of a shambling mound√≠s actions are all replaced with the following:
 
 **Multiattack.** The shambling mound makes two lash attacks. If both attacks hit one Medium or smaller creature, the target is grappled (escape DC 15), and the sewer walker uses Drown against it.
 
 **Lash.** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.
 
-**Drown.** The sewer walker drags a Medium or smaller grappled creature under its body. The creature is restrained, rattled, canít breathe, and moves with the sewer walker. At the start of each of the sewer walkerís turns, the target takes 11 (2d6 + 4) acid damage. When the grapple ends, the creature is no longer being drowned. The sewer walker can only be drowning one creature at a time.
+**Drown.** The sewer walker drags a Medium or smaller grappled creature under its body. The creature is restrained, rattled, can√≠t breathe, and moves with the sewer walker. At the start of each of the sewer walker√≠s turns, the target takes 11 (2d6 + 4) acid damage. When the grapple ends, the creature is no longer being drowned. The sewer walker can only be drowning one creature at a time.
 
 ## Avenging Archetypes
 
@@ -1936,7 +1936,7 @@ Additionally, your unarmed strikes and attacks made using a shield deal an extra
 
 #### Epic Charge
 
-At 18th level, you can use an action and move at least 20 feet to make an epic charge. While making an epic charge, you can move through the spaces of creatures and objects of up to one size larger than you without provoking opportunity attacks. When you move into a creatureís space it makes a Dexterity saving throw against your maneuver DC (with disadvantage if it is your size or smaller), taking 36 (8d8) bludgeoning damage and falling prone on a failed save, or half as much damage and remaining standing on a success.
+At 18th level, you can use an action and move at least 20 feet to make an epic charge. While making an epic charge, you can move through the spaces of creatures and objects of up to one size larger than you without provoking opportunity attacks. When you move into a creature√≠s space it makes a Dexterity saving throw against your maneuver DC (with disadvantage if it is your size or smaller), taking 36 (8d8) bludgeoning damage and falling prone on a failed save, or half as much damage and remaining standing on a success.
 
 Once you have used this feature, you cannot use it again until you finish a short or long rest.
 
@@ -2000,13 +2000,13 @@ with ranged weapons.
 
 Also at 3rd level, you learn how to craft ammunition for the job at hand. At the end of each short rest, you can craft a number of augmented arrows equal to twice your proficiency bonus, each costing 1sp of materials and an equal amount of ammunition. When you craft each augmented arrow, choose bludgeoning, piercing, or slashing damage. On a successful hit, the ammunition deals the usual amount of damage, but of the chosen type.
 
-Additionally, you can use a bonus action to affix an item of Tiny size that weighs 3 pounds or less and can be used as an improvised weapon (such as an acid vial, alchemistís fire, or unstable arcanum) to the end of a piece of ammunition. This increases the itemís range to that of your weaponís normal range and allows you to roll as though it were a ranged attack with which you are proficient, though it only deals the damage and effects of the item, not the ammunition utilized.
+Additionally, you can use a bonus action to affix an item of Tiny size that weighs 3 pounds or less and can be used as an improvised weapon (such as an acid vial, alchemist√≠s fire, or unstable arcanum) to the end of a piece of ammunition. This increases the item√≠s range to that of your weapon√≠s normal range and allows you to roll as though it were a ranged attack with which you are proficient, though it only deals the damage and effects of the item, not the ammunition utilized.
 
 #### Simple Trick Arrows
 
 Beginning at 7th level, at the end of each short rest, you can craft a number of trick arrows equal to your proficiency bonus, each costing 1 gold worth of raw materials, as well as an equal amount of ammunition (augmented arrows cannot be used for this purpose). When you craft each trick arrow, choose acid, cold, fire, lightning, or thunder. On a successful hit, a trick arrow deals 1d8 damage of the chosen type (which counts as magical for the purposes of overcoming resistance and immunity) in addition to that of the ammunition.
 
-Due to their bulky nature, you can only use one trick arrow per Attack action (though you can still make your remaining shots with normal ammunition) and can only hit targets within your weaponís normal range. Additionally, the materials of a trick arrow are unstable and lose their efficacy when you next take a short rest, though the
+Due to their bulky nature, you can only use one trick arrow per Attack action (though you can still make your remaining shots with normal ammunition) and can only hit targets within your weapon√≠s normal range. Additionally, the materials of a trick arrow are unstable and lose their efficacy when you next take a short rest, though the
 
 materials can be repurposed for a new trick arrow.
 
@@ -2016,7 +2016,7 @@ Starting at 11th level, when you craft a trick arrow, you may choose from force,
 
 #### Impossible Shots
 
-At 15th level, you gain an additional number of uses for your Accuracy Bonus equal to your proficiency bonus. In addition, you can gain your Accuracy Bonus as a free action. they arenít on the artificer spell list.
+At 15th level, you gain an additional number of uses for your Accuracy Bonus equal to your proficiency bonus. In addition, you can gain your Accuracy Bonus as a free action. they aren√≠t on the artificer spell list.
 
 ### Mutant (Warlock Archetype)
 
@@ -2029,7 +2029,7 @@ At 15th level, you gain an additional number of uses for your Accuracy Bonus equ
 | 2nd | *blur, force of will* |
 | 3rd | *blink, haste* |
 | 4th | *freedom of movement, stoneskin* |
-| 5th | *storm kick, warriorís instincts* |
+| 5th | *storm kick, warrior√≠s instincts* |
 
 #### Specialized Spellcasting
 
@@ -2047,9 +2047,9 @@ The maximum number of mana points you can absorb equals your proficiency bonus. 
 
 #### Infused Blasts
 
-Starting at 6th level, you learn how to harness the power youíve stolen. Once each round when you use eldritch blast, you can expend 1 mana point to alter its structure as a free action. Choose one of the following:
+Starting at 6th level, you learn how to harness the power you√≠ve stolen. Once each round when you use eldritch blast, you can expend 1 mana point to alter its structure as a free action. Choose one of the following:
 
-* You can push more power into the ability, increasing your eldritch blastís damage by one die.
+* You can push more power into the ability, increasing your eldritch blast√≠s damage by one die.
 * You can alter the probability around the target. In addition to taking damage from the eldritch blast, it has disadvantage on its next roll.
 
 If the attack is unsuccessful, the mana is lost. Expending mana does not allow you to absorb any additional mana points. These effects stack with any Eldritch Invocations you can use (though the damage is added and not multiplied in the case of abilities like Eldritch Squall).
@@ -2070,7 +2070,7 @@ At 14th level, when you hit a creature with an attack, you can inflict aberrance
 
 ### Mundane Equipment
 
-###### Assassinís Teapot. This
+###### Assassin√≠s Teapot. This
 
 innocuous-looking teapot has two internal chambers. You can choose which chamber to pour from simply by covering the corresponding hole in the handle with your finger or thumb. True to its name, a common use of this device is to surreptitiously serve poisoned tea to someone, though benign uses are not unheard of. Pouring a cup of liquid (poisoned or not) from the teapot takes an action. (10 gp, 1 lb.)
 
@@ -2082,9 +2082,9 @@ To use the autominer, the clockwork engine must first be wound as an action eith
 
 Immediately after, the autominer begins making a single attack per round on your turn against whatever is in the square, using an attack bonus of 4 + your proficiency bonus. Any creature passing through the square is also attacked once as if it had provoked an opportunity attack (there is no limit to the number of times this can happen). Attacks against creatures, including opportunity attacks, are made with disadvantage.
 
-Once the autominerís target is set, it swings continuously until its hour runtime is expended or the kill switch is activated. This
+Once the autominer√≠s target is set, it swings continuously until its hour runtime is expended or the kill switch is activated. This
 
-happens automatically if you use any movement, on account of the autominerís safety feature. You can also trigger it manually as a reaction, which can prevent the opportunity attack above. Retargeting requires another action. While the arm is swinging, you effectively only have the use of one hand. (175 gp, 60 lbs.)
+happens automatically if you use any movement, on account of the autominer√≠s safety feature. You can also trigger it manually as a reaction, which can prevent the opportunity attack above. Retargeting requires another action. While the arm is swinging, you effectively only have the use of one hand. (175 gp, 60 lbs.)
 
 **Folding Glider.** This set of folding wings is worn as a backpack. You can extend or retract the wings as an action. While the wings are extended, you can move 30 feet horizontally for every 15 feet you descend vertically and cannot gain altitude. They are typically used to glide safely down from cliffs, airships, or high structures, and occasionally for reconnaissance. (40 gp, 30 lbs.)
 
@@ -2170,7 +2170,7 @@ Additionally, you have disadvantage on attack rolls with any other weapon and mu
 
 **Crafting Components:** A glass lens tempered on the Ethereal Plane
 
-Favored by those who deal with hauntings, a *spectral camera* can capture the image of spirits on film. Any creature with incorporeal movement or on the Ethereal Plane (visible or not) that passes in front of the cameraís open aperture (up to 30 feet away) will trigger the camera to immediately take a monochrome picture. This has no effect on creatures affected by an *invisibility* spell.
+Favored by those who deal with hauntings, a *spectral camera* can capture the image of spirits on film. Any creature with incorporeal movement or on the Ethereal Plane (visible or not) that passes in front of the camera√≠s open aperture (up to 30 feet away) will trigger the camera to immediately take a monochrome picture. This has no effect on creatures affected by an *invisibility* spell.
 
 You can also take a picture manually as a reaction. Once a picture is taken, you must spend an action to prepare the camera for another.
 
@@ -2184,7 +2184,7 @@ Each picture taken with a spectral camera costs 2 gp in materials, which are sig
 
 **Crafting Components:** Glass lens immersed in holy water on a Celestial Plane for at least a year and a day, then blessed by a celestial associated with a god of life or protection.
 
-Not to be mistaken for a simple *spectral camera*, this plain-looking but obviously finely-made piece gives off a subtle but reassuring feeling of peace. As an action, you can use one charge to focus the cameraís lens on a single creature within 30 feet and take its picture. If the targeted creature is an undead or a fiend, it must make a DC 17 Charisma saving throw or be instantly captured in a glass photographic plate. If the target is not an undead or fiendish creature the charge is wasted. Any other creatures shown in the photograph are unaffected, even if they are undead or fiends. The *spirit-trapping camera* can produce as many plates as it has charges,
+Not to be mistaken for a simple *spectral camera*, this plain-looking but obviously finely-made piece gives off a subtle but reassuring feeling of peace. As an action, you can use one charge to focus the camera√≠s lens on a single creature within 30 feet and take its picture. If the targeted creature is an undead or a fiend, it must make a DC 17 Charisma saving throw or be instantly captured in a glass photographic plate. If the target is not an undead or fiendish creature the charge is wasted. Any other creatures shown in the photograph are unaffected, even if they are undead or fiends. The *spirit-trapping camera* can produce as many plates as it has charges,
 
 though each must be removed as a bonus action before you can use another charge.
 
@@ -2218,11 +2218,11 @@ Placing a *useful top hat* inside another extradimensional storage device such a
 
 **Languages:** Two of your choice.
 
-**Suggested Equipment (Cost 4 gold):** 4 days of rations, one person tent, travelerís clothes
+**Suggested Equipment (Cost 4 gold):** 4 days of rations, one person tent, traveler√≠s clothes
 
 Feature: Accursed
 
-Whenever you fail at a Deception or Persuasion check, your curse manifests in a manner that you work out with your Narrator ahead of time. The failed check is ignored, and you immediately roll an Intimidation check with which you have expertise, taking the new roll. However, even a successful Intimidation check does not necessarily produce the result you originally intended, as the creatures around you may recoil in fear and distrust. At the Narratorís discretion, you may keep the expertise die to Intimidation until the end of the scene.
+Whenever you fail at a Deception or Persuasion check, your curse manifests in a manner that you work out with your Narrator ahead of time. The failed check is ignored, and you immediately roll an Intimidation check with which you have expertise, taking the new roll. However, even a successful Intimidation check does not necessarily produce the result you originally intended, as the creatures around you may recoil in fear and distrust. At the Narrator√≠s discretion, you may keep the expertise die to Intimidation until the end of the scene.
 
 Adventures and Advancement
 
@@ -2237,7 +2237,7 @@ The entity responsible for your curse may press you to complete specific tasks, 
 3. Your childhood romantic interest, ultimately marked in some way by your curse.
 4. A childhood friend who pulled away from you when they realized you were cursed.
 5. The entity that cursed you.
-6. A priest or sage who triedóand failedóto break your curse years ago.
+6. A priest or sage who tried√≥and failed√≥to break your curse years ago.
 7. The kindly family that took you in out of pity.
 8. The law enforcers who see you as a dangerous troublemaker.
 9. Another accursed individual with whom you sometimes commiserate.
@@ -2251,7 +2251,7 @@ The entity responsible for your curse may press you to complete specific tasks, 
 4. A weapon or piece of ammunition set aside for the entity that cursed you.
 5. A unique scar, discoloration, or other mark on your body which shows your curse.
 6. Nightmares brought on by the curse which often wake you, screaming.
-7. A charm meant to keep your curse contained. You havenít noticed an effect.
+7. A charm meant to keep your curse contained. You haven√≠t noticed an effect.
 8. An artistic rendering of the entity that cursed you
 9. A flask once given to you as well-meaning consolation.
 10. A small knife you used as a child to protect yourself, because no one else would.
@@ -2262,19 +2262,19 @@ The entity responsible for your curse may press you to complete specific tasks, 
 
 **Skill Proficiencies:** Religion, and any one skill of your choice that the spirit has imparted to you.
 
-**Languages:** Two of your choice, one of which is the spiritís native language.
+**Languages:** Two of your choice, one of which is the spirit√≠s native language.
 
-**Suggested Equipment (Cost 16 gold):** 2 days worth of rations, bell, 5 candles, ink, ink pen, 10 sheets of paper, 5 pieces of chalk, travelerís clothes
+**Suggested Equipment (Cost 16 gold):** 2 days worth of rations, bell, 5 candles, ink, ink pen, 10 sheets of paper, 5 pieces of chalk, traveler√≠s clothes
 
 Feature: Silent Aid
 
-Being in tune with your spirit allows them to point out something you might have missed, if only for their own purposes. You gain a +2 to your choice of your passive Perception, Investigation, or Insight score, depending on your spiritís skills.
+Being in tune with your spirit allows them to point out something you might have missed, if only for their own purposes. You gain a +2 to your choice of your passive Perception, Investigation, or Insight score, depending on your spirit√≠s skills.
 
-If you banish, free, or otherwise lose your spirit, consult with the Narrator to choose an appropriate feature from another background. Alternatively, the Narrator may rule that youíve become a beacon for the supernatural and another spirit has taken up haunting you.
+If you banish, free, or otherwise lose your spirit, consult with the Narrator to choose an appropriate feature from another background. Alternatively, the Narrator may rule that you√≠ve become a beacon for the supernatural and another spirit has taken up haunting you.
 
 ***Adventures and Advancement*** Whether you seek to violently banish the restless dead or help them to peacefully pass on, you will gain a reputation as a spirit-speaker. Common folk and nobility alike are likely to approach you for advice and aid with everything from hereditary curses to irritable poltergeists to speaking with a dead relative about a lost treasure.
 
-After you have solved several such problems, youíve become known to those who deal in certain kinds of esoteric knowledge and gain access to their private libraries. These vast personal collections contain esoteric mysteries, such as those answerable with a DC 25 Arcana, History, or Religion check. While using such a library your host will provide you and your companions a moderate or rich lifestyle, depending on their means and how impressed they are by your exploits.
+After you have solved several such problems, you√≠ve become known to those who deal in certain kinds of esoteric knowledge and gain access to their private libraries. These vast personal collections contain esoteric mysteries, such as those answerable with a DC 25 Arcana, History, or Religion check. While using such a library your host will provide you and your companions a moderate or rich lifestyle, depending on their means and how impressed they are by your exploits.
 
 ***Connection and Memento.*** Roll 1d10, choose, or make up your own.
 
@@ -2293,12 +2293,12 @@ After you have solved several such problems, youíve become known to those who de
 
 ###### Haunted Memento
 
-1. A personal item (jewelry, tools, weapon, ect) once owned by your spirit. You canít seem to get rid of it.
+1. A personal item (jewelry, tools, weapon, ect) once owned by your spirit. You can√≠t seem to get rid of it.
 2. A locket containing the image of the one who haunts you.
-3. The scent of your spiritís favored cologne or perfume that clings to you.
-4. A small pouch of soil taken from your spiritís grave.
+3. The scent of your spirit√≠s favored cologne or perfume that clings to you.
+4. A small pouch of soil taken from your spirit√≠s grave.
 5. A letter of introduction penned by your spirit, giving you their blessing.
-6. Journals of your spiritís life.
+6. Journals of your spirit√≠s life.
 7. An innocuous nonmagical item that your spirit tells you is of dire importance.
 8. The manacles that shackled your spirit before their death.
 9. A cryptic note written by your spirit who has no memory of its existence.
@@ -2308,15 +2308,15 @@ After you have solved several such problems, youíve become known to those who de
 
 **Source of Inspiration: War of Attrition.** You gain Inspiration whenever you strike a blow against an especially powerful creature related to your destiny (but not necessarily your specific destined foe).
 
-Force the powerful enemyís retreat, obtain an item important to their defeat, gain a significant insight into their location or intentions, defeat one of their trusted lieutenants.
+Force the powerful enemy√≠s retreat, obtain an item important to their defeat, gain a significant insight into their location or intentions, defeat one of their trusted lieutenants.
 
-**Inspiration Feature: Slayerís Gift.** Fighting the creatures of darkness hones both your mental and physical prowess. After you roll an ability check, attack roll, or saving throw but before you know the outcome, you may spend your inspiration to add a +5 bonus to that roll.
+**Inspiration Feature: Slayer√≠s Gift.** Fighting the creatures of darkness hones both your mental and physical prowess. After you roll an ability check, attack roll, or saving throw but before you know the outcome, you may spend your inspiration to add a +5 bonus to that roll.
 
 ###### Fulfilling Your Destiny
 
 You fulfill your destiny as a Slayer when you defeat a specific and powerful creature connected to your fate.
 
-Destroy Vashika, Queen of the Vampires, thwart the aboleth Birgamozís terrible plans of domination, imprison the Dread Knight Maza Dunn.
+Destroy Vashika, Queen of the Vampires, thwart the aboleth Birgamoz√≠s terrible plans of domination, imprison the Dread Knight Maza Dunn.
 
 ***Fulfillment Feature: Eyes of the Slayer*** While you are not incapacitated, you can use a bonus action to fix any hostile creature within 20 feet of you with an unsettling look, seeming to stare into its very soul. The creature makes a Wisdom saving throw with a DC equal to your passive Intimidation score. On a failure, it is frightened until the end of its next turn. On a success, it is immune to this ability for 24 hours.
 
@@ -2330,15 +2330,15 @@ Whatever the location, the windows are shuttered and the doors secured with *arc
 
 A DC 10 Perception check means an adventurer hears a hollow moan from within, while a result of 14 or more reveals the glowing runes on the armor. A DC 15 Religion check alerts an adventurer that the runes are meant to bind incorporeal undead
 
-When the armor is reduced to 0 hit points, a **specter** emerges. After a quick attack to drain the attackerís life, the specter then slips incorporeally through a wall, fades to invisibility, and harasses those already weakened by the animated armorís attacks.
+When the armor is reduced to 0 hit points, a **specter** emerges. After a quick attack to drain the attacker√≠s life, the specter then slips incorporeally through a wall, fades to invisibility, and harasses those already weakened by the animated armor√≠s attacks.
 
 ### The Coup de Gras
 
 ##### Level 4 Hard Encounter
 
-This creation works best in some necropolis or mausoleum, walls lined with jagged spears or stony spikes (dealing 1d4 piercing damage to any creature forced into an adjacent space). A skeleton lies on the floor with its skull shattered and one arm outstretched, red paint on the floor meant to resemble a dying blood scrawl reads, ìCoup de gras.î
+This creation works best in some necropolis or mausoleum, walls lined with jagged spears or stony spikes (dealing 1d4 piercing damage to any creature forced into an adjacent space). A skeleton lies on the floor with its skull shattered and one arm outstretched, red paint on the floor meant to resemble a dying blood scrawl reads, √¨Coup de gras.√Æ
 
-In an archaic dialect of the Common tongue, coup de gr‚ce is a ëblow of mercy,í to finish someone off. An adventurer who makes a DC 12 check translates this as ëblow of fat.í
+In an archaic dialect of the Common tongue, coup de gr‚Äöce is a √´blow of mercy,√≠ to finish someone off. An adventurer who makes a DC 12 check translates this as √´blow of fat.√≠
 
 Beyond the warning, an oddly-wide sarcophagus stands upright and alone.
 
@@ -2360,7 +2360,7 @@ Surely there must be something valuable inside.
 
 Possible Solutions
 
-Even if the adventurers notice the trap, there are multiple parts to this puzzle. Rolling or sliding something heavy enough (30 pounds or more) onto the plate will safely trigger the lid portion, but the falling doors still drop without a successful DC 14 Engineering or thievesí tools check to disarm them.
+Even if the adventurers notice the trap, there are multiple parts to this puzzle. Rolling or sliding something heavy enough (30 pounds or more) onto the plate will safely trigger the lid portion, but the falling doors still drop without a successful DC 14 Engineering or thieves√≠ tools check to disarm them.
 
 **Critical Failure.** The adventurer who stepped onto the plate must roll to avoid the sarcophagus lid. Failure on the saving throw also causes a level of fatigue.
 
@@ -2372,13 +2372,13 @@ Even if the adventurers notice the trap, there are multiple parts to this puzzle
 
 Once triggered, cloud of dust and sand fills a 10-foot radius around the sarcophagus.
 
-Immediately, the **mummy** within emerges and attacks, its cloth wrappings bulging outward like theyíre holding in some great pressure. This gives the mummy a chubby, almost comical shape. While its bandages remain intact, the mummy has disadvantage on all checks to avoid or escape a grapple maneuver.
+Immediately, the **mummy** within emerges and attacks, its cloth wrappings bulging outward like they√≠re holding in some great pressure. This gives the mummy a chubby, almost comical shape. While its bandages remain intact, the mummy has disadvantage on all checks to avoid or escape a grapple maneuver.
 
 When the mummy is bloodied (reduced to half its hp), the remaining cloth wrappings are torn apart as the **air elemental** trapped inside bursts free, leaving the desiccated corpse of the mummy still standing.
 
 The elemental looks like a tornado, and if the doors are open it attempts to flee. If the doors are still closed, it will use *whirlwind* to pick up PCs and drag them into the spikes on the wall, then deposit them beside the mummy so it can punch and curse them.
 
-A DC 14 Perception check locates the mechanism to reopen the roomís doors inside the sarcophagus.
+A DC 14 Perception check locates the mechanism to reopen the room√≠s doors inside the sarcophagus.
 
 ### The Stuffed Crab
 
@@ -2392,13 +2392,13 @@ The warehouse is 30 foot wide and 70 feet long, and the interior is dark and sme
 
 **Operated Trap.** The gnome cook is standing by in the second floor office to drop a portcullis over the door once the party enters. The apparatus can be spotted before entry with a Passive Perception of 15 or a Perception check and can be disabled
 
-with a DC 14 Engineering or theivesí tools check.
+with a DC 14 Engineering or theives√≠ tools check.
 
-Whether the party finds and disables the trap, magical lights flare around the room and a large mirror lowers from the ceiling. A wizardís mocking face appears there, ìI hope youíre hungry, because Iíve got some stuffed crab for ya!î Smashing the mirror reveals it is a **mimic**.
+Whether the party finds and disables the trap, magical lights flare around the room and a large mirror lowers from the ceiling. A wizard√≠s mocking face appears there, √¨I hope you√≠re hungry, because I√≠ve got some stuffed crab for ya!√Æ Smashing the mirror reveals it is a **mimic**.
 
-Thatís when the **stuffed crab** (see below) bursts out of the lower office and scuttles toward them. The undead monster is stuffed with 7 **ghouls**.
+That√≠s when the **stuffed crab** (see below) bursts out of the lower office and scuttles toward them. The undead monster is stuffed with 7 **ghouls**.
 
-Due to the huge crabís state of decay, the location struck matters. Adventurers who attack it must choose one of the squares it occupies that they can target. On a successful hit, a ghoul falls prone into that space. If that space is over one of the gaps in the floor, the ghoul falls through, taking 7 (2d6) damage.
+Due to the huge crab√≠s state of decay, the location struck matters. Adventurers who attack it must choose one of the squares it occupies that they can target. On a successful hit, a ghoul falls prone into that space. If that space is over one of the gaps in the floor, the ghoul falls through, taking 7 (2d6) damage.
 
 #### Fouled Sluice
 
@@ -2474,7 +2474,7 @@ The crab prioritizes grappling creatures and stuffing them into its exoskeleton,
 
 ### Optional Mechanic: Favor Points
 
-Whether itís a lavish gift given or a good turn done, favor points represent the social and economic obligations that can tie people together along with the information and services they can offer. These can be used in place of or in conjunction with the optional Prestige rule Calling in Favors.
+Whether it√≠s a lavish gift given or a good turn done, favor points represent the social and economic obligations that can tie people together along with the information and services they can offer. These can be used in place of or in conjunction with the optional Prestige rule Calling in Favors.
 
 The most important thing to remember about favor points is that they can only be spent in the region in which they are gained. You should keep track of the favor points you accrue in different areas as these persist until they are spent, though the Narrator may rule that they may diminish if you do not return to a region for a year or more.
 
@@ -2482,25 +2482,25 @@ Favor points do not reset to 0 after a long rest, but the maximum amount of favo
 
 #### Spending Favor Points
 
-Favor points can be spent in a number of different ways. They donít need to be tied to a specific debt owed or action taken, but itís often more interesting if you provide a compelling reason behind spending a favor point. While the Narrator can grant the use of favor points in any number of ways, here are some common uses.
+Favor points can be spent in a number of different ways. They don√≠t need to be tied to a specific debt owed or action taken, but it√≠s often more interesting if you provide a compelling reason behind spending a favor point. While the Narrator can grant the use of favor points in any number of ways, here are some common uses.
 
-***Enticing Offer.*** Youíre not just
+***Enticing Offer.*** You√≠re not just
 
-well-known, youíre well-connected. When you would make a Prestige check to utilize the Calling in Favors mechanic, you may spend a favor point to gain advantage.
+well-known, you√≠re well-connected. When you would make a Prestige check to utilize the Calling in Favors mechanic, you may spend a favor point to gain advantage.
 
-***Rumor Has It.*** You can suddenly recollect something interesting that could give you the upper hand. You can spend 1 favor point (at the Narratorís discretion) to gain a 1d6 expertise die on an appropriate check before it is rolled. This is often (but not necessarily) during a social encounter, and the Narrator may rule that only so many favor points can be used with an NPC or during a scene.
+***Rumor Has It.*** You can suddenly recollect something interesting that could give you the upper hand. You can spend 1 favor point (at the Narrator√≠s discretion) to gain a 1d6 expertise die on an appropriate check before it is rolled. This is often (but not necessarily) during a social encounter, and the Narrator may rule that only so many favor points can be used with an NPC or during a scene.
 
-***Smooth Over.*** Youíve made a mistake, but you have just the right explanation, convenient distraction, or charming mannerism to cover it up. After making an ability check for a social interaction but before the outcome of the result is known, you may spend 2 favor points to roll a second time and choose whichever result you wish. Favor points can only be spent on Smooth Over once per scene.
+***Smooth Over.*** You√≠ve made a mistake, but you have just the right explanation, convenient distraction, or charming mannerism to cover it up. After making an ability check for a social interaction but before the outcome of the result is known, you may spend 2 favor points to roll a second time and choose whichever result you wish. Favor points can only be spent on Smooth Over once per scene.
 
 #### Gaining Favor Points
 
-When you finish a long rest while in your Prestige Center and have no favor points remaining, you regain 1 favor point. If you are in your stronghold, you instead regain a number of favor points equal to half your strongholdís grade (minimum 2 favor points). While outside of your Prestige Center, you must either gain favor points by performing notable deeds, impressive roleplay (granted at the Narratorís discretion), or through the Network journey activity.
+When you finish a long rest while in your Prestige Center and have no favor points remaining, you regain 1 favor point. If you are in your stronghold, you instead regain a number of favor points equal to half your stronghold√≠s grade (minimum 2 favor points). While outside of your Prestige Center, you must either gain favor points by performing notable deeds, impressive roleplay (granted at the Narrator√≠s discretion), or through the Network journey activity.
 
-Journey Activity Favor Points Gaining influence doesnít come without work. You can undertake a new journey activity: Network. At the Narratorís discretion, you can also gain a favor point on a critical success for the Busk and Gossip journey activities, proving you are particularly competent or
+Journey Activity Favor Points Gaining influence doesn√≠t come without work. You can undertake a new journey activity: Network. At the Narrator√≠s discretion, you can also gain a favor point on a critical success for the Busk and Gossip journey activities, proving you are particularly competent or
 
 well-informed.
 
-New Journey Activity: Network Success on a Deception or Persuasion check allows an adventurer to make connections that will come in handy later. You can gain an expertise die on this check by making a bribe (or equivalent gift) of a number of gold pieces equal to 5 ◊ twice the regionís tier (minimum 5 gold).
+New Journey Activity: Network Success on a Deception or Persuasion check allows an adventurer to make connections that will come in handy later. You can gain an expertise die on this check by making a bribe (or equivalent gift) of a number of gold pieces equal to 5 ‚óä twice the region√≠s tier (minimum 5 gold).
 
 **Note:** To perform this journey activity, the party must be in a populated area such as a Country Shire, Open Roads, or Urban Township.
 
@@ -2508,7 +2508,7 @@ New Journey Activity: Network Success on a Deception or Persuasion check allows 
 
 social line and is firmly reprimanded or ostracized, suffering a level of strife.
 
-***Failure.*** The adventurer simply isnít engaging enough to be memorable.
+***Failure.*** The adventurer simply isn√≠t engaging enough to be memorable.
 
 ***Success.*** The adventurer has made or reinforced a meaningful social connection or attained some level of influence, gaining 1 favor point.
 
@@ -2529,13 +2529,13 @@ well-connected, competent, or generous, gaining 2 favor points.
 |  |  |  |
 | --- | --- | --- |
 | **ITEM** | **COST** | **WEIGHT** |
-| Hard candy (poor) | 1 cp | ó |
-| Hard candy (rich) | 2 sp | ó |
-| Soft candy (poor) | 4 cp | ó |
-| Soft candy (rich) | 5 sp | ó |
-| Tea (poor) | 3 cp | ó |
-| Tea (moderate) | 3 sp | ó |
-| Tea (rich) | 3 gp | ó |
+| Hard candy (poor) | 1 cp | √≥ |
+| Hard candy (rich) | 2 sp | √≥ |
+| Soft candy (poor) | 4 cp | √≥ |
+| Soft candy (rich) | 5 sp | √≥ |
+| Tea (poor) | 3 cp | √≥ |
+| Tea (moderate) | 3 sp | √≥ |
+| Tea (rich) | 3 gp | √≥ |
 | Tea set (poor) | 2 cp | 4 lbs. |
 | Tea set (moderate) | 5 sp | 3 lbs. |
 | Tea set (rich) | 5 gp | 3 lbs. |
@@ -2548,9 +2548,9 @@ When you choose this archetype at 3rd level you gain proficiency with Deception,
 
 #### Unreadable Moves
 
-Also at 3rd level, you can use a bonus action to make a Deception check opposed by the Insight check of a creature you can see that isnít incapacitated. On a success,
+Also at 3rd level, you can use a bonus action to make a Deception check opposed by the Insight check of a creature you can see that isn√≠t incapacitated. On a success,
 
-for the next minute you can use Sneak Attack against the creature even if you donít have advantage, though not if you have disadvantage. This effect ends early if you use Unreadable Moves against a different creature.
+for the next minute you can use Sneak Attack against the creature even if you don√≠t have advantage, though not if you have disadvantage. This effect ends early if you use Unreadable Moves against a different creature.
 
 #### Unflappable Mind
 
@@ -2570,7 +2570,7 @@ After observing a creature for at least 10 minutes, you can choose to gain advan
 
 #### Improved Unreadable Moves
 
-At 17th level, youíve learned to take still more advantage of your inscrutable ways. While using Unreadable Moves against a creature, you roll d8s instead of d6s for your sneak attack damage.
+At 17th level, you√≠ve learned to take still more advantage of your inscrutable ways. While using Unreadable Moves against a creature, you roll d8s instead of d6s for your sneak attack damage.
 
 ### Court Magician (Wizard Archetype)
 
@@ -2585,7 +2585,7 @@ In addition, you learn the *guidance* cantrip, and you add spells to your spellb
 |  |  |
 | --- | --- |
 | **SPELL LEVEL** | **SPELLS** |
-| ó | *guidance* |
+| √≥ | *guidance* |
 | 1st | *heroism, speak with animals* |
 | 2nd | *calm emotions,enhance ability* |
 | 3rd | *speak with dead* |
@@ -2630,7 +2630,7 @@ At 3rd level, you gain proficiency with two of the following skills: Culture, Hi
 
 #### Prior Tactics
 
-Also at 3rd level, you become superlative at preparing your fellows for battle. Your allies must spend at least 10 minutes a week discussing strategy with you to benefit from this feature, at which point you spend a number of gold pieces equal to twice your proficiency bonus on materials. At the Narratorís discretion, these may be collected with a successful Hunt and Gather journey activity.
+Also at 3rd level, you become superlative at preparing your fellows for battle. Your allies must spend at least 10 minutes a week discussing strategy with you to benefit from this feature, at which point you spend a number of gold pieces equal to twice your proficiency bonus on materials. At the Narrator√≠s discretion, these may be collected with a successful Hunt and Gather journey activity.
 
 When taking the Attack action, you can forgo one attack to choose a number of allies equal to or less than your proficiency
 
@@ -2758,7 +2758,7 @@ The rock troll is CR 6 (2,300 XP), has an AC of 18, and loses its keen smell. It
 
 ***False Appearance.*** When motionless, the rock troll is indistinguishable from a typical boulder.
 
-***Regeneration.*** The troll regains 10 hit points at the start of its turn. If the troll takes thunder or cold damage, this trait doesnít function on its next turn. The troll dies only if it starts its turn with 0 hit points and doesnít regenerate.
+***Regeneration.*** The troll regains 10 hit points at the start of its turn. If the troll takes thunder or cold damage, this trait doesn√≠t function on its next turn. The troll dies only if it starts its turn with 0 hit points and doesn√≠t regenerate.
 
 The rock troll has the following additional action:
 
@@ -2774,7 +2774,7 @@ The canicore is CR 2 (450 XP) and has 51 (6d10 + 18; bloodied 25) hit points. It
 
 ***Gliding 30ft.*** Gliding allows the canicore to move horizontally 1 foot for every 1 foot it descends, falling if it moves less than 5 feet each turn.
 
-***Poison Stinger.*** A creature that takes damage from the canicoreís tail must succeed on a DC 13 Constitution saving throw or become poisoned. It can repeat the saving throw at the end of each of its turns, ending the effect on a success.
+***Poison Stinger.*** A creature that takes damage from the canicore√≠s tail must succeed on a DC 13 Constitution saving throw or become poisoned. It can repeat the saving throw at the end of each of its turns, ending the effect on a success.
 
 #### Manticore Variant: Aracnecore
 
@@ -2800,7 +2800,7 @@ In addition, the following replace their equivalent actions:
 
 **Crafting Components:** A quill from a phoenix, pressed in the pages of a spellbook with no fewer than three spells of 7th level or higher, which it consumes in fire over the course of a month.
 
-This swordís blade is plated with alchemical silver, its hilt stylized to resemble an open book from which the blade emerges.
+This sword√≠s blade is plated with alchemical silver, its hilt stylized to resemble an open book from which the blade emerges.
 
 Despite its masterfully-crafted appearance, however, a *cipher sword* is uncomfortable to hold and strangely unwieldy. It has the
 
@@ -2811,11 +2811,11 @@ two-handed and heavy properties and deals 2d8 slashing damage on a hit, but you 
 The cipher sword also has the following properties:
 
 * You are not considered proficient with this weapon.
-* While wielding this weapon, you donít benefit from any feature that would grant you additional attacks.
+* While wielding this weapon, you don√≠t benefit from any feature that would grant you additional attacks.
 
-***Escalation.*** This weapon is immensely powerful for those willing to solve the riddle of its use. Once per week, if youíve successfully reduced a dangerous enemy (as determined by the Narrator) to 0 hit points with it since the last time you finished a long rest, make a DC 14 Intelligence check to meditate on the swordís secrets. On a failure, you gain +1 to future attempts at this check. On a success, your level of mastery increases, you lose any bonus gained from failed attempts, the DC to advance again increases by 4, and the time between
+***Escalation.*** This weapon is immensely powerful for those willing to solve the riddle of its use. Once per week, if you√≠ve successfully reduced a dangerous enemy (as determined by the Narrator) to 0 hit points with it since the last time you finished a long rest, make a DC 14 Intelligence check to meditate on the sword√≠s secrets. On a failure, you gain +1 to future attempts at this check. On a success, your level of mastery increases, you lose any bonus gained from failed attempts, the DC to advance again increases by 4, and the time between
 
-attempts increases by 1 week. If you ever willingly end your attunement to this weapon, you take 8 (4d4) psychic damage that cannot be negated or reduced and lose all mastery youíve gained.
+attempts increases by 1 week. If you ever willingly end your attunement to this weapon, you take 8 (4d4) psychic damage that cannot be negated or reduced and lose all mastery you√≠ve gained.
 
 The levels of mastery are as follows: *Novice:* You now are proficient with this weapon, and it gains the finesse property. However, wielding anything else begins to feel wrong to you, and you suffer disadvantage on all melee weapon attacks made with a different
 
@@ -2841,9 +2841,9 @@ This simple circlet has the color of lightly-rusted iron and is highlighted by a
 
 large violet gem in its center, which appears to contain a slowly-moving metallic fluid.
 
-While attuned to this circlet, you gain a +1 bonus to all saving throws. Additionally, when you fail a saving throw, you can choose to succeed instead. You canít use this property again until the following dawn.
+While attuned to this circlet, you gain a +1 bonus to all saving throws. Additionally, when you fail a saving throw, you can choose to succeed instead. You can√≠t use this property again until the following dawn.
 
-***Curse.*** The true name of the creature who crafted this circlet is forever instilled within it, and it becomes aware of you upon attunement. If that creature forces you to make a saving throw, you automatically fail, and you canít use this circlet to succeed. You can learn the name of the creature with *legend lore* or similar magic. Short of powerful magic (such as *wish*), only the makerís willing touch or death (yours or theirs) allows you to end your attunement to the circlet. If you willingly end your attunement after the makerís death, the circlet loses all magical properties.
+***Curse.*** The true name of the creature who crafted this circlet is forever instilled within it, and it becomes aware of you upon attunement. If that creature forces you to make a saving throw, you automatically fail, and you can√≠t use this circlet to succeed. You can learn the name of the creature with *legend lore* or similar magic. Short of powerful magic (such as *wish*), only the maker√≠s willing touch or death (yours or theirs) allows you to end your attunement to the circlet. If you willingly end your attunement after the maker√≠s death, the circlet loses all magical properties.
 
 #### Crown of the Crystal Sovereign
 
@@ -2851,21 +2851,21 @@ While attuned to this circlet, you gain a +1 bonus to all saving throws. Additio
 
 Unique (uncraftable)
 
-This crown looks like a braid of pure crystal and its front is a set of three pointed, curling spires that give its wearer an imposing, regal silhouette. Once worn by the monarch of an ancient crystal palace deep underground, the crown was lost after its wearerís grasping schemes brought calamity on their people. The power, ambition, and ruthless might of the Crystal Sovereign of Coranaal still lingers, granting the wearer the following properties:
+This crown looks like a braid of pure crystal and its front is a set of three pointed, curling spires that give its wearer an imposing, regal silhouette. Once worn by the monarch of an ancient crystal palace deep underground, the crown was lost after its wearer√≠s grasping schemes brought calamity on their people. The power, ambition, and ruthless might of the Crystal Sovereign of Coranaal still lingers, granting the wearer the following properties:
 
-***Crystal Skin.*** Your skin takes on a jagged, shimmering appearance and feels firm and cold to the touch. You gain +2 to your Armor Class. Additionally, when youíre hit by a ranged spell attack, roll 1d4. On a 3, you are unaffected and the spell is reflected back at its caster, rolling again to see if it hits.
+***Crystal Skin.*** Your skin takes on a jagged, shimmering appearance and feels firm and cold to the touch. You gain +2 to your Armor Class. Additionally, when you√≠re hit by a ranged spell attack, roll 1d4. On a 3, you are unaffected and the spell is reflected back at its caster, rolling again to see if it hits.
 
 ***All-Seeing.*** You gain truesight out to 30 feet. Additionally, you can use this trait to cast *clairvoyance* at will, using the crown as your material component.
 
-***Lord Under The Mountain.*** Your Prestige Rating is increased by 2, or 4 if youíre underground.
+***Lord Under The Mountain.*** Your Prestige Rating is increased by 2, or 4 if you√≠re underground.
 
 ***Regal Bearing.*** A number of times per day equal to your Charisma modifier you can, as an action, target one creature that can see you within 60 feet. It must succeed on a Wisdom saving throw (DC = 8 + your proficiency modifier + your Charisma modifier) or use its next turn to fall prone in supplication, taking no other actions.
 
-Additionally, when youíre targeted with any attack by a creature within 10 feet of you, you can force it to make this saving throw as a reaction. On a failure it has disadvantage on the attack and then falls prone as above.
+Additionally, when you√≠re targeted with any attack by a creature within 10 feet of you, you can force it to make this saving throw as a reaction. On a failure it has disadvantage on the attack and then falls prone as above.
 
-***Greed of Coronaal.*** Itís said that, even as their palace crumbled, the Crystal Sovereign still coveted and guarded their treasures. You can use an action to summon an item from the hoard of Coronaal, an endlessly enormous extra dimensional space that you can access remotely. You instinctively know whatís inside, and when you first access the hoard, roll on Treasure for Challenge Ratings
+***Greed of Coronaal.*** It√≠s said that, even as their palace crumbled, the Crystal Sovereign still coveted and guarded their treasures. You can use an action to summon an item from the hoard of Coronaal, an endlessly enormous extra dimensional space that you can access remotely. You instinctively know what√≠s inside, and when you first access the hoard, roll on Treasure for Challenge Ratings
 
-23-30 to determine whatís already there. This doesnít mean that you have any desire to share, however, and must make a DC 14 Wisdom saving throw to willingly part, even temporarily, with any item that has been in the hoard.
+23-30 to determine what√≠s already there. This doesn√≠t mean that you have any desire to share, however, and must make a DC 14 Wisdom saving throw to willingly part, even temporarily, with any item that has been in the hoard.
 
 You can also use an action to touch an item of up to Large size and send it to the hoard. However, the crown shuns items it deems unworthy, casting them into the Astral Plane if you attempt to store them. This includes magic items of common or uncommon rarity and any mundane items worth less than 500 gp. Additionally, as a security feature, creatures cannot enter this space; even the wearer can only access it remotely.
 
@@ -2873,27 +2873,27 @@ Otherwise, the hoard has the limitations of any other interdimensional space in 
 
 random valuables from the horde are also lost in this way, though the *crown of the crystal sovereign* is otherwise unaffected.
 
-***Curse.*** When you attune to this crown, your Destiny immediately changes to Dominion if itís not already, and you can only fulfill it by reclaiming the Crystal Palace of Coronaal, which is lost to time and overtaken by creatures from the depths. You lose any existing Destiny features. In addition, if you have a chance to advance this Destiny (as determined by the Narrator) and do not take it, you lose all benefits from the crown and suffer a level of strife each week until you pursue the opportunity, at which point you lose all strife gained this way and regain the benefits of the crown. These levels of strife cannot otherwise be removed.
+***Curse.*** When you attune to this crown, your Destiny immediately changes to Dominion if it√≠s not already, and you can only fulfill it by reclaiming the Crystal Palace of Coronaal, which is lost to time and overtaken by creatures from the depths. You lose any existing Destiny features. In addition, if you have a chance to advance this Destiny (as determined by the Narrator) and do not take it, you lose all benefits from the crown and suffer a level of strife each week until you pursue the opportunity, at which point you lose all strife gained this way and regain the benefits of the crown. These levels of strife cannot otherwise be removed.
 
 The crown remains firmly affixed to your head and cannot be removed in any way, nor can your attunement be broken, unless you are beheaded, at which point you can never attune to the item again, even if you are brought back to life. The only other exception is if you reclaim the Crystal Palace and then choose to, in the presence of 4 sentient creatures, formally renounce your title while sitting on the throne of Coronaal, at which point the palace and crown begin to crumble, ending your attunement and destroying the item.
 
 ***Escalation.*** When you fulfill this destiny, the save DC of Regal Bearing and the Armor Class bonus of Crystal Skin increase by 2, while the range of your truesight increases by 60 ft, your Prestige bonus is increased by 2, and you can cast *scrying* at will using the crown as a focus.
 
-#### Gloryís Glaive
+#### Glory√≠s Glaive
 
 *Weapon (glaive), uncommon (400 gp)*
 
-**Crafting Components:** Hair from the mane of a lion, taken while itís feeding on a fresh kill.
+**Crafting Components:** Hair from the mane of a lion, taken while it√≠s feeding on a fresh kill.
 
 A red sash with gold trim adorns the haft of this glaive, the steel head of which is always polished to a mirror shine. The counterweight is made of brass and resembles a snarling lion, giving the
 
 weapon a regal appearance that belies its prideful, capricious nature.
 
-This glaiveís blade is dull, and cannot be sharpened by any whetstone, causing it to deal only 1d6 bludgeoning damage on a hit. As a bonus action, you can attempt to flatter the weapon with a DC 13 Persuasion check. On a failure, you take 1d4 psychic damage that cannot be reduced or negated. On a success, the blade becomes sharp for 10 minutes. While sharp, it deals 1d12 slashing damage, grants +1 to attack and damage rolls made with it, and gains the flamboyant property. If itís used in inglorious ways, such as for the execution of an unarmed foe or being used to cut down brush, it will immediately turn dull and refuse to become sharp until properly placated, as determined by the Narrator.
+This glaive√≠s blade is dull, and cannot be sharpened by any whetstone, causing it to deal only 1d6 bludgeoning damage on a hit. As a bonus action, you can attempt to flatter the weapon with a DC 13 Persuasion check. On a failure, you take 1d4 psychic damage that cannot be reduced or negated. On a success, the blade becomes sharp for 10 minutes. While sharp, it deals 1d12 slashing damage, grants +1 to attack and damage rolls made with it, and gains the flamboyant property. If it√≠s used in inglorious ways, such as for the execution of an unarmed foe or being used to cut down brush, it will immediately turn dull and refuse to become sharp until properly placated, as determined by the Narrator.
 
-You can forgo your journey activity to spend time polishing, admiring, or training with *gloryís glaive* to gain a bonus equal to your Proficiency bonus on Persuasion checks to flatter it for the next 24 hours.
+You can forgo your journey activity to spend time polishing, admiring, or training with *glory√≠s glaive* to gain a bonus equal to your Proficiency bonus on Persuasion checks to flatter it for the next 24 hours.
 
-***Escalation.*** If you strike the killing blow in battle with a mighty or storied foe (as determined by the Narrator) with *gloryís glaive*, its ego can grow a maximum of twice. When its ego grows, its bonus to attack and damage rolls increases by +1, the DC to flatter it increases by 3, and the psychic damage taken on a failure increases by 1d4.
+***Escalation.*** If you strike the killing blow in battle with a mighty or storied foe (as determined by the Narrator) with *glory√≠s glaive*, its ego can grow a maximum of twice. When its ego grows, its bonus to attack and damage rolls increases by +1, the DC to flatter it increases by 3, and the psychic damage taken on a failure increases by 1d4.
 
 #### Ring of Battered Courage
 
@@ -2907,12 +2907,12 @@ This jagged black ring made of volcanic rock is streaked with orange veins and u
 
 purpose) within 5 feet of you, to a maximum of +5.
 
-* When you hit a creature with a melee weapon attack, roll 1d8. Add the result to the attackís damage and gain the same amount of temporary hit points.
+* When you hit a creature with a melee weapon attack, roll 1d8. Add the result to the attack√≠s damage and gain the same amount of temporary hit points.
 
 ***Curse.*** You fail death saving throws on a roll of 12 or lower. Additionally, this ring despises what it sees as cowardice. If you don armor or use a shield defensively, you lose all benefits of this ring for 1 week.
 
-***Escalation.*** When you show extraordinary courage in the face of certain death and emerge victorious, this ringís power can evolve, gaining one of the following features. For each power it gains, the threshold for successful death saving throws increases by 2.
+***Escalation.*** When you show extraordinary courage in the face of certain death and emerge victorious, this ring√≠s power can evolve, gaining one of the following features. For each power it gains, the threshold for successful death saving throws increases by 2.
 
 *Charge Into Danger.* As a bonus action while bloodied, you can move up to your movement speed toward a hostile creature.
 
-*Cowardís Bane.* Creatures never gain advantage from being unseen on attack rolls against you and you always have resistance to poison damage.
+*Coward√≠s Bane.* Creatures never gain advantage from being unseen on attack rolls against you and you always have resistance to poison damage.

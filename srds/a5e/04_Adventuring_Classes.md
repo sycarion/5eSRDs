@@ -3,8 +3,8 @@
 ## Adept 
 
 TABLE: ADEPT
-| Level | Proficiency Bonus | Martial Dice | Features                       | Techniques Known | Focus Known | Bonus Executes | Maneuvers Known | Maneuver Degree |
-|-------|-------------------|--------------|--------------------------------|------------------|-------------|----------------|------------------|-----------------|
+| Level | Proficiency Bonus | Martial Dice | Features | Techniques Known | Focus Known | Bonus Executes | Maneuvers Known | Maneuver Degree |
+|-------|-------------------|--------------|--------------------------------|------------------|-------------|----------------|------------------|---------------|
 | 1st   | +2                | 1d4          | Adroit Defense, Martial Arts  | ---              | ---         | ---            | ---              | ---             |
 | 2nd   | +2                | 1d4          | Combat Maneuvers, Exertion Focus, Practiced Techniques | 1        | ---         | ---            | 2                | 1st             |
 | 3rd   | +2                | 1d4          | Adept Archetype, Battlefield Etiquette | 1        | 1           | ---            | 2                | 1st             |

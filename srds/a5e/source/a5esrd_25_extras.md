@@ -60,7 +60,7 @@ Once you have used this feature you cannot do so again until after you have take
 
 # Necromancer
 
-Necromancy is the practice of death magic–dark magic which calls on the very power of unlife. Necromancers are reviled and feared wherever they go: students of death and masters of the undead, they are able to speak with the dead, create skeletal and zombie minions, and drain the very life force from their foes.
+Necromancy is the practice of death magicÃ±dark magic which calls on the very power of unlife. Necromancers are reviled and feared wherever they go: students of death and masters of the undead, they are able to speak with the dead, create skeletal and zombie minions, and drain the very life force from their foes.
 
 While many necromancers use their powers for good, the practices of commanding undead minions and talking to those who have passed usually evoke revulsion or animosity from those who witness them, often making social encounters uncomfortable. The use of necromantic magic is widely regarded as evil, and the practitioners of it similarly so.
 
@@ -68,7 +68,7 @@ While many necromancers use their powers for good, the practices of commanding u
 
 When you choose this archetype at level 2, your unarmed damage becomes necrotic damage, and you may use your Intelligence bonus instead of your Strength bonus when calculating your unarmed damage.
 
-Additionally, you learn how to use the very life force of your victims. Whenever you deal necrotic damage to a living target with a CR of ¼ or higher, you gain half the damage
+Additionally, you learn how to use the very life force of your victims. Whenever you deal necrotic damage to a living target with a CR of Âº or higher, you gain half the damage
 
 dealt as temporary hit points. You can never have more of these temporary hit points than twice your proficiency bonus, and you may not benefit from temporary hit points from more than one creature at a time.
 
